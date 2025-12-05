@@ -1,0 +1,857 @@
+job	query_epitope	query_allele	label	peptide	pep_len	unit_dist	weighted_dist	n_hits	n_donors	n_tissues	tissues	protected_hits	tolerated_hits	uncertain_hits	protected_tissues_n	tolerated_tissues_n	uncertain_tissues_n	protected_tissues	tolerated_tissues	uncertain_tissues
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVADLVLML	9	3	1.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVMELLVHL	9	3	2.15	3	3	3	Lung,Ovary,Thymus	0	2	1	0	2	1		Ovary,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLAEVVHEL	9	4	1.1	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAELVHAV	9	4	1.25	62	6	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Ovary,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	25	11	26	10	5	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Skin,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAEFIDFL	9	4	1.45	3	3	3	Bone marrow,Ovary,Thymus	1	2	0	1	2	0	Bone marrow	Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVLDFEHFL	9	4	1.55	24	6	16	Adrenal gland,Aorta,Bone marrow,Cerebellum,Colon,Esophagus,Kidney,Lung,Lymph node,Ovary,Spleen,Thymus,Thyroid,Tongue,Trachea,Uterus	10	5	9	5	4	7	Aorta,Bone marrow,Cerebellum,Colon,Kidney	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVVALVHAV	9	4	1.55	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NVAELLHQV	9	4	1.5999999	11	2	11	Aorta,Bone marrow,Colon,Esophagus,Kidney,Liver,Lymph node,Spleen,Thyroid,Tongue,Trachea	5	1	5	5	1	5	Aorta,Bone marrow,Colon,Kidney,Liver	Spleen	Esophagus,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVASLLHQV	9	4	1.5999999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SIAEVVHQL	9	4	1.6	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LVADLVHTV	9	4	1.75	5	2	5	Colon,Kidney,Liver,Lung,Lymph node	3	0	2	3	0	2	Colon,Kidney,Liver		Lung,Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YVADLVHSA	9	4	1.9000001	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MVAEILHHL	9	4	2.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAEGVQLL	9	4	2.05	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMAEMLVEL	9	4	2.35	5	4	5	Adrenal gland,Bone marrow,Lung,Ovary,Thymus	1	2	2	1	2	2	Bone marrow	Ovary,Thymus	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAELEEAL	9	4	2.35	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVDEIVVL	8	4	2.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVQEQVHKV	9	4	2.3999999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVDEAVAVL	9	4	2.4499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVASLVIFV	9	4	2.6	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GLAELGHRL	9	4	2.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVAEFVQSL	9	4	2.8500001	1	1	1	Colon	1	0	0	1	0	0	Colon		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VLAELVAKL	9	4	2.9	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QVAERVEAL	9	4	3.1	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVAVLPHIL	9	4	3.1	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVAELFQRL	9	4	3.1000001	19	2	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	PYAERVYFL	9	4	3.1000001	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVAELNYGL	9	4	3.4499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GVEEVHEL	8	4	3.75	1	1	1	Small intestine	1	0	0	1	0	0	Small intestine		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YLADLYHFV	9	5	1.4499999	30	6	14	Adrenal gland,Bone marrow,Colon,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Thymus,Tongue,Uterus	12	8	10	6	4	4	Bone marrow,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Lymph node,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RIAEVAKL	8	5	1.5	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIDLEHLL	9	5	1.6	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIAESIPYL	9	5	1.7	3	2	2	Adrenal gland,Ovary	0	1	2	0	1	1		Ovary	Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVIEINPYL	9	5	1.8499999	46	6	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	19	11	16	9	5	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HPAELYRAL	9	5	1.85	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAEALPSL	9	5	1.8500001	2	2	2	Spleen,Thymus	0	2	0	0	2	0		Spleen,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEAEIIKQL	9	5	1.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLADLVHHV	9	5	1.9	22	6	13	Adrenal gland,Aorta,Bone marrow,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Spleen,Thymus,Thyroid,Trachea	5	7	10	4	3	6	Aorta,Bone marrow,Kidney,Liver	Ovary,Spleen,Thymus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAGYLHTL	9	5	2.0	3	2	2	Cerebellum,Liver	3	0	0	2	0	0	Cerebellum,Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ESADLIHWL	9	5	2.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVADYIPQL	9	5	2.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVAMYVHAY	9	5	2.05	3	2	3	Lung,Spleen,Thymus	0	2	1	0	2	1		Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAELIQAL	9	5	2.05	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TIAQLVHAV	9	5	2.05	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FLADYVHSL	9	5	2.1	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLAELEEFI	9	5	2.1	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KISEVVELL	9	5	2.1499999	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RAAEQAHL	8	5	2.15	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLAELGLHL	9	5	2.15	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAEKLTIL	9	5	2.1999998	5	4	4	Bone marrow,Lung,Ovary,Thymus	1	3	1	1	2	1	Bone marrow	Ovary,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVANVAKFL	9	5	2.2	1	1	1	Colon	1	0	0	1	0	0	Colon		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIDDVHRL	9	5	2.2	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLAELLVLL	9	5	2.2	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YVIELQHVV	9	5	2.2499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KAVEDIHGL	9	5	2.25	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEIEAMHSL	9	5	2.25	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLWELLYKL	9	5	2.35	5	5	3	Ovary,Spleen,Thymus	0	5	0	0	3	0		Ovary,Spleen,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KILEEAHEL	9	5	2.3500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVSSVVHYL	9	5	2.3999999	6	1	6	Bone marrow,Liver,Lung,Pancreas,Spleen,Trachea	3	1	2	3	1	2	Bone marrow,Liver,Pancreas	Spleen	Lung,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KRNDYVHAL	9	5	2.3999999	3	2	2	Liver,Lung	1	0	2	1	0	1	Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QVSNLIHYL	9	5	2.3999999	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFELFLTL	9	5	2.4	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLYELYLQL	9	5	2.4	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLEPVLL	8	5	2.4499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QYASAFHFL	9	5	2.5	7	1	7	Adrenal gland,Kidney,Ovary,Skin,Spleen,Thyroid,Uterus	1	3	3	1	3	3	Kidney	Ovary,Spleen,Uterus	Adrenal gland,Skin,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLAELQEQL	9	5	2.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SAAELRHVM	9	5	2.5	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAAVVNNL	9	5	2.55	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLMELYERL	9	5	2.55	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVALVIHNV	9	5	2.6	5	1	5	Cerebellum,Liver,Lung,Lymph node,Pancreas	3	0	2	3	0	2	Cerebellum,Liver,Pancreas		Lung,Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVAEITKQL	9	5	2.6	2	1	2	Esophagus,Tongue	0	0	2	0	0	2			Esophagus,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LVATAVHAY	9	5	2.6499999	2	1	2	Liver,Spleen	1	1	0	1	1	0	Liver	Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAEFVQSL	9	5	2.7	39	6	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	15	9	15	9	5	7	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAVLLVTL	9	5	2.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVMNVVHQL	9	5	2.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVLDLKINL	9	5	2.75	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVAEVFEAL	9	5	2.75	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVLDLRINL	9	5	2.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLGELHTL	9	5	2.8	8	5	7	Adrenal gland,Bone marrow,Lung,Ovary,Spleen,Thymus,Uterus	1	4	3	1	4	2	Bone marrow	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLTENLVAL	9	5	2.8	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KETEIVKKL	9	5	2.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVAEVLQKL	9	5	2.85	2	1	2	Brain,Cerebellum	2	0	0	2	0	0	Brain,Cerebellum		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VLAPLVIYL	9	5	2.85	4	3	4	Lung,Ovary,Spleen,Thymus	0	3	1	0	3	1		Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GLADKVYFL	9	5	2.8500001	47	6	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	19	10	18	9	5	8	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVAALIRSL	9	5	2.8500001	13	1	13	Bone marrow,Brain,Cerebellum,Esophagus,Kidney,Liver,Lung,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	6	2	5	6	2	5	Bone marrow,Brain,Cerebellum,Kidney,Liver,Pancreas	Spleen,Testis	Esophagus,Lung,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIEKNYFL	9	5	2.8500001	10	5	6	Adrenal gland,Kidney,Lung,Ovary,Spleen,Thymus	1	5	4	1	3	2	Kidney	Ovary,Spleen,Thymus	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MVADVHRTL	9	5	2.8500001	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVAEQIPLL	9	5	2.8999999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVVALLHTL	9	5	2.9	8	2	8	Brain,Cerebellum,Colon,Esophagus,Lung,Testis,Thyroid,Tongue	3	1	4	3	1	4	Brain,Cerebellum,Colon	Testis	Esophagus,Lung,Thyroid,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLGEFVVTL	9	5	2.9	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLASTLVHL	9	5	2.9	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVIALLHSL	9	5	2.9	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVHDLVLYL	9	5	2.9499998	31	6	18	Adrenal gland,Aorta,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Spleen,Testis,Thymus,Tongue,Trachea	13	8	10	8	4	6	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Ovary,Spleen,Testis,Thymus	Adrenal gland,Esophagus,Lung,Lymph node,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVAQLDQLL	9	5	2.9499998	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HVANIVEKL	9	5	2.95	18	2	18	Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	8	8	2	8	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLAELELEL	9	5	2.95	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SMASLVIFM	9	5	2.95	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVLDKVPFL	9	5	3.0	2	2	1	Bone marrow	2	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLSELEAAL	9	5	3.0	5	4	4	Lung,Ovary,Pancreas,Thymus	1	2	2	1	2	1	Pancreas	Ovary,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVANAVAFI	9	5	3.0	2	1	2	Bone marrow,Spleen	1	1	0	1	1	0	Bone marrow	Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLYERSHKL	9	5	3.0	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVIEAEHTL	9	5	3.0	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIAGYVTHL	9	5	3.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAEEMLGL	9	5	3.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GVMESVIAL	9	5	3.05	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	REAEHLYHTL	10	5	3.05	2	2	2	Spleen,Thymus	0	2	0	0	2	0		Spleen,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVIESVNLL	9	5	3.05	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAKDVASL	9	5	3.05	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEAEFLQKL	9	5	3.1	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQELNYNL	9	5	3.1000001	27	6	15	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Spleen,Thymus,Thyroid	11	6	10	7	3	5	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Ovary,Spleen,Thymus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VLAELAIRL	9	5	3.1000001	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GLAESVSTL	9	5	3.1000001	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQEENHQL	9	5	3.1000001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YMAELIERL	9	5	3.1499999	4	3	4	Bone marrow,Colon,Lung,Ovary	2	1	1	2	1	1	Bone marrow,Colon	Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EAANLFQFL	9	5	3.1499999	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KADKVTML	8	5	3.1499999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVAGRIHAK	9	5	3.1499999	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVAALFKNL	9	5	3.15	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLSENTDFL	9	5	3.15	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQNLNIFL	9	5	3.2	11	6	6	Aorta,Bone marrow,Lung,Ovary,Spleen,Thymus	2	6	3	2	3	1	Aorta,Bone marrow	Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLAELHISL	9	5	3.2	2	2	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SMAELDIKL	9	5	3.2	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEEELLLFW	9	5	3.2499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLAETLVNL	9	5	3.25	22	5	15	Adrenal gland,Bone marrow,Brain,Cerebellum,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Spleen,Thymus,Thyroid,Tongue,Trachea	8	4	10	6	3	6	Bone marrow,Brain,Cerebellum,Kidney,Liver,Pancreas	Ovary,Spleen,Thymus	Adrenal gland,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVAEITGHQL	10	5	3.25	4	1	4	Brain,Cerebellum,Kidney,Liver	4	0	0	4	0	0	Brain,Cerebellum,Kidney,Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYPENFFL	8	5	3.25	6	1	6	Adrenal gland,Kidney,Liver,Lung,Ovary,Pancreas	3	1	2	3	1	2	Kidney,Liver,Pancreas	Ovary	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TEAEGWHFF	9	5	3.2999997	5	3	5	Bone marrow,Lung,Ovary,Spleen,Thymus	1	3	1	1	3	1	Bone marrow	Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVFALIHEL	9	5	3.3	6	1	6	Aorta,Bone marrow,Lung,Pancreas,Spleen,Tongue	3	1	2	3	1	2	Aorta,Bone marrow,Pancreas	Spleen	Lung,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVVQFVHEL	9	5	3.3	5	1	5	Bone marrow,Cerebellum,Kidney,Lung,Spleen	3	1	1	3	1	1	Bone marrow,Cerebellum,Kidney	Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVEQAHFAL	9	5	3.3000002	2	1	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVVKFVNFL	9	5	3.35	6	1	6	Brain,Cerebellum,Liver,Lung,Pancreas,Testis	4	1	1	4	1	1	Brain,Cerebellum,Liver,Pancreas	Testis	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLDENSAFL	9	5	3.3500001	2	2	2	Kidney,Ovary	1	1	0	1	1	0	Kidney	Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAENEITL	9	5	3.3500001	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VLAELNASL	9	5	3.3500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEVVHSVL	8	5	3.3999999	4	2	4	Bone marrow,Colon,Lung,Spleen	2	1	1	2	1	1	Bone marrow,Colon	Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVAEYHYQL	9	5	3.3999999	2	1	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVADPTPFH	9	5	3.4	3	1	3	Small intestine,Spleen,Trachea	1	1	1	1	1	1	Small intestine	Spleen	Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ARAAQVFFL	9	5	3.4499998	4	2	3	Kidney,Lung,Spleen	1	1	2	1	1	1	Kidney	Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QEAGLLQFL	9	5	3.4499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQELENRL	9	5	3.45	13	5	8	Esophagus,Kidney,Lung,Ovary,Pancreas,Spleen,Tongue,Uterus	3	4	6	2	3	3	Kidney,Pancreas	Ovary,Spleen,Uterus	Esophagus,Lung,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLAELDVTL	9	5	3.45	2	2	2	Kidney,Ovary	1	1	0	1	1	0	Kidney	Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAPPLVTL	9	5	3.45	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEALAHRW	8	5	3.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEQELTKKL	9	5	3.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLTELENEL	9	5	3.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVMETFVHL	9	5	3.5	8	5	6	Kidney,Lung,Ovary,Skin,Thymus,Uterus	1	3	4	1	3	2	Kidney	Ovary,Thymus,Uterus	Lung,Skin
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMQEDLVTL	9	5	3.55	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KFPELNYQL	9	5	3.5500002	5	4	3	Lung,Spleen,Thymus	0	2	3	0	2	1		Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVAERLLSL	9	5	3.65	10	2	10	Bone marrow,Cerebellum,Colon,Kidney,Liver,Lung,Pancreas,Spleen,Testis,Trachea	6	2	2	6	2	2	Bone marrow,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Lung,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LLAEKVEQL	9	5	3.65	9	5	5	Adrenal gland,Lung,Ovary,Pancreas,Uterus	1	3	5	1	2	2	Pancreas	Ovary,Uterus	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVPEYVYNL	9	5	3.65	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVAPQVSLL	9	5	3.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KAEGDVAAL	9	5	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SEAEIRVFL	9	5	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAELELEL	9	5	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YFAEKVTSL	9	5	3.75	5	1	5	Aorta,Brain,Esophagus,Lung,Thyroid	2	0	3	2	0	3	Aorta,Brain		Esophagus,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YFAERVTSL	9	5	3.75	3	2	2	Esophagus,Lung	0	0	3	0	0	2			Esophagus,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAERVDRL	9	5	3.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVAFFNNFL	9	5	3.8	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GEALLTHLL	9	5	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEQELQQTL	9	5	3.85	4	3	4	Lung,Ovary,Spleen,Thymus	0	3	1	0	3	1		Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GLAALAVHL	9	5	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVDQEVKL	8	5	3.8500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVLEKVYEL	9	5	3.8500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVEETVYLL	9	5	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YVKLVEAL	8	5	3.9	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVAGVHVK	8	5	3.95	2	1	2	Kidney,Spleen	1	1	0	1	1	0	Kidney	Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KQKLVYIL	8	5	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KAHLGTAL	8	5	3.9999998	2	2	2	Small intestine,Thymus	1	1	0	1	1	0	Small intestine	Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVAPQAPVHFL	11	5	4.0	1	1	1	Colon	1	0	0	1	0	0	Colon		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	IQALHFSL	8	5	4.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TTAELNYGL	9	5	4.0	1	1	1	Bladder	0	0	1	0	0	1			Bladder
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HLAEALHQA	9	6	1.35	5	4	4	Liver,Lung,Ovary,Spleen	1	2	2	1	2	1	Liver	Ovary,Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLADYLHLL	9	6	1.65	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LLADLLHNV	9	6	1.8499999	4	3	3	Bone marrow,Ovary,Spleen	2	2	0	1	2	0	Bone marrow	Ovary,Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLAEAQTYL	9	6	1.8499999	3	3	3	Cerebellum,Ovary,Thymus	1	2	0	1	2	0	Cerebellum	Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQEVLDYL	9	6	1.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KRIDIIHNL	9	6	1.9999998	2	2	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLAEINREFL	10	6	2.0	2	2	1	Spleen	0	2	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLDNLHDL	9	6	2.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HEAEVLKQL	9	6	2.05	11	3	11	Adrenal gland,Aorta,Bone marrow,Brain,Esophagus,Liver,Lung,Ovary,Spleen,Thymus,Thyroid	4	3	4	4	3	4	Aorta,Bone marrow,Brain,Liver	Ovary,Spleen,Thymus	Adrenal gland,Esophagus,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIEILEQL	9	6	2.05	3	3	3	Kidney,Ovary,Thymus	1	2	0	1	2	0	Kidney	Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQDGVHII	9	6	2.05	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFDASHSL	9	6	2.05	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLDEVTYL	9	6	2.1	10	5	5	Brain,Cerebellum,Liver,Small intestine,Thymus	9	1	0	4	1	0	Brain,Cerebellum,Liver,Small intestine	Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEIDSVKYL	9	6	2.1	3	3	3	Liver,Ovary,Thymus	1	2	0	1	2	0	Liver	Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEIDLLKQL	9	6	2.1	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAEVGRVYL	10	6	2.1499999	25	4	11	Adrenal gland,Aorta,Bone marrow,Kidney,Liver,Lung,Ovary,Spleen,Thyroid,Trachea,Uterus	9	7	9	4	3	4	Aorta,Bone marrow,Kidney,Liver	Ovary,Spleen,Uterus	Adrenal gland,Lung,Thyroid,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LLADVTHLL	9	6	2.1499999	3	2	3	Ovary,Spleen,Uterus	0	3	0	0	3	0		Ovary,Spleen,Uterus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KALDLSLYL	9	6	2.1499999	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLDSMHDL	9	6	2.15	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYLGQLHYL	9	6	2.2	8	1	8	Adrenal gland,Cerebellum,Kidney,Liver,Lung,Spleen,Thyroid,Uterus	3	2	3	3	2	3	Cerebellum,Kidney,Liver	Spleen,Uterus	Adrenal gland,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLDLLEGL	9	6	2.2	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLTEILELL	9	6	2.2	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVLDVLWEL	9	6	2.25	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KAANAFHVY	9	6	2.25	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEGEIIHLI	9	6	2.2999997	3	3	3	Lung,Ovary,Thymus	0	2	1	0	2	1		Ovary,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLDLMPRL	9	6	2.3	7	4	6	Bone marrow,Liver,Lung,Ovary,Spleen,Thymus	2	3	2	2	3	1	Bone marrow,Liver	Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIIEYSVYL	9	6	2.3	8	3	6	Adrenal gland,Kidney,Lung,Spleen,Testis,Uterus	1	4	3	1	3	2	Kidney	Spleen,Testis,Uterus	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVLGALLFV	9	6	2.3	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RQADFVQVL	9	6	2.3	2	2	2	Thymus,Uterus	0	2	0	0	2	0		Thymus,Uterus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GVVDLLQFY	9	6	2.3	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLADWMATL	9	6	2.3	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLVEGLSAL	9	6	2.3	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLEVYEQL	9	6	2.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLMEEIREL	9	6	2.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVDTVVHYV	9	6	2.3999999	4	4	2	Adrenal gland,Skin	0	0	4	0	0	2			Adrenal gland,Skin
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLHDVEHVL	9	6	2.3999999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AIAEFARSL	9	6	2.4	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLWDLLYKL	9	6	2.4	3	3	3	Ovary,Spleen,Thymus	0	3	0	0	3	0		Ovary,Spleen,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVMEYINRL	9	6	2.4	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEIGAVKYL	9	6	2.4	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVLEALWEL	9	6	2.4	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVIDVVQAL	9	6	2.4499998	10	2	10	Adrenal gland,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Pancreas,Testis,Tongue	5	1	4	5	1	4	Cerebellum,Colon,Kidney,Liver,Pancreas	Testis	Adrenal gland,Esophagus,Lung,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLYEQHHVV	9	6	2.4499998	2	2	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLPLLLLL	9	6	2.4499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAEVLQQL	9	6	2.45	13	5	10	Adrenal gland,Bone marrow,Cerebellum,Colon,Kidney,Liver,Lung,Ovary,Thymus,Thyroid	7	2	4	5	2	3	Bone marrow,Cerebellum,Colon,Kidney,Liver	Ovary,Thymus	Adrenal gland,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLYESLLPFA	10	6	2.5	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLAEQIATL	9	6	2.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMMDFETFL	9	6	2.55	3	2	3	Esophagus,Heart,Muscle	1	0	2	1	0	2	Heart		Esophagus,Muscle
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLTEVHAA	9	6	2.55	2	1	2	Bone marrow,Lung	1	0	1	1	0	1	Bone marrow		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YAAEIASAL	9	6	2.55	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KESEVYKML	9	6	2.55	4	3	4	Lung,Ovary,Spleen,Thymus	0	3	1	0	3	1		Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FAADAVKL	8	6	2.55	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLEDIAVL	9	6	2.55	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLMGQIHQL	9	6	2.55	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ALATLIHQV	9	6	2.6	60	6	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	25	11	24	10	5	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFEAPNFF	9	6	2.6	7	2	7	Bone marrow,Liver,Lung,Lymph node,Small intestine,Spleen,Thymus	3	2	2	3	2	2	Bone marrow,Liver,Small intestine	Spleen,Thymus	Lung,Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVADKIHSV	9	6	2.6	10	5	9	Adrenal gland,Kidney,Lung,Ovary,Skin,Thymus,Thyroid,Tongue,Uterus	1	3	6	1	3	5	Kidney	Ovary,Thymus,Uterus	Adrenal gland,Lung,Skin,Thyroid,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLEFQLAL	9	6	2.6	5	5	4	Bone marrow,Ovary,Spleen,Thymus	1	4	0	1	3	0	Bone marrow	Ovary,Spleen,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLAPFVYLL	9	6	2.6	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLGDFVAAL	9	6	2.6	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLADDLSTL	9	6	2.6	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFEFMHET	9	6	2.6	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVDGVKLL	8	6	2.6	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLDEAFEFV	9	6	2.6000001	5	4	4	Cerebellum,Lung,Ovary,Thymus	1	2	2	1	2	1	Cerebellum	Ovary,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YCAEIAHNV	9	6	2.6499999	10	3	7	Bone marrow,Cerebellum,Kidney,Liver,Lung,Spleen,Trachea	5	2	3	4	1	2	Bone marrow,Cerebellum,Kidney,Liver	Spleen	Lung,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLAEINEYL	9	6	2.6499999	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFDTQQFL	9	6	2.6499999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQEFLQTL	9	6	2.65	20	5	14	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Thymus,Uterus	9	6	5	7	4	3	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VLAEQLHQA	9	6	2.65	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RIAEFTTNL	9	6	2.65	3	3	3	Lung,Ovary,Thymus	0	2	1	0	2	1		Ovary,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIADPFVL	8	6	2.65	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KILETLYTL	9	6	2.65	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMMENLTTL	9	6	2.65	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLAAISHGL	9	6	2.65	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVLEQLHQA	9	6	2.65	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVIDQIPFL	9	6	2.65	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NLAERIKSL	9	6	2.6999998	5	1	5	Adrenal gland,Bone marrow,Liver,Lung,Spleen	2	1	2	2	1	2	Bone marrow,Liver	Spleen	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLETIDQL	9	6	2.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQDGNHLL	9	6	2.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVIEQLFFV	9	6	2.75	22	5	16	Adrenal gland,Aorta,Bladder,Brain,Cerebellum,Colon,Esophagus,Lung,Ovary,Pancreas,Small intestine,Spleen,Thyroid,Tongue,Trachea,Uterus	6	4	12	6	3	7	Aorta,Brain,Cerebellum,Colon,Pancreas,Small intestine	Ovary,Spleen,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLADKLYNL	9	6	2.75	2	2	2	Kidney,Ovary	1	1	0	1	1	0	Kidney	Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAEMIATL	9	6	2.75	4	3	4	Lung,Ovary,Spleen,Thymus	0	3	1	0	3	1		Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RYAPMVAFF	9	6	2.75	2	1	2	Spleen,Thyroid	0	1	1	0	1	1		Spleen	Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KILDLETQL	9	6	2.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KILEDTQFV	9	6	2.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLTEIRHEV	9	6	2.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLYSVVSQL	9	6	2.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVLDLLVQL	9	6	2.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYITDVVKL	9	6	2.7999997	4	1	4	Cerebellum,Lung,Ovary,Thyroid	1	1	2	1	1	2	Cerebellum	Ovary	Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIGQVHEV	9	6	2.8	33	6	17	Adrenal gland,Aorta,Bladder,Brain,Cerebellum,Esophagus,Heart,Kidney,Liver,Lung,Ovary,Small intestine,Spleen,Thymus,Thyroid,Trachea,Uterus	13	7	13	7	4	6	Aorta,Brain,Cerebellum,Heart,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Thyroid,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LLAEVIENL	9	6	2.8	2	2	1	Bone marrow	2	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMADIEYRL	9	6	2.8	2	2	2	Bone marrow,Ovary	1	1	0	1	1	0	Bone marrow	Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KILEINPKL	9	6	2.8	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLASMLETL	9	6	2.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLAPAQWFL	9	6	2.8000002	2	2	1	Bone marrow	2	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RIAGLAVSL	9	6	2.8000002	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ETADITHAL	9	6	2.85	19	2	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FLADIVQKL	9	6	2.85	14	5	11	Bone marrow,Cerebellum,Kidney,Liver,Lung,Lymph node,Ovary,Spleen,Testis,Thymus,Trachea	5	6	3	4	4	3	Bone marrow,Cerebellum,Kidney,Liver	Ovary,Spleen,Testis,Thymus	Lung,Lymph node,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ILADVVQKL	9	6	2.85	10	4	6	Adrenal gland,Esophagus,Kidney,Liver,Ovary,Testis	4	2	4	2	2	2	Kidney,Liver	Ovary,Testis	Adrenal gland,Esophagus
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GVQDFVPFV	9	6	2.85	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVSDLLHQY	9	6	2.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEISDLHYL	9	6	2.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KITDTLIHL	9	6	2.85	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVIDGLETL	9	6	2.8500001	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYMEDYHQF	9	6	2.8999999	2	1	2	Skin,Thyroid	0	0	2	0	0	2			Skin,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVIETARQL	9	6	2.9	18	2	18	Adrenal gland,Aorta,Bladder,Bone marrow,Cerebellum,Kidney,Liver,Lung,Lymph node,Ovary,Skin,Small intestine,Spleen,Thymus,Thyroid,Tongue,Trachea,Uterus	6	4	8	6	4	8	Aorta,Bone marrow,Cerebellum,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Bladder,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FTADFVRQL	9	6	2.9	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLEVTADL	9	6	2.9	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAEAKFT	8	6	2.9	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLASQVHAA	9	6	2.9	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KQIGLLSFF	9	6	2.9499998	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIEELETL	9	6	2.95	10	6	7	Adrenal gland,Brain,Cerebellum,Lung,Ovary,Spleen,Thymus	3	3	4	2	3	2	Brain,Cerebellum	Ovary,Spleen,Thymus	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEFEKFKFA	9	6	2.95	4	1	4	Adrenal gland,Kidney,Liver,Lung	2	0	2	2	0	2	Kidney,Liver		Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVVDIVAQL	9	6	2.95	3	1	3	Kidney,Liver,Lung	2	0	1	2	0	1	Kidney,Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLADQYPHL	9	6	2.95	2	1	2	Brain,Cerebellum	2	0	0	2	0	0	Brain,Cerebellum		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIFEDIPTL	9	6	2.95	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLESWLTL	9	6	2.95	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAEKIQAL	9	6	2.9999998	4	3	4	Colon,Kidney,Lung,Ovary	2	1	1	2	1	1	Colon,Kidney	Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ILANIVNAL	9	6	2.9999998	3	2	3	Lung,Spleen,Thymus	0	2	1	0	2	1		Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DTAEIFHSA	9	6	3.0	19	2	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MVVDIVQEL	9	6	3.0	18	2	18	Adrenal gland,Aorta,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	8	8	2	8	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QLAQFVHEV	9	6	3.0	19	6	12	Adrenal gland,Bone marrow,Cerebellum,Kidney,Lung,Ovary,Pancreas,Small intestine,Spleen,Thymus,Thyroid,Uterus	7	7	5	5	4	3	Bone marrow,Cerebellum,Kidney,Pancreas,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLSDLQTQL	9	6	3.0	19	6	16	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Spleen,Thymus,Thyroid,Tongue,Uterus	6	4	9	6	4	6	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FLAFILHRL	9	6	3.0	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLDEHIAYL	9	6	3.0	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQENLQQL	9	6	3.0	3	3	3	Lung,Ovary,Thymus	0	2	1	0	2	1		Ovary,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMWEEAIAL	9	6	3.0	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVSDCVHQV	9	6	3.0	2	1	2	Adrenal gland,Lung	0	0	2	0	0	2			Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EAADIVESL	9	6	3.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KILDLETEL	9	6	3.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLHVFLL	8	6	3.0	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLMDLDVEQL	10	6	3.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMFQVHQV	8	6	3.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NLANVVLLL	9	6	3.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SEAPFLHYL	9	6	3.0499997	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLSEIDVAL	9	6	3.05	45	6	20	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Esophagus,Kidney,Lung,Lymph node,Ovary,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	16	11	18	6	5	9	Aorta,Bone marrow,Brain,Cerebellum,Kidney,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLWEGLTEL	9	6	3.05	21	6	13	Aorta,Bone marrow,Cerebellum,Colon,Kidney,Liver,Lung,Lymph node,Ovary,Spleen,Testis,Thymus,Trachea	9	7	5	6	4	3	Aorta,Bone marrow,Cerebellum,Colon,Kidney,Liver	Ovary,Spleen,Testis,Thymus	Lung,Lymph node,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QTAEIFQAL	9	6	3.05	13	2	13	Bone marrow,Cerebellum,Colon,Esophagus,Kidney,Lung,Lymph node,Muscle,Pancreas,Spleen,Thyroid,Tongue,Trachea	5	1	7	5	1	7	Bone marrow,Cerebellum,Colon,Kidney,Pancreas	Spleen	Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLMEQESAL	9	6	3.05	2	2	1	Liver	2	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GLAERISVL	9	6	3.05	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ILADLEDYL	9	6	3.05	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLAGDVHIV	9	6	3.05	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TAADTVIFY	9	6	3.05	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MVLPLLIFV	9	6	3.05	2	2	1	Lung	0	0	2	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVPEVAVYL	9	6	3.05	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LVGEIIRL	8	6	3.05	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLASVIFLL	9	6	3.05	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NLAEFAFSL	9	6	3.0500002	3	2	3	Liver,Lung,Ovary	1	1	1	1	1	1	Liver	Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ETAAIFHYL	9	6	3.1	7	2	7	Bone marrow,Cerebellum,Colon,Liver,Lung,Pancreas,Spleen	5	1	1	5	1	1	Bone marrow,Cerebellum,Colon,Liver,Pancreas	Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LMAEMGVHSV	10	6	3.1	11	3	8	Adrenal gland,Cerebellum,Kidney,Lung,Ovary,Skin,Spleen,Uterus	2	6	3	2	3	3	Cerebellum,Kidney	Ovary,Spleen,Uterus	Adrenal gland,Lung,Skin
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVARILHRV	9	6	3.1	2	1	2	Bone marrow,Lung	1	0	1	1	0	1	Bone marrow		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GVGEVLHVK	9	6	3.1	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KAMDDTFYL	9	6	3.1	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KILAAILHL	9	6	3.1	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLPAIFFL	8	6	3.1	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLISELQKL	9	6	3.1000001	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAEVNTQL	9	6	3.1000001	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLASSLHTL	9	6	3.1000001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ITADVNHNL	9	6	3.1499999	10	2	10	Aorta,Bladder,Cerebellum,Esophagus,Kidney,Liver,Lung,Ovary,Tongue,Trachea	4	1	5	4	1	5	Aorta,Cerebellum,Kidney,Liver	Ovary	Bladder,Esophagus,Lung,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLDSLLLFY	9	6	3.1499999	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVDEFLTYL	9	6	3.1499999	8	5	7	Esophagus,Lung,Ovary,Thymus,Thyroid,Tongue,Uterus	0	3	5	0	3	4		Ovary,Thymus,Uterus	Esophagus,Lung,Thyroid,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQEQIFHL	9	6	3.1499999	5	4	4	Lung,Ovary,Spleen,Thymus	0	4	1	0	3	1		Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AEAEIIQLL	9	6	3.1499999	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAENIDAQL	10	6	3.1499999	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVIDFSHGL	9	6	3.15	19	2	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RAADPLVGVFL	11	6	3.15	4	2	3	Kidney,Liver,Spleen	3	1	0	2	1	0	Kidney,Liver	Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LLAEAKYYL	9	6	3.15	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YLAEVMVRL	9	6	3.15	4	2	3	Lung,Ovary,Spleen	0	3	1	0	2	1		Ovary,Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ALADLMLRL	9	6	3.15	1	1	1	Thyroid	0	0	1	0	0	1			Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQEQLAQL	9	6	3.15	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NAAAVVHHM	9	6	3.15	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ELANLYHHV	9	6	3.1999998	16	2	16	Adrenal gland,Aorta,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Pancreas,Testis,Thyroid,Tongue,Trachea	8	1	7	8	1	7	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Testis	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVAGVANAL	9	6	3.1999998	3	2	2	Bone marrow,Liver	3	0	0	2	0	0	Bone marrow,Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVIPVVQAL	9	6	3.1999998	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ELAQLYHHV	9	6	3.1999998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LAAEVGSAL	9	6	3.1999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NVASIQNYL	9	6	3.1999998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMLEKLPEL	9	6	3.2	15	5	8	Adrenal gland,Kidney,Liver,Lung,Ovary,Spleen,Thyroid,Uterus	3	6	6	2	3	3	Kidney,Liver	Ovary,Spleen,Uterus	Adrenal gland,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLANVVTSL	9	6	3.2	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVVERILFI	9	6	3.2	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VLAPLFVYL	9	6	3.2	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YTADPYHAL	9	6	3.2499998	4	2	4	Kidney,Ovary,Thymus,Uterus	1	3	0	1	3	0	Kidney	Ovary,Thymus,Uterus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVVAGVANAL	10	6	3.2499998	1	1	1	Bladder	0	0	1	0	0	1			Bladder
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVSEVIQGL	9	6	3.25	14	2	14	Aorta,Bone marrow,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	6	2	6	6	2	6	Aorta,Bone marrow,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVMGFGLYL	9	6	3.25	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NLAEDIMRL	9	6	3.25	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVKDLIGFF	9	6	3.25	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ETAAALHAL	9	6	3.25	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FYAHIIPFL	9	6	3.25	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KFIEGVVLQL	10	6	3.25	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYITFSGFL	9	6	3.25	1	1	1	Uterus	0	1	0	0	1	0		Uterus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YVADNFPFY	9	6	3.25	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLSEMSVTL	9	6	3.3	4	3	2	Brain,Cerebellum	4	0	0	2	0	0	Brain,Cerebellum		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RRALLLLLL	9	6	3.3	4	2	4	Adrenal gland,Kidney,Liver,Ovary	2	1	1	2	1	1	Kidney,Liver	Ovary	Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLWEAESKL	9	6	3.3	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMASTLPSL	9	6	3.3	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYQEVTNNL	9	6	3.3	2	1	2	Ovary,Thyroid	0	1	1	0	1	1		Ovary	Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYVYVVTEL	9	6	3.3	2	1	2	Ovary,Thyroid	0	1	1	0	1	1		Ovary	Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIAIQKITL	9	6	3.3	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQEANAQL	9	6	3.3	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQEQLPEL	9	6	3.3	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLVGMSVLL	9	6	3.3	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLETKWTL	9	6	3.3000002	3	2	2	Lung,Pancreas	1	0	2	1	0	1	Pancreas		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLSEIPLTL	9	6	3.3000002	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVFEKATFI	9	6	3.35	19	2	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVINVFHHL	9	6	3.35	9	1	9	Bone marrow,Brain,Cerebellum,Esophagus,Liver,Lung,Lymph node,Spleen,Tongue	4	1	4	4	1	4	Bone marrow,Brain,Cerebellum,Liver	Spleen	Esophagus,Lung,Lymph node,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NEASVLHNL	9	6	3.35	10	3	10	Adrenal gland,Aorta,Bladder,Bone marrow,Esophagus,Liver,Ovary,Spleen,Thymus,Thyroid	3	3	4	3	3	4	Aorta,Bone marrow,Liver	Ovary,Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KFDDGAVFL	9	6	3.35	8	1	8	Adrenal gland,Lung,Lymph node,Ovary,Small intestine,Spleen,Tongue,Uterus	1	3	4	1	3	4	Small intestine	Ovary,Spleen,Uterus	Adrenal gland,Lung,Lymph node,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ELAEIYAKL	9	6	3.35	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HLAEKTSSL	9	6	3.35	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FLATVVTQL	9	6	3.35	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LVANATHIY	9	6	3.35	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NLAAYVPLL	9	6	3.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	REAILQHAW	9	6	3.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RQADKVWRL	9	6	3.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMWEEAISL	9	6	3.3500001	11	5	5	Bone marrow,Lung,Ovary,Spleen,Thymus	3	5	3	1	3	1	Bone marrow	Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLAEVSTRL	9	6	3.3500001	3	2	3	Cerebellum,Lung,Ovary	1	1	1	1	1	1	Cerebellum	Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVVENTHNV	9	6	3.3500001	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KALSIFNEL	9	6	3.3500001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KQFQFGHAL	9	6	3.3999996	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVYDKVDYL	9	6	3.3999999	19	2	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YPASIVHQV	9	6	3.3999999	5	1	5	Brain,Cerebellum,Kidney,Liver,Lung	4	0	1	4	0	1	Brain,Cerebellum,Kidney,Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KATEHLSTL	9	6	3.3999999	7	1	7	Bone marrow,Kidney,Lung,Ovary,Small intestine,Spleen,Trachea	3	2	2	3	2	2	Bone marrow,Kidney,Small intestine	Ovary,Spleen	Lung,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VLADQVWTL	9	6	3.4	32	5	19	Adrenal gland,Bone marrow,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	13	8	11	7	5	7	Bone marrow,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLAATVLL	9	6	3.4	4	4	1	Liver	4	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVAGKIHTV	9	6	3.4	9	5	6	Cerebellum,Kidney,Lung,Ovary,Spleen,Uterus	2	4	3	2	3	1	Cerebellum,Kidney	Ovary,Spleen,Uterus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVILIVPFY	9	6	3.4	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLAESALQL	9	6	3.4	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVSQAGKTL	9	6	3.4000003	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVVEKIHAK	9	6	3.4499998	3	1	3	Lung,Spleen,Uterus	0	2	1	0	2	1		Spleen,Uterus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVSFVIHNL	9	6	3.45	19	2	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVVQFVREL	9	6	3.45	11	2	11	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Lung,Pancreas,Spleen,Tongue	6	1	4	6	1	4	Bone marrow,Brain,Cerebellum,Colon,Kidney,Pancreas	Spleen	Adrenal gland,Esophagus,Lung,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SEAQVQKFL	9	6	3.45	8	3	8	Bone marrow,Esophagus,Liver,Lung,Ovary,Spleen,Thymus,Thyroid	2	3	3	2	3	3	Bone marrow,Liver	Ovary,Spleen,Thymus	Esophagus,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HVPEHAVVL	9	6	3.45	8	3	7	Adrenal gland,Bone marrow,Liver,Lung,Spleen,Thymus,Thyroid	2	2	4	2	2	3	Bone marrow,Liver	Spleen,Thymus	Adrenal gland,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIEKLDIKL	10	6	3.45	8	4	5	Adrenal gland,Bone marrow,Lung,Spleen,Thymus	2	3	3	1	2	2	Bone marrow	Spleen,Thymus	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVVPEMTEIL	10	6	3.45	2	1	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMAGTSVYL	9	6	3.45	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYMTAVVKL	9	6	3.45	2	1	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GYALPHAI	8	6	3.45	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LAALKKAL	8	6	3.45	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVMPSSFFL	9	6	3.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YVEFTRSL	8	6	3.4500003	8	2	5	Adrenal gland,Cerebellum,Kidney,Liver,Lung	6	0	2	3	0	2	Cerebellum,Kidney,Liver		Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVAAASHIY	9	6	3.4999998	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KANEFEFVL	9	6	3.5	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ILAEHLQTL	9	6	3.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLDEEALL	8	6	3.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLDQINLFL	9	6	3.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLSDLDNKL	9	6	3.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLSTVRVFL	9	6	3.5	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMFENEFLL	9	6	3.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVMPQNHSF	9	6	3.5	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MEALHYML	8	6	3.5	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVDQARVFL	9	6	3.5000002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QVIEKTKSL	9	6	3.5000002	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVAKFLSFY	9	6	3.5499997	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLNEMSYEL	9	6	3.55	27	6	14	Adrenal gland,Bone marrow,Brain,Cerebellum,Kidney,Liver,Lung,Ovary,Skin,Small intestine,Spleen,Thymus,Thyroid,Uterus	13	6	8	6	4	4	Bone marrow,Brain,Cerebellum,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Skin,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYPENFFLL	9	6	3.55	19	5	15	Adrenal gland,Aorta,Bone marrow,Cerebellum,Gallbladder,Kidney,Liver,Lung,Ovary,Pancreas,Skin,Spleen,Thymus,Thyroid,Uterus	6	5	8	6	4	5	Aorta,Bone marrow,Cerebellum,Kidney,Liver,Pancreas	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Gallbladder,Lung,Skin,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VLADLKVQL	9	6	3.55	17	5	10	Adrenal gland,Bone marrow,Kidney,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Thymus	6	6	5	4	3	3	Bone marrow,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus	Adrenal gland,Lung,Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	WLAEKLPTL	9	6	3.55	12	5	8	Bone marrow,Liver,Lung,Ovary,Spleen,Thymus,Tongue,Uterus	3	5	4	2	4	2	Bone marrow,Liver	Ovary,Spleen,Thymus,Uterus	Lung,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YLAERIPTL	9	6	3.55	8	4	5	Esophagus,Kidney,Muscle,Thymus,Tongue	3	1	4	1	1	3	Kidney	Thymus	Esophagus,Muscle,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MLAEKLPNL	9	6	3.55	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLPSVTEL	9	6	3.55	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KQVEEIFNL	9	6	3.55	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AQALAHAY	8	6	3.55	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVVHLILFY	9	6	3.55	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQEQEQLL	9	6	3.55	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYIGFLVRL	9	6	3.5500002	6	1	6	Adrenal gland,Kidney,Liver,Ovary,Spleen,Thyroid	2	2	2	2	2	2	Kidney,Liver	Ovary,Spleen	Adrenal gland,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VLAEATIQL	9	6	3.5500002	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ALAEAQAQL	9	6	3.5500002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLTGLVFC	9	6	3.6	2	2	1	Liver	2	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LPAEVLDSL	9	6	3.6	3	1	3	Bone marrow,Lung,Spleen	1	1	1	1	1	1	Bone marrow	Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EIAEIKAQL	9	6	3.6	2	1	2	Cerebellum,Lung	1	0	1	1	0	1	Cerebellum		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HVDLSHNSL	9	6	3.6	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ALAALHVTL	9	6	3.6	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KENEGLHQF	9	6	3.6	2	2	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LEAVHDLL	8	6	3.6	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LLASIVSEL	9	6	3.6	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GVLKSLSFL	9	6	3.6000001	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GLAAFRAFL	9	6	3.6000001	3	3	3	Lung,Ovary,Thymus	0	2	1	0	2	1		Ovary,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVIESLLSL	9	6	3.6000001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVIETLLSL	9	6	3.6000001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFEEFLEL	9	6	3.6000001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVIDLQTRL	9	6	3.6499999	18	5	12	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Thymus	10	4	4	7	3	2	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus	Lung,Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NTATIFHEL	9	6	3.6499999	19	2	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYLEHPLLL	9	6	3.6499999	7	1	7	Adrenal gland,Kidney,Lung,Ovary,Spleen,Thyroid,Uterus	1	3	3	1	3	3	Kidney	Ovary,Spleen,Uterus	Adrenal gland,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FSAEIIYHL	9	6	3.6499999	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVVEVSQEL	9	6	3.6499999	1	1	1	Small intestine	1	0	0	1	0	0	Small intestine		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	REALHEAL	8	6	3.6499999	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVDNLQHLY	9	6	3.6499999	2	1	2	Lung,Thyroid	0	0	2	0	0	2			Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SEAEIFTTL	9	6	3.6499999	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAEGRLYL	9	6	3.65	26	5	18	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Ovary,Pancreas,Spleen,Testis,Tongue,Trachea,Uterus	10	6	10	8	4	6	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Ovary,Spleen,Testis,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MPAETIKEL	9	6	3.65	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVDEGIKTL	9	6	3.65	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QEAEQSKVL	9	6	3.65	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVSPVVHVR	9	6	3.6999998	14	1	14	Adrenal gland,Aorta,Bone marrow,Cerebellum,Kidney,Liver,Lung,Ovary,Skin,Small intestine,Spleen,Thyroid,Trachea,Uterus	6	3	5	6	3	5	Aorta,Bone marrow,Cerebellum,Kidney,Liver,Small intestine	Ovary,Spleen,Uterus	Adrenal gland,Lung,Skin,Thyroid,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AYALLHLLL	9	6	3.6999998	3	1	3	Adrenal gland,Ovary,Spleen	0	2	1	0	2	1		Ovary,Spleen	Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DLAEHHMF	8	6	3.6999998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	IQAGLLSAL	9	6	3.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	IVAAIQHNY	9	6	3.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LDALHQAL	8	6	3.6999998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVTEKLPFY	9	6	3.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVAPEEHPV	9	6	3.7	26	5	14	Adrenal gland,Bladder,Bone marrow,Brain,Cerebellum,Esophagus,Kidney,Liver,Lung,Ovary,Pancreas,Spleen,Trachea,Uterus	9	7	10	6	3	5	Bone marrow,Brain,Cerebellum,Kidney,Liver,Pancreas	Ovary,Spleen,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TAAPVVPEL	9	6	3.7	6	1	6	Bone marrow,Kidney,Lung,Small intestine,Spleen,Uterus	3	2	1	3	2	1	Bone marrow,Kidney,Small intestine	Spleen,Uterus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVDPVNFK	8	6	3.7	3	1	3	Liver,Lung,Uterus	1	1	1	1	1	1	Liver	Uterus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVAGVLPFK	9	6	3.7	2	1	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NAAEITDKL	9	6	3.7	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KADEGLASL	9	6	3.7	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLYESELTL	9	6	3.7	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVIDCVQEL	9	6	3.7	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GLAGAVSEL	9	6	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIYEKTFTL	9	6	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQEELERL	9	6	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYVHLFPKL	9	6	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LLAESTWAL	9	6	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLEEQGIFL	10	6	3.75	30	6	15	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Ovary,Small intestine,Spleen,Thymus,Thyroid,Uterus	12	10	8	7	4	4	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Esophagus,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVDPVNFKL	9	6	3.75	8	4	5	Adrenal gland,Kidney,Liver,Lung,Thyroid	5	0	3	2	0	3	Kidney,Liver		Adrenal gland,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LLAETHYQL	9	6	3.75	4	3	3	Bone marrow,Lung,Ovary	2	1	1	1	1	1	Bone marrow	Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VLASLIIRL	9	6	3.75	5	5	4	Liver,Ovary,Spleen,Thymus	1	4	0	1	3	0	Liver	Ovary,Spleen,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVINVVNRL	9	6	3.75	3	2	3	Colon,Lung,Spleen	1	1	1	1	1	1	Colon	Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KPMEKISL	8	6	3.75	3	1	3	Bone marrow,Lung,Spleen	1	1	1	1	1	1	Bone marrow	Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ENAFLSHVV	9	6	3.75	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ILAAIVNHL	9	6	3.75	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KQIGNVAAL	9	6	3.75	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVVVQVPYL	9	6	3.7500002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KRFEELTNL	9	6	3.8	8	2	8	Bone marrow,Colon,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen	5	1	2	5	1	2	Bone marrow,Colon,Kidney,Liver,Pancreas	Spleen	Lung,Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NVDEAFSSL	9	6	3.8	9	2	9	Bladder,Bone marrow,Brain,Cerebellum,Esophagus,Lung,Ovary,Pancreas,Thyroid	4	1	4	4	1	4	Bone marrow,Brain,Cerebellum,Pancreas	Ovary	Bladder,Esophagus,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LVDRVPTL	8	6	3.8	6	4	4	Kidney,Liver,Ovary,Tongue	4	1	1	2	1	1	Kidney,Liver	Ovary	Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NVNEIFYDL	9	6	3.8	3	1	3	Kidney,Liver,Spleen	2	1	0	2	1	0	Kidney,Liver	Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMDESKHEI	9	6	3.8	12	5	8	Adrenal gland,Kidney,Lung,Ovary,Skin,Spleen,Thyroid,Uterus	1	5	6	1	3	4	Kidney	Ovary,Spleen,Uterus	Adrenal gland,Lung,Skin,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KRQEAIFEL	9	6	3.8	5	3	3	Kidney,Lung,Spleen	1	1	3	1	1	1	Kidney	Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QRALLANAL	9	6	3.8	2	1	2	Cerebellum,Lung	1	0	1	1	0	1	Cerebellum		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLGPSHIL	8	6	3.8	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIREYEQTL	9	6	3.8	4	2	4	Lung,Spleen,Thymus,Uterus	0	3	1	0	3	1		Spleen,Thymus,Uterus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GLASFKSFL	9	6	3.8	3	3	3	Ovary,Thymus,Tongue	0	2	1	0	2	1		Ovary,Thymus	Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVDPLLALL	9	6	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FLAPLLAKL	9	6	3.8	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KELGEGQHFW	10	6	3.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVDAGKVTL	9	6	3.8000002	5	3	5	Liver,Lung,Ovary,Spleen,Thymus	1	3	1	1	3	1	Liver	Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EEANLMKTL	9	6	3.8000002	2	1	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YLAIGIHEL	9	6	3.8000002	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVGVIVRL	8	6	3.8000002	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVYERLTNL	9	6	3.85	16	2	16	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Lung,Lymph node,Pancreas,Spleen,Testis,Tongue,Trachea	7	2	7	7	2	7	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EEASLLHQF	9	6	3.85	14	3	14	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Esophagus,Liver,Lung,Ovary,Small intestine,Spleen,Thymus,Thyroid	6	3	5	6	3	5	Aorta,Bone marrow,Brain,Cerebellum,Liver,Small intestine	Ovary,Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KPFEKFLL	8	6	3.85	3	1	3	Adrenal gland,Liver,Spleen	1	1	1	1	1	1	Liver	Spleen	Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVTEFISKL	9	6	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SAAEPTLAL	9	6	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QSAEIWEKL	9	6	3.8500001	3	1	3	Bone marrow,Cerebellum,Lung	2	0	1	2	0	1	Bone marrow,Cerebellum		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GMAERIPEL	9	6	3.8500001	7	4	6	Adrenal gland,Cerebellum,Lung,Ovary,Skin,Thymus	1	3	3	1	2	3	Cerebellum	Ovary,Thymus	Adrenal gland,Lung,Skin
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIAPNTPQL	9	6	3.8500001	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GLAVFQAFL	9	6	3.8500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GVIEHEHPV	9	6	3.8500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	IKALELDSNL	10	6	3.8500001	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLAKVEQL	9	6	3.8500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RQALKVIFY	9	6	3.8999999	5	2	5	Bone marrow,Liver,Small intestine,Spleen,Thymus	3	2	0	3	2	0	Bone marrow,Liver,Small intestine	Spleen,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KADNVGSAL	9	6	3.8999999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVAEQTPLTAL	11	6	3.8999999	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVASRIAFF	9	6	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LLAERDLYL	9	6	3.9	33	5	15	Adrenal gland,Aorta,Brain,Cerebellum,Esophagus,Kidney,Liver,Lung,Ovary,Small intestine,Spleen,Thyroid,Tongue,Trachea,Uterus	13	7	13	6	3	6	Aorta,Brain,Cerebellum,Kidney,Liver,Small intestine	Ovary,Spleen,Uterus	Adrenal gland,Esophagus,Lung,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KVWAGKFFK	9	6	3.9	4	1	4	Lung,Small intestine,Spleen,Uterus	1	2	1	1	2	1	Small intestine	Spleen,Uterus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LMAPYTPFL	9	6	3.9	3	1	3	Kidney,Lung,Spleen	1	1	1	1	1	1	Kidney	Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LVTEDILKL	9	6	3.9	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QEAEAAQRL	9	6	3.9	3	3	3	Ovary,Spleen,Thymus	0	3	0	0	3	0		Ovary,Spleen,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ALAAEVNRL	9	6	3.9	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLTEENTTL	9	6	3.9	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLTESNQKL	9	6	3.9	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVDAENRL	8	6	3.9	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAESTLQL	9	6	3.9	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVLEKIYEL	9	6	3.9	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVSAVVHEY	9	6	3.9499998	21	4	19	Adrenal gland,Aorta,Bladder,Bone marrow,Cerebellum,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Skin,Small intestine,Spleen,Thymus,Thyroid,Tongue,Trachea,Uterus	6	5	10	6	4	9	Aorta,Bone marrow,Cerebellum,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YEAGIVSFF	9	6	3.9499998	4	2	4	Kidney,Lung,Spleen,Thymus	1	2	1	1	2	1	Kidney	Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KQFEPNDFY	9	6	3.9499998	2	2	2	Spleen,Thymus	0	2	0	0	2	0		Spleen,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KQKVLGKAL	9	6	3.9499998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LQADLEHHF	9	6	3.9499998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ILAEFEMTL	9	6	3.95	23	6	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Testis,Thymus,Thyroid,Trachea,Uterus	10	5	8	7	5	7	Aorta,Bone marrow,Brain,Cerebellum,Colon,Liver,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Thyroid,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLAPPSSTL	9	6	3.95	7	2	7	Adrenal gland,Bone marrow,Kidney,Lung,Spleen,Thymus,Uterus	2	3	2	2	3	2	Bone marrow,Kidney	Spleen,Thymus,Uterus	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLDPYVQRL	9	6	3.95	3	2	3	Kidney,Liver,Lung	2	0	1	2	0	1	Kidney,Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLNPSSHEL	9	6	3.95	2	2	1	Cerebellum	2	0	0	1	0	0	Cerebellum		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KAGPILEL	8	6	3.95	2	1	2	Adrenal gland,Liver	1	0	1	1	0	1	Liver		Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KRASVFVKL	9	6	3.95	2	1	2	Liver,Spleen	1	1	0	1	1	0	Liver	Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFEDELTL	9	6	3.95	3	3	3	Lung,Ovary,Thymus	0	2	1	0	2	1		Ovary,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ILAEEQFIL	9	6	3.95	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AEAEASRL	8	6	3.95	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVYETDVFV	9	6	3.95	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVIDRVTDL	9	6	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVLKVLSL	8	6	3.95	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ILAPLAWDL	9	6	3.95	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KESEVFYEL	9	6	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVANPSGNL	9	6	3.95	1	1	1	Bladder	0	0	1	0	0	1			Bladder
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAPLFFKL	9	6	3.95	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVDLPVTL	8	6	3.9500003	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVLSGVKL	8	6	3.9500003	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	IPAESYTFF	9	6	3.9999998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KESESFVFF	9	6	3.9999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KQKEDNHIF	9	6	3.9999998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVVGLIFRL	9	6	4.0	17	2	17	Aorta,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	7	8	2	7	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VSAVVHEY	8	6	4.0	10	2	10	Adrenal gland,Bone marrow,Kidney,Liver,Lung,Lymph node,Small intestine,Spleen,Thymus,Uterus	4	3	3	4	3	3	Bone marrow,Kidney,Liver,Small intestine	Spleen,Thymus,Uterus	Adrenal gland,Lung,Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DPANIVHDF	9	6	4.0	7	1	7	Adrenal gland,Kidney,Ovary,Skin,Small intestine,Thyroid,Tongue	2	1	4	2	1	4	Kidney,Small intestine	Ovary	Adrenal gland,Skin,Thyroid,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LVTLAAHL	8	6	4.0	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLANETHQL	9	6	4.0	5	4	4	Lung,Ovary,Thymus,Thyroid	0	2	3	0	2	2		Ovary,Thymus	Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LTAEAFGFK	9	6	4.0	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YLARFQLFL	9	6	4.0	3	3	1	Spleen	0	3	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ELAERNAAL	9	6	4.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVADTHLFF	9	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVTQLMMFF	9	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HVNGKVAL	8	6	4.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KRVPLTALL	9	6	4.0	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLDILSYL	9	7	1.25	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIDVNHYA	9	7	1.3	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HVLDVIHEV	9	7	1.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYGDILHVI	9	7	1.7499999	5	1	5	Adrenal gland,Cerebellum,Ovary,Skin,Thyroid	1	1	3	1	1	3	Cerebellum	Ovary	Adrenal gland,Skin,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NVVDVFHAV	9	7	1.8499999	17	1	17	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Esophagus,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	7	2	8	7	2	8	Aorta,Bone marrow,Brain,Cerebellum,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIDSLHSY	9	7	2.1	1	1	1	Uterus	0	1	0	0	1	0		Uterus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLDIRSYL	9	7	2.1499999	7	5	5	Adrenal gland,Bone marrow,Ovary,Spleen,Thymus	2	4	1	1	3	1	Bone marrow	Ovary,Spleen,Thymus	Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLADALQEL	9	7	2.15	4	4	3	Adrenal gland,Ovary,Uterus	0	3	1	0	2	1		Ovary,Uterus	Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NVVDTVVHYV	10	7	2.1999998	2	1	2	Adrenal gland,Bone marrow	1	0	1	1	0	1	Bone marrow		Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIIDIFTTL	9	7	2.2	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLSDVWKEL	9	7	2.3	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HSADVFHTF	9	7	2.35	2	1	2	Lung,Uterus	0	1	1	0	1	1		Uterus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFDSLTLL	9	7	2.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLMDQLEAL	9	7	2.3999999	9	5	6	Bone marrow,Lung,Ovary,Small intestine,Spleen,Thymus	3	4	2	2	3	1	Bone marrow,Small intestine	Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FAADIISVL	9	7	2.4499998	6	3	5	Bone marrow,Kidney,Lung,Spleen,Thymus	2	2	2	2	2	1	Bone marrow,Kidney	Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ALADVATVL	9	7	2.4499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLYDGFQYL	9	7	2.5	25	6	17	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Uterus	12	6	7	8	5	4	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Lung,Lymph node,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYIDFDHVF	9	7	2.6	8	1	8	Adrenal gland,Cerebellum,Kidney,Liver,Lung,Ovary,Spleen,Thyroid	3	2	3	3	2	3	Cerebellum,Kidney,Liver	Ovary,Spleen	Adrenal gland,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLAEIAKVEL	10	7	2.6	10	5	9	Adrenal gland,Bone marrow,Cerebellum,Esophagus,Lung,Lymph node,Ovary,Spleen,Thymus	2	3	5	2	3	4	Bone marrow,Cerebellum	Ovary,Spleen,Thymus	Adrenal gland,Esophagus,Lung,Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FAADIPRIL	9	7	2.6	3	1	3	Adrenal gland,Liver,Lung	1	0	2	1	0	2	Liver		Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLAEIAKAEL	10	7	2.6	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIMDYSLLL	9	7	2.6499999	9	6	7	Adrenal gland,Kidney,Lung,Ovary,Spleen,Thymus,Uterus	1	5	3	1	4	2	Kidney	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KAIDFAASL	9	7	2.65	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLPQLTYL	9	7	2.6999998	26	6	14	Adrenal gland,Bone marrow,Brain,Cerebellum,Kidney,Liver,Lung,Lymph node,Ovary,Spleen,Thymus,Thyroid,Tongue,Trachea	11	7	8	5	3	6	Bone marrow,Brain,Cerebellum,Kidney,Liver	Ovary,Spleen,Thymus	Adrenal gland,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SEADWLRFW	9	7	2.6999998	2	2	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLYPWIHQF	9	7	2.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HTADISHPA	9	7	2.7	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HVIDYILDL	9	7	2.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ALAEIAKAEL	10	7	2.75	12	6	11	Brain,Cerebellum,Esophagus,Lung,Ovary,Skin,Thymus,Thyroid,Tongue,Trachea,Uterus	2	3	7	2	3	6	Brain,Cerebellum	Ovary,Thymus,Uterus	Esophagus,Lung,Skin,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLDQMPSL	9	7	2.7500002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TSADVIQAL	9	7	2.7999997	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVMDEIHTV	9	7	2.8	7	5	7	Adrenal gland,Esophagus,Kidney,Lung,Ovary,Thymus,Uterus	1	3	3	1	3	3	Kidney	Ovary,Thymus,Uterus	Adrenal gland,Esophagus,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAPIIVFV	9	7	2.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVIDVTDFV	9	7	2.85	3	1	3	Bone marrow,Liver,Spleen	2	1	0	2	1	0	Bone marrow,Liver	Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	IAAVIARFY	9	7	2.85	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LAADAFKEL	9	7	2.85	1	1	1	Small intestine	1	0	0	1	0	0	Small intestine		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFNDAIRL	9	7	2.85	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLYDDMIRL	9	7	2.85	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LLADVETFV	9	7	2.8999999	15	4	9	Bone marrow,Kidney,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Uterus	7	5	3	4	3	2	Bone marrow,Kidney,Liver,Small intestine	Ovary,Spleen,Uterus	Lung,Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GVFDGLHTV	9	7	2.8999999	10	6	8	Adrenal gland,Brain,Kidney,Liver,Lung,Ovary,Thymus,Thyroid	3	2	5	3	2	3	Brain,Kidney,Liver	Ovary,Thymus	Adrenal gland,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLHDVELHQV	10	7	2.8999999	6	4	4	Bone marrow,Ovary,Thyroid,Uterus	1	4	1	1	2	1	Bone marrow	Ovary,Uterus	Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KASGIIHSY	9	7	2.8999999	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLADIIARL	9	7	2.9	50	6	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Ovary,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	19	10	21	9	5	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Skin,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLADIAQKL	9	7	2.9	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLASVAQEL	9	7	2.9	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YLADVTNAL	9	7	2.9499998	22	5	14	Bladder,Bone marrow,Colon,Esophagus,Kidney,Lung,Lymph node,Ovary,Skin,Small intestine,Spleen,Thymus,Thyroid,Uterus	7	7	8	4	4	6	Bone marrow,Colon,Kidney,Small intestine	Ovary,Spleen,Thymus,Uterus	Bladder,Esophagus,Lung,Lymph node,Skin,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVTDVMKPL	9	7	2.9499998	1	1	1	Colon	1	0	0	1	0	0	Colon		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLSSYLIFV	9	7	2.9499998	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYLQILTSL	9	7	2.95	2	1	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIQDYQQFY	9	7	2.9999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIDKLDSL	9	7	3.0	17	6	10	Adrenal gland,Cerebellum,Kidney,Liver,Lung,Ovary,Spleen,Thymus,Thyroid,Uterus	4	6	7	3	4	3	Cerebellum,Kidney,Liver	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KFVDSTFYL	9	7	3.0	2	1	2	Ovary,Thyroid	0	1	1	0	1	1		Ovary	Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLVHIEHSV	9	7	3.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MVIDVLHPG	9	7	3.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEDDFLHVY	9	7	3.0499997	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLDKISEL	9	7	3.05	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVTQIYHAV	9	7	3.0999997	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EAADIIQKL	9	7	3.1	18	2	18	Adrenal gland,Aorta,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	8	8	2	8	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TEADIFHQA	9	7	3.1	6	1	6	Adrenal gland,Cerebellum,Kidney,Lung,Spleen,Thyroid	2	1	3	2	1	3	Cerebellum,Kidney	Spleen	Adrenal gland,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LAADQSRAL	9	7	3.1	2	1	2	Lung,Small intestine	1	0	1	1	0	1	Small intestine		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YVVDIFTTL	9	7	3.1	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HAARILANL	9	7	3.1	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YLAAVIEYL	9	7	3.1	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HLADFTPRL	9	7	3.1000001	6	3	3	Lung,Spleen,Uterus	0	3	3	0	2	1		Spleen,Uterus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HLAPYLATL	9	7	3.1000001	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MSADFQHAV	9	7	3.1499999	10	1	10	Adrenal gland,Bladder,Bone marrow,Brain,Cerebellum,Kidney,Liver,Lung,Pancreas,Spleen	6	1	3	6	1	3	Bone marrow,Brain,Cerebellum,Kidney,Liver,Pancreas	Spleen	Adrenal gland,Bladder,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLYKNLLYL	9	7	3.1499999	6	3	5	Adrenal gland,Kidney,Lung,Ovary,Spleen	1	3	2	1	2	2	Kidney	Ovary,Spleen	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVISTLHYF	9	7	3.1499999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLADSLQSL	9	7	3.15	3	2	3	Lung,Ovary,Thyroid	0	1	2	0	1	2		Ovary	Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GVIDFSMYL	9	7	3.15	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GVIDFSLYL	9	7	3.15	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLEVNGVAL	10	7	3.1999998	3	3	2	Bone marrow,Ovary	2	1	0	1	1	0	Bone marrow	Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YLADIFTKL	9	7	3.2	36	6	19	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	14	9	13	8	5	6	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQDQIFNL	9	7	3.2	12	5	8	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Lung,Ovary,Thymus	7	2	3	4	2	2	Bone marrow,Brain,Cerebellum,Colon	Ovary,Thymus	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HAAHIISEL	9	7	3.2	6	1	6	Aorta,Cerebellum,Kidney,Liver,Lung,Testis	4	1	1	4	1	1	Aorta,Cerebellum,Kidney,Liver	Testis	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLYQEILQL	9	7	3.2	3	3	1	Bone marrow	3	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVSDINFTL	9	7	3.2	4	4	3	Bone marrow,Ovary,Thymus	1	3	0	1	2	0	Bone marrow	Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GLADITQQL	9	7	3.2	3	3	3	Bone marrow,Ovary,Thymus	1	2	0	1	2	0	Bone marrow	Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MTADAAKRL	9	7	3.2	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIIQVAVEL	9	7	3.2	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLQDLHEA	9	7	3.2	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	STAAVFHAV	9	7	3.2499998	18	2	18	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	8	8	2	8	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KRGDVIYIL	9	7	3.2499998	2	1	2	Adrenal gland,Liver	1	0	1	1	0	1	Liver		Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KESSFIHYY	9	7	3.2499998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KILDYEVTL	9	7	3.25	30	6	16	Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid	14	8	8	8	4	4	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus	Esophagus,Lung,Lymph node,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLISEMHSF	9	7	3.25	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYLAVRLAL	9	7	3.25	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KRLDIQEAL	9	7	3.2999997	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DPADIIHDF	9	7	3.2999997	1	1	1	Lymph node	0	0	1	0	0	1			Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVTDFLSFY	9	7	3.2999997	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVFNYIHNI	9	7	3.3	19	2	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EAADVWYNL	9	7	3.3	4	1	4	Brain,Cerebellum,Kidney,Testis	3	1	0	3	1	0	Brain,Cerebellum,Kidney	Testis	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLQFYPSL	9	7	3.3	8	5	6	Adrenal gland,Bone marrow,Lung,Ovary,Spleen,Thymus	1	4	3	1	3	2	Bone marrow	Ovary,Spleen,Thymus	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVVDWIHPDL	10	7	3.3	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLNIQQQL	9	7	3.3	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLADSLYNL	9	7	3.3	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVLANIKML	9	7	3.35	8	3	5	Adrenal gland,Heart,Kidney,Liver,Lung	6	0	2	3	0	2	Heart,Kidney,Liver		Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HVDDMPNAL	9	7	3.35	4	2	4	Bone marrow,Colon,Kidney,Spleen	3	1	0	3	1	0	Bone marrow,Colon,Kidney	Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KWFDFKLFF	9	7	3.35	3	1	3	Adrenal gland,Ovary,Spleen	0	2	1	0	2	1		Ovary,Spleen	Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIIKDFYLL	9	7	3.35	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RRAAIAQAL	9	7	3.35	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVLDTNIQL	9	7	3.3500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLADSMPSL	9	7	3.3500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIPQLPTL	9	7	3.3999999	23	6	10	Adrenal gland,Bone marrow,Esophagus,Kidney,Liver,Lung,Ovary,Spleen,Thymus,Uterus	7	10	6	3	4	3	Bone marrow,Kidney,Liver	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Esophagus,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SYADQMFLL	9	7	3.3999999	8	1	8	Adrenal gland,Cerebellum,Kidney,Ovary,Skin,Spleen,Thyroid,Uterus	2	3	3	2	3	3	Cerebellum,Kidney	Ovary,Spleen,Uterus	Adrenal gland,Skin,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLARIFSIL	9	7	3.3999999	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYLTVKDYL	9	7	3.3999999	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EAAAVFKTL	9	7	3.4	18	2	18	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Testis,Thyroid,Tongue,Trachea	8	1	9	8	1	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLVPFATEL	9	7	3.4	3	2	3	Kidney,Small intestine,Spleen	2	1	0	2	1	0	Kidney,Small intestine	Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVKDADGVL	9	7	3.4	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVTSVLEYL	9	7	3.4499998	10	1	10	Bone marrow,Cerebellum,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen,Testis,Thyroid	5	2	3	5	2	3	Bone marrow,Cerebellum,Kidney,Liver,Pancreas	Spleen,Testis	Lung,Lymph node,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KQLDDLKVEL	10	7	3.4499998	9	4	9	Colon,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Thymus,Uterus	3	4	2	3	4	2	Colon,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Lung,Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	IVTDVIATL	9	7	3.4499998	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLNNFNSYL	9	7	3.4499998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVYRNFHYR	9	7	3.4499998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYIDQKFVL	9	7	3.45	11	1	11	Adrenal gland,Cerebellum,Heart,Kidney,Liver,Lung,Ovary,Skin,Spleen,Thyroid,Uterus	4	3	4	4	3	4	Cerebellum,Heart,Kidney,Liver	Ovary,Spleen,Uterus	Adrenal gland,Lung,Skin,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RYASINAHL	9	7	3.45	4	1	4	Kidney,Liver,Lung,Ovary	2	1	1	2	1	1	Kidney,Liver	Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLTDIQIEL	9	7	3.45	2	2	2	Brain,Cerebellum	2	0	0	2	0	0	Brain,Cerebellum		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLHDINAQL	9	7	3.45	6	4	6	Adrenal gland,Bone marrow,Lung,Ovary,Spleen,Thymus	1	3	2	1	3	2	Bone marrow	Ovary,Spleen,Thymus	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MLANDIARL	9	7	3.45	4	3	3	Bone marrow,Lung,Ovary	1	1	2	1	1	1	Bone marrow	Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AMATESILHFA	11	7	3.45	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQDAEIARL	10	7	3.45	2	2	1	Spleen	0	2	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FLADNHHQV	9	7	3.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIPFLEKL	9	7	3.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLSEALEL	9	7	3.45	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SAAMVFSAL	9	7	3.4999998	4	2	4	Skin,Small intestine,Thymus,Trachea	1	1	2	1	1	2	Small intestine	Thymus	Skin,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HAAVRQML	8	7	3.4999998	2	1	2	Liver,Spleen	1	1	0	1	1	0	Liver	Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YVVDKAQLL	9	7	3.4999998	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FLADAKWIL	9	7	3.5	9	4	6	Bone marrow,Kidney,Liver,Lung,Ovary,Spleen	5	3	1	3	2	1	Bone marrow,Kidney,Liver	Ovary,Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVLPQIHTV	9	7	3.5	2	2	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLGDFGLL	8	7	3.5	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLTDYQVTL	9	7	3.5	3	3	3	Adrenal gland,Lung,Ovary	0	1	2	0	1	2		Ovary	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLDVDAPRL	9	7	3.5	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QEAQVLKQL	9	7	3.5	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFNEFIQL	9	7	3.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVVAVGRAL	9	7	3.5	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVSPSIHGY	9	7	3.5499997	8	2	8	Kidney,Liver,Lung,Ovary,Small intestine,Spleen,Thymus,Uterus	3	4	1	3	4	1	Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QVVNIPSFI	9	7	3.5499997	2	1	2	Bone marrow,Spleen	1	1	0	1	1	0	Bone marrow	Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	IPAAILHAF	9	7	3.5499997	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLDYGQHVV	9	7	3.5499997	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NAAKIFNFY	9	7	3.5499997	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FGADARAL	8	7	3.55	4	2	3	Adrenal gland,Liver,Lung	2	0	2	1	0	2	Liver		Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VYAEVSRLLL	10	7	3.55	6	1	6	Adrenal gland,Kidney,Lung,Ovary,Spleen,Thyroid	1	2	3	1	2	3	Kidney	Ovary,Spleen	Adrenal gland,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVMPIAHEF	9	7	3.55	4	1	4	Kidney,Lung,Spleen,Uterus	1	2	1	1	2	1	Kidney	Spleen,Uterus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ETADTAHGV	9	7	3.55	1	1	1	Brain	1	0	0	1	0	0	Brain		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFAIPILL	9	7	3.55	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EIADFFTEL	9	7	3.55	2	1	2	Lung,Trachea	0	0	2	0	0	2			Lung,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYLNIYVGL	9	7	3.5500002	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FLADPSAFV	9	7	3.6	2	2	2	Bone marrow,Ovary	1	1	0	1	1	0	Bone marrow	Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVFPYSVFY	9	7	3.6	3	2	3	Lung,Spleen,Thymus	0	2	1	0	2	1		Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLSQYLIQL	9	7	3.6	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TLADMKVTL	9	7	3.6	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VYADQPHIF	9	7	3.6	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMVSIQITL	9	7	3.6000001	2	2	2	Bone marrow,Ovary	1	1	0	1	1	0	Bone marrow	Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ILADNIPEL	9	7	3.6000001	1	1	1	Brain	1	0	0	1	0	0	Brain		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RLAYINPDL	9	7	3.6000001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SQAIIHQY	8	7	3.6499999	9	2	9	Bone marrow,Kidney,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Thymus	4	3	2	4	3	2	Bone marrow,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus	Lung,Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	IEAIHAIL	8	7	3.6499999	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYLSVQGQL	9	7	3.6499999	1	1	1	Thyroid	0	0	1	0	0	1			Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QLAPFLPQL	9	7	3.6499999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QVLDRYHRF	9	7	3.6499999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVPIAKILL	9	7	3.6499999	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DTAPVIIFV	9	7	3.65	10	2	10	Adrenal gland,Aorta,Bone marrow,Colon,Esophagus,Kidney,Lung,Pancreas,Thyroid,Trachea	5	0	5	5	0	5	Aorta,Bone marrow,Colon,Kidney,Pancreas		Adrenal gland,Esophagus,Lung,Thyroid,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIDGQVIQL	10	7	3.65	8	6	6	Adrenal gland,Lung,Ovary,Spleen,Thymus,Uterus	0	4	4	0	4	2		Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIDRTESL	9	7	3.65	5	5	4	Lung,Ovary,Spleen,Thymus	0	3	2	0	3	1		Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVIDNIMRL	9	7	3.65	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVSVVIHTA	9	7	3.65	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NIAQVLAEL	9	7	3.65	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KESVVFHAY	9	7	3.6999996	4	2	4	Liver,Lung,Ovary,Spleen	1	2	1	1	2	1	Liver	Ovary,Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SQANIAQVL	9	7	3.6999998	16	2	16	Adrenal gland,Aorta,Bone marrow,Cerebellum,Kidney,Liver,Lung,Lymph node,Ovary,Skin,Small intestine,Spleen,Thymus,Tongue,Trachea,Uterus	6	4	6	6	4	6	Aorta,Bone marrow,Cerebellum,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Lymph node,Skin,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EIANILQEL	9	7	3.6999998	6	1	6	Cerebellum,Lung,Pancreas,Spleen,Testis,Tongue	2	2	2	2	2	2	Cerebellum,Pancreas	Spleen,Testis	Lung,Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FLASVSTVL	9	7	3.6999998	6	4	5	Liver,Lung,Ovary,Spleen,Thymus	1	3	2	1	3	1	Liver	Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMFNALIHRY	10	7	3.6999998	3	2	3	Kidney,Spleen,Thymus	1	2	0	1	2	0	Kidney	Spleen,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEQTFYHVA	9	7	3.6999998	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KAVGDGIVL	9	7	3.6999998	2	2	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ALASVIMGL	9	7	3.6999998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEFDHPHVA	9	7	3.7	3	1	3	Adrenal gland,Kidney,Liver	2	0	1	2	0	1	Kidney,Liver		Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EAAMAFAYL	9	7	3.7	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLPFNPQL	9	7	3.7	3	3	2	Ovary,Spleen	0	3	0	0	2	0		Ovary,Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVDDAKVL	8	7	3.7	2	2	2	Adrenal gland,Lung	0	0	2	0	0	2			Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLQDSQNNL	9	7	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLVDKSTEL	9	7	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYPYVAVML	9	7	3.7	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RYASINTHL	9	7	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LVPSVLHSY	9	7	3.7499998	4	1	4	Adrenal gland,Bone marrow,Lymph node,Small intestine	2	0	2	2	0	2	Bone marrow,Small intestine		Adrenal gland,Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YSAAILEYL	9	7	3.7499998	2	1	2	Bone marrow,Spleen	1	1	0	1	1	0	Bone marrow	Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEQGVLSFW	9	7	3.7499998	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HVDAHATL	8	7	3.7499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KADDPYAHL	9	7	3.7499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KFLASVSTVL	10	7	3.7499998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EIADKIYNL	9	7	3.75	2	1	2	Brain,Cerebellum	2	0	0	2	0	0	Brain,Cerebellum		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GLAGDNIYL	9	7	3.75	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVFDNLIQL	9	7	3.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SQAPLLRWVL	10	7	3.75	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HTAIGAHPV	9	7	3.7500002	2	1	2	Esophagus,Liver	1	0	1	1	0	1	Liver		Esophagus
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KAVNPGRSL	9	7	3.7500002	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLLRLPSL	9	7	3.7500002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QVFEGHTHYV	10	7	3.8	4	1	4	Bone marrow,Kidney,Liver,Lung	3	0	1	3	0	1	Bone marrow,Kidney,Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLWADRISL	9	7	3.8	3	3	3	Bone marrow,Ovary,Thymus	1	2	0	1	2	0	Bone marrow	Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EIAAITHGA	9	7	3.8	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	DVSKVIAYL	9	7	3.8	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ILAQEIHDV	9	7	3.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KEQDVEKEL	9	7	3.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KSVDPTLAL	9	7	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AEANVMKTL	9	7	3.8000002	5	3	5	Liver,Lung,Ovary,Spleen,Thymus	1	3	1	1	3	1	Liver	Ovary,Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GLAKSIHHA	9	7	3.8000002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SEAFVIKGL	9	7	3.8000002	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FTADVRSVL	9	7	3.8499997	15	2	15	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen,Testis,Tongue,Trachea	7	2	6	7	2	6	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Esophagus,Lung,Lymph node,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YVDPVNKVL	9	7	3.85	15	2	15	Adrenal gland,Bone marrow,Kidney,Liver,Lung,Lymph node,Ovary,Skin,Small intestine,Spleen,Thymus,Thyroid,Tongue,Trachea,Uterus	4	4	7	4	4	7	Bone marrow,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KELDPIQKL	9	7	3.85	2	1	2	Liver,Tongue	1	0	1	1	0	1	Liver		Tongue
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVLQNFSFK	9	7	3.85	1	1	1	Small intestine	1	0	0	1	0	0	Small intestine		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVVDNLLFK	9	7	3.85	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FLASILEEL	9	7	3.85	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	IGAYAKAL	8	7	3.85	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVVKVLTEL	9	7	3.85	1	1	1	Testis	0	1	0	0	1	0		Testis	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TTAYIHHAV	9	7	3.85	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLASVFVRL	9	7	3.8500001	6	4	4	Bone marrow,Liver,Lung,Ovary	4	1	1	2	1	1	Bone marrow,Liver	Ovary	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVTDYGKDL	9	7	3.8500001	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVLYKYKLL	9	7	3.8999999	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KNVFDEAIL	9	7	3.8999999	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FLAEAELLNL	10	7	3.9	5	4	4	Adrenal gland,Kidney,Liver,Lung	2	0	3	2	0	2	Kidney,Liver		Adrenal gland,Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	QEAQIMKKL	9	7	3.9	2	2	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VLADQEVRL	9	7	3.9	2	2	1	Lymph node	0	0	2	0	0	1			Lymph node
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FAAMEAAAL	9	7	3.9	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYMPHAVL	8	7	3.9	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MAAVKQAL	8	7	3.9	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KMFSDEILL	9	7	3.9499998	5	4	5	Bone marrow,Lung,Ovary,Thymus,Uterus	1	3	1	1	3	1	Bone marrow	Ovary,Thymus,Uterus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIPVSAFLL	9	7	3.9499998	5	5	3	Lung,Ovary,Thymus	0	2	3	0	2	1		Ovary,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYNDNFFGL	9	7	3.9499998	3	1	3	Ovary,Spleen,Thyroid	0	2	1	0	2	1		Ovary,Spleen	Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	ELAPSIFFY	9	7	3.9499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVMPDLYFY	9	7	3.9499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KQFGNILIL	9	7	3.9499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KQYPISLVL	9	7	3.9499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MVVSDFHVF	9	7	3.9499998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RVDPANFPL	9	7	3.9499998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVIPNSHVY	9	7	3.9499998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVIGNIGAL	9	7	3.9499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	HTALNTHSV	9	7	3.95	4	1	4	Bone marrow,Kidney,Liver,Lung	3	0	1	3	0	1	Bone marrow,Kidney,Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	NVLPVFDNL	9	7	3.95	5	4	4	Adrenal gland,Kidney,Liver,Ovary	2	1	2	2	1	1	Kidney,Liver	Ovary	Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVIIPIKKL	9	7	3.9500003	5	1	5	Cerebellum,Kidney,Thyroid,Tongue,Trachea	2	0	3	2	0	3	Cerebellum,Kidney		Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KSDVHLNFY	9	7	3.9999998	11	1	11	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Esophagus,Liver,Lung,Spleen,Thyroid	5	1	5	5	1	5	Aorta,Bone marrow,Brain,Cerebellum,Liver	Spleen	Adrenal gland,Bladder,Esophagus,Lung,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LVDDNYFYL	9	7	3.9999998	3	2	3	Lung,Small intestine,Uterus	1	1	1	1	1	1	Small intestine	Uterus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVSGINHGV	9	7	3.9999998	2	2	2	Aorta,Ovary	1	1	0	1	1	0	Aorta	Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GQAHAGHYY	9	7	3.9999998	2	1	2	Spleen,Uterus	0	2	0	0	2	0		Spleen,Uterus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KTIDKKTFY	9	7	3.9999998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	TVYDRTTVL	9	7	3.9999998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KRFQVAVNL	9	7	4.0	25	3	19	Adrenal gland,Aorta,Bladder,Bone marrow,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea,Uterus	10	5	10	7	4	8	Aorta,Bone marrow,Cerebellum,Colon,Kidney,Liver,Pancreas	Ovary,Spleen,Testis,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVFPTQHVV	9	7	4.0	6	1	6	Bone marrow,Brain,Cerebellum,Kidney,Liver,Lung	5	0	1	5	0	1	Bone marrow,Brain,Cerebellum,Kidney,Liver		Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FAAGIIAHL	9	7	4.0	6	2	6	Bone marrow,Colon,Liver,Lung,Pancreas,Spleen	4	1	1	4	1	1	Bone marrow,Colon,Liver,Pancreas	Spleen	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	YAAQASQAL	9	7	4.0	6	2	6	Adrenal gland,Lung,Small intestine,Spleen,Thymus,Trachea	1	2	3	1	2	3	Small intestine	Spleen,Thymus	Adrenal gland,Lung,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	VVINPYKNL	9	7	4.0	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYIGENLQL	9	7	4.0	4	1	4	Adrenal gland,Ovary,Spleen,Thyroid	0	2	2	0	2	2		Ovary,Spleen	Adrenal gland,Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFDRPQEL	9	7	4.0	5	4	3	Lung,Ovary,Thymus	0	3	2	0	2	1		Ovary,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	GLADLSELQL	10	7	4.0	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KETNIAVFW	9	7	4.0	2	2	2	Spleen,Thymus	0	2	0	0	2	0		Spleen,Thymus	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SLAETDKITL	10	7	4.0	2	2	2	Adrenal gland,Ovary	0	1	1	0	1	1		Ovary	Adrenal gland
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	AVFDQIIEL	9	7	4.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	EVYKRAKAL	9	7	4.0	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KADDDGIYL	9	7	4.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KIINQRLIL	9	7	4.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFDRSVDL	9	7	4.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFGEKTYL	9	7	4.0	1	1	1	Esophagus	0	0	1	0	0	1			Esophagus
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLIQSEVAL	9	7	4.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLSRYLTL	9	7	4.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLTPVSAQL	9	7	4.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYFSFPVFF	9	7	4.0	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	SVLDQKILL	9	7	4.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	RIADGTMAFM	10	8	3.2	2	1	2	Kidney,Liver	2	0	0	2	0	0	Kidney,Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFDASPTFF	10	8	3.4999998	3	2	3	Lung,Spleen,Thymus	0	2	1	0	2	1		Spleen,Thymus	Lung
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	MTADGILHTV	10	8	3.5499997	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLFNAIIHKY	10	8	3.6	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLPGDIHQI	10	8	3.75	3	3	3	Ovary,Thyroid,Uterus	0	2	1	0	2	1		Ovary,Uterus	Thyroid
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLLDQMETPL	10	8	3.85	2	2	1	Bone marrow	2	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	LDADYPLRVL	10	8	3.85	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	FVADGIFKAEL	11	8	3.8999999	4	2	4	Colon,Lung,Lymph node,Trachea	1	0	3	1	0	3	Colon		Lung,Lymph node,Trachea
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KYLSIPAVFF	10	8	3.9	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KAVDWWALGVL	11	8	3.9	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_112_A02_KVAELVHFL_on	KVAELVHFL	A*02:01	union	KLADFGFGNFY	11	8	3.95	1	1	1	Lung	0	0	1	0	0	1			Lung

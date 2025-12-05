@@ -1,0 +1,366 @@
+job	query_epitope	query_allele	label	peptide	pep_len	unit_dist	weighted_dist	n_hits	n_donors	n_tissues	tissues	protected_hits	tolerated_hits	uncertain_hits	protected_tissues_n	tolerated_tissues_n	uncertain_tissues_n	protected_tissues	tolerated_tissues	uncertain_tissues
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVLDFITHLY	10	3	2.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YVDSEGHLY	9	3	2.75	13	4	11	Aorta,Bladder,Colon,Esophagus,Heart,Lung,Testis,Thymus,Thyroid,Tongue,Trachea	3	3	7	3	2	6	Aorta,Colon,Heart	Testis,Thymus	Bladder,Esophagus,Lung,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	RVDPIGPLSY	10	3	2.85	12	5	11	Adrenal gland,Aorta,Bone marrow,Cerebellum,Colon,Esophagus,Gallbladder,Lung,Thymus,Thyroid,Trachea	4	2	6	4	1	6	Aorta,Bone marrow,Cerebellum,Colon	Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Thyroid,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	NVDPVQHTY	9	4	2.4	35	7	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	15	4	16	9	3	10	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EIDKNDHLY	9	4	2.45	12	6	10	Adrenal gland,Colon,Gallbladder,Liver,Lung,Testis,Thymus,Thyroid,Tongue,Trachea	2	3	7	2	2	6	Colon,Liver	Testis,Thymus	Adrenal gland,Gallbladder,Lung,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VSDPVGVLY	9	4	2.6499999	7	4	6	Bone marrow,Colon,Lung,Thymus,Thyroid,Trachea	2	2	3	2	1	3	Bone marrow,Colon	Thymus	Lung,Thyroid,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YTDPVGVLY	9	4	2.6499999	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VVDNLQHLY	9	4	2.6999998	5	4	4	Lung,Thymus,Thyroid,Tongue	0	2	3	0	1	3		Thymus	Lung,Thyroid,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VLDFITHLY	9	4	2.7	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVAPAGASY	9	4	2.8	3	2	3	Esophagus,Spleen,Thymus	0	2	1	0	2	1		Spleen,Thymus	Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEVDVPIKLY	10	4	3.15	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ESDPIVAQY	9	4	3.2	14	4	8	Aorta,Bone marrow,Esophagus,Heart,Muscle,Skin,Thyroid,Tongue	5	0	9	3	0	5	Aorta,Bone marrow,Heart		Esophagus,Muscle,Skin,Thyroid,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	GVDNPGHPY	9	4	3.4	3	3	2	Bladder,Brain	2	0	1	1	0	1	Brain		Bladder
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	GVDVTGPHLY	10	4	3.4	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVPEIIPLY	9	4	3.4	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AVDPTSGQLY	10	4	3.45	43	7	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	20	8	15	9	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVLQPIGLTY	10	4	3.45	4	1	4	Lymph node,Spleen,Tongue,Trachea	0	1	3	0	1	3		Spleen	Lymph node,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VVDRIFSLY	9	4	3.45	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FTDVIGHY	8	4	3.5	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEDPNTHILY	10	4	3.5	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	HVDEIKELY	9	4	3.7	22	7	16	Adrenal gland,Aorta,Bladder,Cerebellum,Colon,Gallbladder,Heart,Liver,Lung,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	6	5	11	5	3	8	Aorta,Cerebellum,Colon,Heart,Liver	Spleen,Testis,Thymus	Adrenal gland,Bladder,Gallbladder,Lung,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVDPDTILK	9	4	3.7	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELDRFMHYY	9	5	2.4499998	11	6	6	Adrenal gland,Bone marrow,Kidney,Liver,Spleen,Thymus	5	4	2	3	2	1	Bone marrow,Kidney,Liver	Spleen,Thymus	Adrenal gland
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EMDAALHYY	9	5	2.45	6	3	4	Brain,Colon,Thyroid,Tongue	2	0	4	2	0	2	Brain,Colon		Thyroid,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FVEPVGLNY	9	5	2.7	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FVEPVGLN	8	5	2.75	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EIDFLTALY	9	5	2.75	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	NIDPITMAY	9	5	2.8500001	37	5	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Testis,Thyroid,Tongue,Trachea	16	3	18	9	1	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EYTSILHLF	9	5	2.8999999	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EDFVGHQV	8	5	2.9499998	1	1	1	Pancreas	1	0	0	1	0	0	Pancreas		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	IVIPLGIIY	9	5	2.9499998	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	HIDVGGHMY	9	5	2.95	16	7	13	Adrenal gland,Bone marrow,Cerebellum,Colon,Esophagus,Gallbladder,Liver,Lung,Skin,Thymus,Thyroid,Tongue,Trachea	4	2	10	4	1	8	Bone marrow,Cerebellum,Colon,Liver	Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVKDSLGVY	9	5	2.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DVDIRKDLY	9	5	3.05	5	3	5	Adrenal gland,Bladder,Bone marrow,Pancreas,Spleen	2	1	2	2	1	2	Bone marrow,Pancreas	Spleen	Adrenal gland,Bladder
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ILDDIGHGV	9	5	3.05	2	1	2	Adrenal gland,Thyroid	0	0	2	0	0	2			Adrenal gland,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ERIELGLLY	9	5	3.1	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELNDQIGLW	9	5	3.1000001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FMDPASALY	9	5	3.15	15	7	9	Adrenal gland,Bone marrow,Colon,Kidney,Liver,Lung,Spleen,Thymus,Thyroid	7	5	3	4	2	3	Bone marrow,Colon,Kidney,Liver	Spleen,Thymus	Adrenal gland,Lung,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VVDPLNGWMY	10	5	3.15	5	4	3	Lung,Thymus,Thyroid	0	2	3	0	1	2		Thymus	Lung,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LADSFRHLY	9	5	3.1999998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EELAQGRLY	9	5	3.25	3	1	3	Bone marrow,Liver,Thyroid	2	0	1	2	0	1	Bone marrow,Liver		Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELDPTNMTY	9	5	3.25	2	2	2	Liver,Thymus	1	1	0	1	1	0	Liver	Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	STDPQHHAY	9	5	3.2500002	1	1	1	Aorta	1	0	0	1	0	0	Aorta		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AVDPAILLI	9	5	3.3	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	NTDPSGSYY	9	5	3.35	18	5	11	Adrenal gland,Colon,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen,Thyroid	8	3	7	5	1	5	Colon,Heart,Kidney,Liver,Pancreas	Spleen	Adrenal gland,Gallbladder,Lung,Lymph node,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AVTVSGHVY	9	5	3.35	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	IADMGHLKY	9	5	3.3500001	12	7	10	Aorta,Bone marrow,Colon,Esophagus,Liver,Lung,Thymus,Thyroid,Tongue,Trachea	4	2	6	4	1	5	Aorta,Bone marrow,Colon,Liver	Thymus	Esophagus,Lung,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FVDPLVTNY	9	5	3.3500001	11	5	9	Bone marrow,Colon,Gallbladder,Lung,Lymph node,Spleen,Thymus,Thyroid,Trachea	2	4	5	2	2	5	Bone marrow,Colon	Spleen,Thymus	Gallbladder,Lung,Lymph node,Thyroid,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELDPQSSNLY	10	5	3.3999999	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DTDSINLY	8	5	3.3999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	NSDPNLHLL	9	5	3.4	3	1	3	Adrenal gland,Esophagus,Trachea	0	0	3	0	0	3			Adrenal gland,Esophagus,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVFETIIHSY	10	5	3.45	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVFPLAMNY	9	5	3.5	4	1	4	Aorta,Heart,Skin,Spleen	2	1	1	2	1	1	Aorta,Heart	Spleen	Skin
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	RVDPAKGLFY	10	5	3.5	3	3	2	Lung,Thymus	0	2	1	0	1	1		Thymus	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LLDISGVLY	9	5	3.5	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AQDSRGHIY	9	5	3.5	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	NVDFAFSLY	9	5	3.5000002	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TVDRVVLLY	9	5	3.5000002	2	2	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LPDEIYHVY	9	5	3.55	11	1	11	Adrenal gland,Aorta,Esophagus,Heart,Muscle,Skin,Small intestine,Spleen,Testis,Thyroid,Trachea	3	2	6	3	2	6	Aorta,Heart,Small intestine	Spleen,Testis	Adrenal gland,Esophagus,Muscle,Skin,Thyroid,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YLDNVIGHSY	10	5	3.55	4	3	3	Bone marrow,Lung,Thymus	1	2	1	1	1	1	Bone marrow	Thymus	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELDPDNETY	9	5	3.55	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TVDQVKDLY	9	5	3.5500002	28	5	15	Aorta,Bone marrow,Colon,Esophagus,Heart,Liver,Lung,Lymph node,Skin,Small intestine,Spleen,Testis,Thyroid,Tongue,Trachea	12	4	12	6	2	7	Aorta,Bone marrow,Colon,Heart,Liver,Small intestine	Spleen,Testis	Esophagus,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ATDLAQHLY	9	5	3.5500002	13	5	11	Adrenal gland,Aorta,Bone marrow,Esophagus,Heart,Liver,Lung,Pancreas,Skin,Testis,Thyroid	7	1	5	5	1	5	Aorta,Bone marrow,Heart,Liver,Pancreas	Testis	Adrenal gland,Esophagus,Lung,Skin,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEGGLQHLY	9	5	3.5500002	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	GVNPHVNHLY	10	5	3.5500002	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AVFPFGELL	9	5	3.6	2	2	1	Liver	2	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	MVDPLLTKY	9	5	3.6000001	5	4	4	Bone marrow,Liver,Lung,Thymus	2	2	1	2	1	1	Bone marrow,Liver	Thymus	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAQPIVTKY	9	5	3.6000001	1	1	1	Thyroid	0	0	1	0	0	1			Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EDPQAHTV	8	5	3.6000001	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVRDPLVTY	9	5	3.6000001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	GEDPQGTLV	9	5	3.6499999	1	1	1	Lymph node	0	0	1	0	0	1			Lymph node
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	QVDPLSALKY	10	5	3.65	49	6	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	20	8	21	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELDGPKGTGY	10	5	3.65	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SEDLAVHLY	9	5	3.65	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ATDPVTGDLY	10	5	3.6999998	13	5	9	Adrenal gland,Bladder,Colon,Esophagus,Gallbladder,Small intestine,Testis,Thymus,Thyroid	2	4	7	2	2	5	Colon,Small intestine	Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ETDLRNHFY	9	5	3.6999998	4	4	3	Liver,Thymus,Thyroid	1	2	1	1	1	1	Liver	Thymus	Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VGDPSVHLL	9	5	3.6999998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ITDSAGHILY	10	5	3.7	58	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	24	8	26	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TVDNVHLEY	9	5	3.7	37	7	22	Adrenal gland,Aorta,Bladder,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	12	5	20	9	3	10	Aorta,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YLDSIKELY	9	5	3.7	4	4	1	Liver	4	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	QADLINELY	9	5	3.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVDRFVVSY	9	5	3.7000003	12	5	9	Aorta,Colon,Esophagus,Liver,Lung,Skin,Thyroid,Tongue,Trachea	3	0	9	3	0	6	Aorta,Colon,Liver		Esophagus,Lung,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SVDPHGFISY	10	5	3.75	48	7	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	18	7	23	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YIDPIAMEY	9	5	3.75	9	2	6	Adrenal gland,Bone marrow,Colon,Lymph node,Spleen,Thyroid	3	2	4	2	1	3	Bone marrow,Colon	Spleen	Adrenal gland,Lymph node,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVYAGSHQY	9	5	3.75	7	2	7	Esophagus,Muscle,Skin,Spleen,Thymus,Thyroid,Trachea	0	2	5	0	2	5		Spleen,Thymus	Esophagus,Muscle,Skin,Thyroid,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELDTPINY	8	5	3.75	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	IVGPDGLVY	9	5	3.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VVMPIAHEF	9	5	3.75	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SADPGNLKY	9	5	3.8	16	5	11	Adrenal gland,Bone marrow,Colon,Liver,Lung,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	5	4	7	3	3	5	Bone marrow,Colon,Liver	Spleen,Testis,Thymus	Adrenal gland,Lung,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	WVDPYEVSY	9	5	3.8000002	23	7	16	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Gallbladder,Liver,Lung,Lymph node,Pancreas,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	7	6	10	5	3	8	Aorta,Bone marrow,Colon,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Gallbladder,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEDPGICRGY	10	5	3.8000002	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVAPVISSAY	10	5	3.8000002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVDLNLLRY	9	5	3.85	20	5	16	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Prostate,Spleen,Thymus,Thyroid,Tongue,Trachea	7	2	11	5	2	9	Aorta,Bone marrow,Colon,Kidney,Liver	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EDIIKQLV	8	5	3.85	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LQDPPGELA	9	5	3.85	1	1	1	Small intestine	1	0	0	1	0	0	Small intestine		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VADKILDLY	9	5	3.85	4	3	2	Spleen,Thyroid	0	1	3	0	1	1		Spleen	Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	KLDPHNHVLY	10	5	3.85	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EMDSPILGDY	10	5	3.8500001	5	4	5	Adrenal gland,Aorta,Kidney,Liver,Thyroid	3	0	2	3	0	2	Aorta,Kidney,Liver		Adrenal gland,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	QHDTIGYLL	9	5	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AMDTDGLLY	9	5	3.9	8	5	6	Brain,Cerebellum,Kidney,Liver,Spleen,Thymus	5	3	0	4	2	0	Brain,Cerebellum,Kidney,Liver	Spleen,Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AVDPRFLAY	9	5	3.9	5	4	4	Bone marrow,Colon,Lung,Thymus	2	2	1	2	1	1	Bone marrow,Colon	Thymus	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ETDKNGFLQ	9	5	3.9	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LVDDYSLLY	9	5	3.95	8	3	6	Bone marrow,Liver,Lung,Prostate,Spleen,Thymus	3	3	2	2	2	2	Bone marrow,Liver	Spleen,Thymus	Lung,Prostate
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LVDDAHGLLY	10	5	3.95	2	2	2	Bone marrow,Spleen	1	1	0	1	1	0	Bone marrow	Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VVDGFNVLY	9	5	3.95	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TTDFIYQLY	9	5	3.9999998	38	6	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	17	5	16	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TTDFIFNLY	9	5	3.9999998	32	6	22	Adrenal gland,Aorta,Bladder,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	11	5	16	8	3	11	Aorta,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVSKIVQTY	9	5	4.0	10	1	10	Adrenal gland,Aorta,Brain,Esophagus,Heart,Skin,Small intestine,Spleen,Testis,Trachea	4	2	4	4	2	4	Aorta,Brain,Heart,Small intestine	Spleen,Testis	Adrenal gland,Esophagus,Skin,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	RVYIGRLSY	9	5	4.0	8	2	8	Adrenal gland,Aorta,Esophagus,Muscle,Small intestine,Spleen,Thymus,Thyroid	2	2	4	2	2	4	Aorta,Small intestine	Spleen,Thymus	Adrenal gland,Esophagus,Muscle,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AVAPAGILK	9	5	4.0	4	1	4	Heart,Kidney,Lung,Thyroid	2	0	2	2	0	2	Heart,Kidney		Lung,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVQDSIHRW	9	5	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVRAGYLGY	9	5	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEPLGRQLW	9	6	2.45	2	1	2	Bone marrow,Spleen	1	1	0	1	1	0	Bone marrow	Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VFDPVTKLW	9	6	2.55	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EIINVGHSF	9	6	2.6499999	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELERLTSLY	9	6	2.65	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELSPVLNLW	9	6	2.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVVSVLHVF	9	6	2.7999997	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELDVVREIY	9	6	2.8500001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DSDKVGVFY	9	6	2.9499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ETEPVFWYY	9	6	2.95	4	4	3	Lung,Spleen,Thymus	0	3	1	0	2	1		Spleen,Thymus	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVAEESGRLW	10	6	2.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ENPVVHFF	8	6	2.9999998	11	3	8	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Heart,Spleen,Trachea	8	1	2	5	1	2	Bone marrow,Brain,Cerebellum,Colon,Heart	Spleen	Adrenal gland,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	QLDPAQKALY	10	6	3.0500002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DSDPFSSFY	9	6	3.1	33	7	18	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Spleen,Testis,Thymus,Thyroid,Trachea	12	7	14	6	3	9	Aorta,Bone marrow,Colon,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Muscle,Prostate,Thyroid,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	GLDPSGARLV	10	6	3.1	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEVDQVARAY	10	6	3.1000001	6	1	6	Adrenal gland,Bone marrow,Liver,Lung,Spleen,Thyroid	2	1	3	2	1	3	Bone marrow,Liver	Spleen	Adrenal gland,Lung,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAEIIRKY	8	6	3.1000001	3	1	3	Liver,Lung,Spleen	1	1	1	1	1	1	Liver	Spleen	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DIDIRKDLY	9	6	3.1000001	3	2	2	Aorta,Bladder	1	0	2	1	0	1	Aorta		Bladder
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DGDLAGRY	8	6	3.1000001	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DVIQAGKEY	9	6	3.15	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LIDSVGLFY	9	6	3.1999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VFDPALNLF	9	6	3.1999998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YLDPAQRSLY	10	6	3.2000003	5	5	4	Bone marrow,Liver,Spleen,Thymus	2	3	0	2	2	0	Bone marrow,Liver	Spleen,Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LLDPAQRTLY	10	6	3.2000003	3	3	2	Lung,Thymus	0	2	1	0	1	1		Thymus	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELQIKHAV	8	6	3.25	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DVSPVVSTY	9	6	3.25	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	IEDIVKLI	8	6	3.3	15	2	15	Adrenal gland,Bone marrow,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Spleen,Testis,Thyroid,Tongue,Trachea	5	2	8	5	2	8	Bone marrow,Colon,Heart,Kidney,Liver	Spleen,Testis	Adrenal gland,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	STDPENGHIF	10	6	3.3	1	1	1	Pancreas	1	0	0	1	0	0	Pancreas		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DLDPNADLAY	10	6	3.3000002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TVYPMERLV	9	6	3.3000002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAAQLGHKV	9	6	3.35	4	1	4	Adrenal gland,Aorta,Kidney,Tongue	2	0	2	2	0	2	Aorta,Kidney		Adrenal gland,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VVDTVVHYV	9	6	3.3999996	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ISDTLGQVY	9	6	3.3999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAVVGHKI	8	6	3.4	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	IEDIGKVLV	9	6	3.4499998	5	2	5	Bone marrow,Kidney,Liver,Lymph node,Spleen	3	1	1	3	1	1	Bone marrow,Kidney,Liver	Spleen	Lymph node
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	NLDPLTETY	9	6	3.45	11	6	9	Adrenal gland,Bone marrow,Colon,Liver,Lung,Testis,Thymus,Thyroid,Tongue	3	4	4	3	2	4	Bone marrow,Colon,Liver	Testis,Thymus	Adrenal gland,Lung,Thyroid,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	GVMKSGHVF	9	6	3.45	2	1	2	Esophagus,Small intestine	1	0	1	1	0	1	Small intestine		Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DLDHSIGTQY	10	6	3.45	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SVSPVVHVR	9	6	3.5	15	2	13	Adrenal gland,Aorta,Brain,Esophagus,Heart,Kidney,Liver,Lung,Muscle,Skin,Spleen,Testis,Thyroid	5	3	7	5	2	6	Aorta,Brain,Heart,Kidney,Liver	Spleen,Testis	Adrenal gland,Esophagus,Lung,Muscle,Skin,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FFDPSLLHLL	10	6	3.5499997	2	1	2	Esophagus,Spleen	0	1	1	0	1	1		Spleen	Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEDNVQKNY	9	6	3.55	6	1	6	Adrenal gland,Bone marrow,Liver,Lung,Small intestine,Spleen	3	1	2	3	1	2	Bone marrow,Liver,Small intestine	Spleen	Adrenal gland,Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SLDNLGYNLY	10	6	3.55	4	4	1	Thyroid	0	0	4	0	0	1			Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVNGLISMY	9	6	3.5500002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SQDPGTHVV	9	6	3.5999997	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	NSDFLVHFY	9	6	3.6	24	6	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Spleen,Testis,Thymus,Thyroid,Tongue	8	4	12	6	3	10	Aorta,Bone marrow,Brain,Colon,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Thyroid,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELDPNNAVYY	10	6	3.6	9	5	7	Colon,Lung,Testis,Thymus,Thyroid,Tongue,Trachea	1	3	5	1	2	4	Colon	Testis,Thymus	Lung,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELSPSPPLL	9	6	3.6	2	1	2	Lymph node,Spleen	0	1	1	0	1	1		Spleen	Lymph node
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TFDDIVHSF	9	6	3.6	2	1	2	Esophagus,Skin	0	0	2	0	0	2			Esophagus,Skin
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DIDIRPGLY	9	6	3.6	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	KLDDLHTLY	9	6	3.6	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ETADITHAL	9	6	3.6000001	4	1	4	Colon,Skin,Spleen,Trachea	1	1	2	1	1	2	Colon	Spleen	Skin,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVSFVIHNL	9	6	3.6000001	2	1	2	Bone marrow,Tongue	1	0	1	1	0	1	Bone marrow		Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELDDTLKY	8	6	3.6000001	3	3	2	Thymus,Thyroid	0	2	1	0	1	1		Thymus	Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ASDIAKHVY	9	6	3.6000001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EALSLAHTY	9	6	3.6000001	1	1	1	Esophagus	0	0	1	0	0	1			Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEGDTLLHLF	10	6	3.6499999	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EISEIEKRY	9	6	3.6500003	3	2	3	Lung,Muscle,Thyroid	0	0	3	0	0	3			Lung,Muscle,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	RVEPKVTVY	9	6	3.6999998	4	1	4	Adrenal gland,Esophagus,Small intestine,Spleen	1	1	2	1	1	2	Small intestine	Spleen	Adrenal gland,Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAVLIQTVY	9	6	3.6999998	3	1	3	Adrenal gland,Esophagus,Spleen	0	1	2	0	1	2		Spleen	Adrenal gland,Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YSDPYVKTY	9	6	3.7	32	6	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Spleen,Thymus,Thyroid,Tongue,Trachea	14	2	16	8	2	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	QMDPSSNFY	9	6	3.7	8	4	4	Kidney,Liver,Lung,Thyroid	5	0	3	2	0	2	Kidney,Liver		Lung,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YTDPAGLRNY	10	6	3.7	3	1	3	Adrenal gland,Bone marrow,Liver	2	0	1	2	0	1	Bone marrow,Liver		Adrenal gland
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AMDPVSVSY	9	6	3.7	2	2	2	Thymus,Thyroid	0	1	1	0	1	1		Thymus	Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EIEWITEY	8	6	3.7	2	1	2	Esophagus,Trachea	0	0	2	0	0	2			Esophagus,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EQSPLPMLL	9	6	3.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LLDDTGLAY	9	6	3.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	MGDPGARVY	9	6	3.7	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YLDPNQRDLY	10	6	3.7000003	31	7	18	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	10	7	14	6	3	9	Aorta,Bone marrow,Brain,Colon,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LLDPSQKNLY	10	6	3.7000003	12	6	9	Aorta,Bone marrow,Colon,Gallbladder,Lung,Thymus,Thyroid,Tongue,Trachea	4	2	6	3	1	5	Aorta,Bone marrow,Colon	Thymus	Gallbladder,Lung,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LLDPTQKALY	10	6	3.7000003	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SLDPGQRALY	10	6	3.7000003	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TLDSITLMY	9	6	3.7000003	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVAVLPHNI	9	6	3.7499998	8	1	8	Colon,Gallbladder,Liver,Lymph node,Spleen,Thyroid,Tongue,Trachea	2	1	5	2	1	5	Colon,Liver	Spleen	Gallbladder,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVVALLHTL	9	6	3.7499998	1	1	1	Brain	1	0	0	1	0	0	Brain		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVIALLHSL	9	6	3.7499998	3	2	3	Thymus,Thyroid,Tongue	0	1	2	0	1	2		Thymus	Thyroid,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ERDRLFHSL	9	6	3.7499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVISTLHYF	9	6	3.7499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	RVYVGSIY	8	6	3.7499998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ETIGVVHLV	9	6	3.75	10	1	10	Adrenal gland,Aorta,Bladder,Colon,Gallbladder,Kidney,Pancreas,Spleen,Testis,Trachea	4	2	4	4	2	4	Aorta,Colon,Kidney,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Gallbladder,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LLDLLSELY	9	6	3.75	6	5	5	Colon,Liver,Lung,Thymus,Thyroid	2	2	2	2	1	2	Colon,Liver	Thymus	Lung,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EIDLKQLEY	9	6	3.75	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEGDIVYRLY	10	6	3.75	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELDPSNTKALY	11	6	3.75	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DVSRSIGLF	9	6	3.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEGNIEHAF	9	6	3.75	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	RLDAVTLLY	9	6	3.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SVQDPGLHVW	10	6	3.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEGGATHVY	9	6	3.7500002	3	1	3	Liver,Lung,Spleen	1	1	1	1	1	1	Liver	Spleen	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	RSDPYVKSY	9	6	3.7500002	2	2	2	Bone marrow,Thymus	1	1	0	1	1	0	Bone marrow	Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SEDEIKKAY	9	6	3.8	9	1	9	Adrenal gland,Aorta,Bone marrow,Esophagus,Liver,Lung,Small intestine,Spleen,Thyroid	4	1	4	4	1	4	Aorta,Bone marrow,Liver,Small intestine	Spleen	Adrenal gland,Esophagus,Lung,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELGIKHSL	8	6	3.8	4	2	3	Liver,Lung,Spleen	2	1	1	1	1	1	Liver	Spleen	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	NEDEIKKAY	9	6	3.8	3	1	3	Liver,Lung,Spleen	1	1	1	1	1	1	Liver	Spleen	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AVYPVRSAY	9	6	3.8	2	1	2	Esophagus,Spleen	0	1	1	0	1	1		Spleen	Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	MLDNLGLKY	9	6	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SVAPVYSYY	9	6	3.8	1	1	1	Esophagus	0	0	1	0	0	1			Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FDDIVHSF	8	6	3.8000002	4	1	4	Adrenal gland,Colon,Liver,Tongue	2	0	2	2	0	2	Colon,Liver		Adrenal gland,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELNPKHKL	8	6	3.8000002	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEANVGRGY	9	6	3.8000002	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVARLETLV	9	6	3.8499997	16	1	16	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Lymph node,Pancreas,Skin,Spleen,Testis,Thyroid,Tongue,Trachea	6	2	8	6	2	8	Aorta,Bone marrow,Brain,Cerebellum,Colon,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lymph node,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LTDPDIHVL	9	6	3.8499997	3	1	3	Adrenal gland,Esophagus,Spleen	0	1	2	0	1	2		Spleen	Adrenal gland,Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVVTVFQYY	9	6	3.8499997	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SEDWIFHVL	9	6	3.8499997	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TLDPQTGLFY	10	6	3.85	36	7	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	15	6	15	9	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YLDIGQVYY	9	6	3.85	32	7	18	Bladder,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Thymus,Thyroid,Tongue,Trachea	11	5	16	6	2	10	Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Thymus	Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	GEDPNSRLA	9	6	3.85	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAYPLPGVTY	10	6	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ERFGLGHQL	9	6	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LSDLGKLSY	9	6	3.8500001	47	7	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	19	8	20	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LSDLGRLSY	9	6	3.8500001	40	7	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	14	7	19	9	3	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FADDMYSLY	9	6	3.8500001	10	6	7	Aorta,Colon,Esophagus,Gallbladder,Lung,Thymus,Thyroid	2	2	6	2	1	4	Aorta,Colon	Thymus	Esophagus,Gallbladder,Lung,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	QADIARMLY	9	6	3.8500001	12	6	10	Adrenal gland,Colon,Esophagus,Lung,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	1	4	7	1	3	6	Colon	Spleen,Testis,Thymus	Adrenal gland,Esophagus,Lung,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEDEACGRQY	10	6	3.8500001	3	1	3	Adrenal gland,Liver,Lung	1	0	2	1	0	2	Liver		Adrenal gland,Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LDDIRKLD	8	6	3.8500001	2	1	2	Bladder,Colon	1	0	1	1	0	1	Colon		Bladder
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	IMDDPAGNSY	10	6	3.8500001	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EDELVKKY	8	6	3.8500001	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	QLDRISVYY	9	6	3.8500001	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AVAAASHIY	9	6	3.8500001	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LVANATHIY	9	6	3.8500001	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	WIDPFEVSY	9	6	3.8500001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EADINIAFY	9	6	3.8999999	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LLDNPYTHTY	10	6	3.8999999	1	1	1	Pancreas	1	0	0	1	0	0	Pancreas		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YSDDIPHAL	9	6	3.8999999	5	2	5	Gallbladder,Skin,Spleen,Tongue,Trachea	0	1	4	0	1	4		Spleen	Gallbladder,Skin,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	IVDSLTEMY	9	6	3.8999999	2	2	2	Skin,Thymus	0	1	1	0	1	1		Thymus	Skin
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ITDDLHFY	8	6	3.8999999	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DVNNPLHLDY	10	6	3.8999999	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EADVAQLEY	9	6	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVDSGRQIEY	10	6	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AIDQLHLEY	9	6	3.9	32	7	20	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Liver,Lung,Prostate,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	10	7	15	7	3	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Liver	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YLDQMEDLY	9	6	3.9	20	7	13	Adrenal gland,Bone marrow,Colon,Esophagus,Heart,Kidney,Liver,Lung,Small intestine,Spleen,Thymus,Thyroid,Tongue	9	4	7	6	2	5	Bone marrow,Colon,Heart,Kidney,Liver,Small intestine	Spleen,Thymus	Adrenal gland,Esophagus,Lung,Thyroid,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ETDSFKLAY	9	6	3.9	10	5	9	Bone marrow,Colon,Esophagus,Lung,Spleen,Thymus,Thyroid,Tongue,Trachea	2	3	5	2	2	5	Bone marrow,Colon	Spleen,Thymus	Esophagus,Lung,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVRGFPTIY	9	6	3.9	1	1	1	Pancreas	1	0	0	1	0	0	Pancreas		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	GEDAMGHTI	9	6	3.9	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	KEDFVGHQV	9	6	3.9	1	1	1	Pancreas	1	0	0	1	0	0	Pancreas		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DVSPPIDLV	9	6	3.9	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVIELIVKY	9	6	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVRQGLKAY	9	6	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VIDPTLLHY	9	6	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EELPHIHAF	9	6	3.9499998	19	2	15	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Liver,Lung,Lymph node,Spleen,Thyroid,Tongue,Trachea	7	2	10	5	1	9	Aorta,Bone marrow,Brain,Colon,Liver	Spleen	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SVFPGARLL	9	6	3.9499998	9	2	9	Adrenal gland,Bone marrow,Gallbladder,Liver,Lymph node,Spleen,Thymus,Thyroid,Tongue	2	2	5	2	2	5	Bone marrow,Liver	Spleen,Thymus	Adrenal gland,Gallbladder,Lymph node,Thyroid,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEITVGQLI	9	6	3.9499998	2	1	2	Bone marrow,Spleen	1	1	0	1	1	0	Bone marrow	Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	CDDFMGQLL	9	6	3.9499998	1	1	1	Colon	1	0	0	1	0	0	Colon		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVGPPLPPLL	10	6	3.9499998	2	1	2	Lymph node,Spleen	0	1	1	0	1	1		Spleen	Lymph node
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EESEIVKLL	9	6	3.9499998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FEDPVSQLI	9	6	3.9499998	1	1	1	Lymph node	0	0	1	0	0	1			Lymph node
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SVLPFQIY	8	6	3.9499998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YADPVNAHY	9	6	3.95	25	7	14	Adrenal gland,Bone marrow,Colon,Gallbladder,Kidney,Liver,Lung,Lymph node,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	7	6	12	4	3	7	Bone marrow,Colon,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Gallbladder,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AVAPFFKSY	9	6	3.95	7	1	7	Adrenal gland,Aorta,Esophagus,Heart,Skin,Spleen,Thyroid	2	1	4	2	1	4	Aorta,Heart	Spleen	Adrenal gland,Esophagus,Skin,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAVIKHSL	8	6	3.95	5	2	4	Adrenal gland,Liver,Lung,Spleen	2	1	2	1	1	2	Liver	Spleen	Adrenal gland,Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ETERIVTTY	9	6	3.95	8	6	6	Adrenal gland,Liver,Lung,Skin,Thymus,Thyroid	1	2	5	1	1	4	Liver	Thymus	Adrenal gland,Lung,Skin,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EGLIKHIL	8	6	3.95	2	1	2	Liver,Spleen	1	1	0	1	1	0	Liver	Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EENPGKFLF	9	6	3.95	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EILDLIHKV	9	6	3.95	1	1	1	Tongue	0	0	1	0	0	1			Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ETERTRNLY	9	6	3.95	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVTELLARY	9	6	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VLDIAGFEY	9	6	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TMDPKPLAY	9	6	3.9500003	53	6	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	22	6	25	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LLDPASFEY	9	6	3.9500003	13	3	13	Bladder,Bone marrow,Colon,Gallbladder,Kidney,Liver,Lymph node,Pancreas,Prostate,Spleen,Testis,Thymus,Thyroid	5	3	5	5	3	5	Bone marrow,Colon,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Bladder,Gallbladder,Lymph node,Prostate,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YADPGVSFY	9	6	3.9999998	33	5	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thyroid,Trachea	15	4	14	10	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Muscle,Prostate,Skin,Thyroid,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVLRVTHEL	9	6	3.9999998	11	1	11	Adrenal gland,Bone marrow,Brain,Colon,Gallbladder,Liver,Lymph node,Spleen,Thyroid,Tongue,Trachea	4	1	6	4	1	6	Bone marrow,Brain,Colon,Liver	Spleen	Adrenal gland,Gallbladder,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AFDPTSTLL	9	6	3.9999998	2	1	2	Spleen,Trachea	0	1	1	0	1	1		Spleen	Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVTDFLSFY	9	6	3.9999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VVDGVKLLI	9	6	3.9999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEDQGSKLI	9	6	4.0	24	2	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Spleen,Testis,Thyroid,Tongue,Trachea	10	2	12	8	2	12	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	GEDPYPHKF	9	6	4.0	9	2	9	Adrenal gland,Bone marrow,Colon,Gallbladder,Kidney,Lymph node,Thyroid,Tongue,Trachea	3	0	6	3	0	6	Bone marrow,Colon,Kidney		Adrenal gland,Gallbladder,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YLDEGRLRY	9	6	4.0	4	4	2	Liver,Spleen	1	3	0	1	1	0	Liver	Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAFKAIGTAY	10	6	4.0	4	1	4	Adrenal gland,Esophagus,Skin,Spleen	0	1	3	0	1	3		Spleen	Adrenal gland,Esophagus,Skin
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAMRIGAEVY	10	6	4.0	2	1	2	Esophagus,Spleen	0	1	1	0	1	1		Spleen	Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ALDTKIGRY	9	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EIIKIIGKY	9	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVIDLMIKEY	10	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVLPAALAVY	10	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVNKFQMAY	9	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FVDASMVY	8	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LIDMGSSLY	9	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YADQPIQIY	9	6	4.0	1	1	1	Bladder	0	0	1	0	0	1			Bladder
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YLDAIKLLL	9	6	4.0	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEFELLGKAY	10	7	2.65	13	1	13	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Liver,Lung,Small intestine,Spleen,Thyroid	7	1	5	7	1	5	Aorta,Bone marrow,Brain,Cerebellum,Colon,Liver,Small intestine	Spleen	Adrenal gland,Bladder,Esophagus,Lung,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEEKLLKLF	9	7	2.95	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEELLDKVY	9	7	2.95	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DVELLKLE	8	7	3.1000001	7	5	6	Bone marrow,Cerebellum,Kidney,Liver,Spleen,Thyroid	4	2	1	4	1	1	Bone marrow,Cerebellum,Kidney,Liver	Spleen	Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DLDDAQRTLY	10	7	3.15	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FVEVGRVAY	9	7	3.25	2	1	2	Esophagus,Spleen	0	1	1	0	1	1		Spleen	Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DVYSAFHVL	9	7	3.3	9	1	9	Adrenal gland,Gallbladder,Lymph node,Prostate,Spleen,Testis,Thyroid,Tongue,Trachea	0	2	7	0	2	7		Spleen,Testis	Adrenal gland,Gallbladder,Lymph node,Prostate,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAFVRHIL	8	7	3.3500001	11	2	10	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Esophagus,Liver,Lung,Spleen	6	1	4	5	1	4	Aorta,Bone marrow,Brain,Cerebellum,Liver	Spleen	Adrenal gland,Bladder,Esophagus,Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ETETVTKSY	9	7	3.3500001	2	2	2	Colon,Esophagus	1	0	1	1	0	1	Colon		Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EALLRHVL	8	7	3.3500001	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	AEDLSHVA	8	7	3.3999999	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	IYDSVKVY	8	7	3.4	12	4	7	Adrenal gland,Bone marrow,Heart,Kidney,Liver,Skin,Spleen	8	1	3	4	1	2	Bone marrow,Heart,Kidney,Liver	Spleen	Adrenal gland,Skin
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TVEAPMPKLA	10	7	3.4	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVGGEALGRLL	11	7	3.45	27	5	18	Adrenal gland,Aorta,Bladder,Bone marrow,Cerebellum,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Skin,Small intestine,Spleen,Testis,Thyroid,Trachea	12	4	11	7	2	9	Aorta,Bone marrow,Cerebellum,Heart,Kidney,Liver,Small intestine	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Skin,Thyroid,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAKKLAHAM	9	7	3.5000002	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	NYDEALRLL	9	7	3.5500002	6	1	6	Adrenal gland,Aorta,Esophagus,Skin,Testis,Trachea	1	1	4	1	1	4	Aorta	Testis	Adrenal gland,Esophagus,Skin,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TTDGLGKVYY	10	7	3.6	25	5	19	Adrenal gland,Aorta,Bone marrow,Colon,Esophagus,Gallbladder,Heart,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thyroid,Tongue,Trachea	9	2	14	7	2	10	Aorta,Bone marrow,Colon,Heart,Liver,Pancreas,Small intestine	Spleen,Testis	Adrenal gland,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ESESLPRY	8	7	3.65	1	1	1	Brain	1	0	0	1	0	0	Brain		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEEPLNIHSF	10	7	3.65	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ETEDVNLAY	9	7	3.65	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVIERLIKSY	10	7	3.65	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TVQVARVY	8	7	3.7	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	NLDKLWTLV	9	7	3.7499998	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DIDGDGQVNY	10	7	3.75	2	2	2	Bone marrow,Spleen	1	1	0	1	1	0	Bone marrow	Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EYQKVWNLF	9	7	3.75	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ALDVVNLVY	9	7	3.75	6	4	5	Lung,Skin,Spleen,Thymus,Thyroid	0	3	3	0	2	3		Spleen,Thymus	Lung,Skin,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VLDVVYLVY	9	7	3.75	3	3	2	Lung,Thymus	0	2	1	0	1	1		Thymus	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LLDELPMIY	9	7	3.75	2	2	2	Spleen,Thymus	0	2	0	0	2	0		Spleen,Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FLDLVNYVY	9	7	3.75	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EMMKVVQVY	9	7	3.75	1	1	1	Esophagus	0	0	1	0	0	1			Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DSDSVPAFY	9	7	3.8	26	7	16	Adrenal gland,Bladder,Colon,Esophagus,Heart,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Spleen,Thymus,Thyroid,Tongue,Trachea	9	3	14	5	2	9	Colon,Heart,Kidney,Liver,Pancreas	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Lung,Muscle,Prostate,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FLDDVVHSL	9	7	3.8	10	1	10	Adrenal gland,Aorta,Bone marrow,Brain,Esophagus,Liver,Lung,Small intestine,Spleen,Thyroid	5	1	4	5	1	4	Aorta,Bone marrow,Brain,Liver,Small intestine	Spleen	Adrenal gland,Esophagus,Lung,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TLDGSLHAV	9	7	3.8	6	1	6	Adrenal gland,Bone marrow,Liver,Lung,Spleen,Thyroid	2	1	3	2	1	3	Bone marrow,Liver	Spleen	Adrenal gland,Lung,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FLDENVHFF	9	7	3.8	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	YLDTVPEVY	9	7	3.8	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EELSVVNHAY	10	7	3.8	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EYLKLLHSF	9	7	3.8000002	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EYMLQNHVF	9	7	3.8000002	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEVVSVLHVF	10	7	3.8000002	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DTDAFVLVY	9	7	3.8000002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAEKSNLAY	9	7	3.8000002	1	1	1	Tongue	0	0	1	0	0	1			Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEADKLVRQY	10	7	3.8000004	7	1	7	Adrenal gland,Bone marrow,Esophagus,Liver,Lung,Spleen,Thyroid	2	1	4	2	1	4	Bone marrow,Liver	Spleen	Adrenal gland,Esophagus,Lung,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	FEDFAHVI	8	7	3.8499997	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DLDLSPLEY	9	7	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DVVEKLNLF	9	7	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELILKHSL	8	7	3.85	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	QEDEVMRAY	9	7	3.8500001	7	1	7	Adrenal gland,Bone marrow,Esophagus,Liver,Lung,Spleen,Thyroid	2	1	4	2	1	4	Bone marrow,Liver	Spleen	Adrenal gland,Esophagus,Lung,Thyroid
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SEDGLLKLW	9	7	3.8500001	6	1	6	Adrenal gland,Bone marrow,Esophagus,Liver,Lung,Spleen	2	1	3	2	1	3	Bone marrow,Liver	Spleen	Adrenal gland,Esophagus,Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAVSFQHFI	9	7	3.8999996	2	1	2	Adrenal gland,Tongue	0	0	2	0	0	2			Adrenal gland,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	QLDHLSLYY	9	7	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TLDDMISYY	9	7	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	QLDSAQKNLY	10	7	3.9	27	7	15	Adrenal gland,Bone marrow,Brain,Colon,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	11	6	10	6	3	6	Bone marrow,Brain,Colon,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EELDGLFRRY	10	7	3.9	5	1	5	Adrenal gland,Bone marrow,Liver,Lung,Spleen	2	1	2	2	1	2	Bone marrow,Liver	Spleen	Adrenal gland,Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	QLDLAQRTLY	10	7	3.9	4	3	3	Bone marrow,Lung,Thymus	1	2	1	1	1	1	Bone marrow	Thymus	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	QLDSAVKNLY	10	7	3.9	3	3	3	Liver,Lymph node,Thymus	1	1	1	1	1	1	Liver	Thymus	Lymph node
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DMDKVLLKY	9	7	3.9	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAASVPVVY	9	7	3.9	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	LLDVVSLAY	9	7	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	QLDAAQRTLY	10	7	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ESEYGNITY	9	7	3.9499998	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TVKETIHMF	9	7	3.9499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DSDFFTSYY	9	7	3.95	32	6	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	13	4	15	9	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EYNNNFHVL	9	7	3.95	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	DVIETINKY	9	7	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EAIEQILKY	9	7	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EVSEAVLALW	10	7	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	SLDALITHVL	10	7	3.95	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	VADMLQDVY	9	7	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EESGEHII	8	7	3.9999998	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	IEDFGLHFV	9	7	3.9999998	4	1	4	Adrenal gland,Lymph node,Spleen,Tongue	0	1	3	0	1	3		Spleen	Adrenal gland,Lymph node,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EIYDAAIDLF	10	7	3.9999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	TEDLVKLV	8	7	4.0	4	2	4	Colon,Kidney,Lymph node,Spleen	2	1	1	2	1	1	Colon,Kidney	Spleen	Lymph node
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	ELVVQPLL	8	7	4.0	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	GVEVHPLV	8	7	4.0	1	1	1	Pancreas	1	0	0	1	0	0	Pancreas		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEFEELVRAY	10	8	3.5000002	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	NLDQATRVAY	10	8	3.95	3	3	2	Bone marrow,Thymus	1	2	0	1	1	0	Bone marrow	Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EEEEKLLKLF	10	8	3.95	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	union	EMIEAAKAVY	10	8	4.0	1	1	1	Spleen	0	1	0	0	1	0		Spleen	

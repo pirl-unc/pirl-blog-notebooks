@@ -1,0 +1,26 @@
+peptide	pep_len	min_edit	n_tissues	tissues	n_donors
+EVGPIFHL	8	3	1	Spleen	1
+YVDSEGHLY	9	3	11	Aorta,Bladder,Colon,Esophagus,Heart,Lung,Testis,Thymus,Thyroid,Tongue,Trachea	4
+RVDPIGPLSY	10	3	11	Adrenal gland,Aorta,Bone marrow,Cerebellum,Colon,Esophagus,Gallbladder,Lung,Thymus,Thyroid,Trachea	5
+SEVGPIFHLY	10	3	4	Esophagus,Liver,Lung,Spleen	1
+EVLDFITHLY	10	3	1	Thymus	1
+FTDVIGHY	8	4	2	Lung,Thymus	2
+NVDPVQHTY	9	4	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	7
+EVLDFITHL	9	4	18	Adrenal gland,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lymph node,Muscle,Pancreas,Prostate,Spleen,Testis,Thyroid,Tongue,Trachea	1
+HVDEIKELY	9	4	16	Adrenal gland,Aorta,Bladder,Cerebellum,Colon,Gallbladder,Heart,Liver,Lung,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	7
+EIDKNDHLY	9	4	10	Adrenal gland,Colon,Gallbladder,Liver,Lung,Testis,Thymus,Thyroid,Tongue,Trachea	6
+ESDPIVAQY	9	4	8	Aorta,Bone marrow,Esophagus,Heart,Muscle,Skin,Thyroid,Tongue	4
+VSDPVGVLY	9	4	6	Bone marrow,Colon,Lung,Thymus,Thyroid,Trachea	4
+VVDNLQHLY	9	4	4	Lung,Thymus,Thyroid,Tongue	4
+EVAPAGASY	9	4	3	Esophagus,Spleen,Thymus	2
+GVDNPGHPY	9	4	2	Bladder,Brain	3
+EVDPDTILK	9	4	1	Thymus	2
+VLDFITHLY	9	4	1	Thymus	2
+VVDRIFSLY	9	4	1	Thymus	2
+EVPEIIPLY	9	4	1	Thymus	1
+YTDPVGVLY	9	4	1	Liver	1
+AVDPTSGQLY	10	4	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	7
+EVLQPIGLTY	10	4	4	Lymph node,Spleen,Tongue,Trachea	1
+GVDVTGPHLY	10	4	1	Thymus	2
+EEDPNTHILY	10	4	1	Lung	1
+EEVDVPIKLY	10	4	1	Lung	1

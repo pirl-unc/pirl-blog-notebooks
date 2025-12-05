@@ -1,0 +1,101 @@
+peptide	pep_len	unit_dist	weighted_dist	n_hits	n_donors	n_tissues	tissues	protected_hits	tolerated_hits	uncertain_hits	protected_tissues_n	tolerated_tissues_n	uncertain_tissues_n	protected_tissues	tolerated_tissues	uncertain_tissues
+ESDPIVAQY	9	0	0.0	14	4	8	Aorta,Bone marrow,Esophagus,Heart,Muscle,Skin,Thyroid,Tongue	5	0	9	3	0	5	Aorta,Bone marrow,Heart		Esophagus,Muscle,Skin,Thyroid,Tongue
+SDPIVAQY	8	1	1.0	1	1	1	Heart	1	0	0	1	0	0	Heart		
+VSDSISAQY	9	3	2.5	1	1	1	Liver	1	0	0	1	0	0	Liver		
+RTDPVVADY	9	4	1.8999999	8	3	7	Adrenal gland,Bone marrow,Colon,Liver,Lung,Lymph node,Spleen	4	1	3	3	1	3	Bone marrow,Colon,Liver	Spleen	Adrenal gland,Lung,Lymph node
+SSDNIMVQY	9	4	2.0500002	3	3	2	Thymus,Thyroid	0	2	1	0	1	1		Thymus	Thyroid
+ESDLDYIQY	9	4	2.35	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+YSDPYVKTY	9	4	2.45	32	6	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Spleen,Thymus,Thyroid,Tongue,Trachea	14	2	16	8	2	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Thyroid,Tongue,Trachea
+RSDPYVKSY	9	4	2.5	2	2	2	Bone marrow,Thymus	1	1	0	1	1	0	Bone marrow	Thymus	
+ESDSTIVYY	9	4	2.5	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+VSDELVQQY	9	4	2.55	3	3	2	Thymus,Thyroid	0	2	1	0	1	1		Thymus	Thyroid
+ASDSIVLFY	9	4	2.7	17	5	13	Bladder,Bone marrow,Colon,Heart,Liver,Muscle,Pancreas,Prostate,Spleen,Testis,Thymus,Thyroid,Trachea	6	5	6	5	3	5	Bone marrow,Colon,Heart,Liver,Pancreas	Spleen,Testis,Thymus	Bladder,Muscle,Prostate,Thyroid,Trachea
+ESDPTEWAMY	10	4	2.75	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TSDDHVIQY	9	4	2.8000002	5	5	2	Thymus,Thyroid	0	1	4	0	1	1		Thymus	Thyroid
+EAQPIVTKY	9	4	3.0	1	1	1	Thyroid	0	0	1	0	0	1			Thyroid
+VSDPSSPQY	9	4	3.1999998	21	5	14	Adrenal gland,Aorta,Bone marrow,Colon,Gallbladder,Liver,Lung,Lymph node,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid	10	4	7	6	3	5	Aorta,Bone marrow,Colon,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Gallbladder,Lung,Lymph node,Thyroid
+SSDPQAQKY	9	4	3.2	35	5	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Skin,Small intestine,Spleen,Testis,Thyroid,Tongue	15	5	15	8	2	9	Aorta,Bone marrow,Brain,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Skin,Thyroid,Tongue
+SELDRINAQY	10	4	3.2500002	8	1	8	Adrenal gland,Bladder,Bone marrow,Esophagus,Liver,Lung,Spleen,Thyroid	2	1	5	2	1	5	Bone marrow,Liver	Spleen	Adrenal gland,Bladder,Esophagus,Lung,Thyroid
+QSDPKPSQY	9	4	3.3	40	6	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue	17	6	17	9	3	10	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue
+EVPHEVAQY	9	4	3.3500001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+RSDLEVAHY	9	4	3.6	1	1	1	Liver	1	0	0	1	0	0	Liver		
+SSFKVAQY	8	4	3.6	2	1	2	Esophagus,Spleen	0	1	1	0	1	1		Spleen	Esophagus
+FSDIVKQGY	9	4	3.9	13	4	12	Adrenal gland,Aorta,Bladder,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Small intestine,Thyroid,Tongue	5	0	8	5	0	7	Aorta,Colon,Kidney,Liver,Small intestine		Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Thyroid,Tongue
+QTDPVTLQY	9	5	1.8000001	20	6	13	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Kidney,Liver,Lung,Pancreas,Spleen,Thymus,Thyroid	8	5	7	6	2	5	Aorta,Bone marrow,Colon,Kidney,Liver,Pancreas	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Lung,Thyroid
+ETERIVTTY	9	5	1.8500001	8	6	6	Adrenal gland,Liver,Lung,Skin,Thymus,Thyroid	1	2	5	1	1	4	Liver	Thymus	Adrenal gland,Lung,Skin,Thyroid
+ASDPLCLTY	9	5	2.1000001	3	3	1	Liver	3	0	0	1	0	0	Liver		
+ESDEVELSY	9	5	2.25	18	6	16	Bladder,Bone marrow,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Skin,Spleen,Thymus,Thyroid,Tongue,Trachea	7	3	8	6	2	8	Bone marrow,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Thymus	Bladder,Esophagus,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+NTDPSIVMTY	10	5	2.25	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+KSDPFLVFY	9	5	2.3	31	5	20	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Prostate,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	12	4	15	7	3	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Thyroid,Tongue,Trachea
+SDNIIFQF	8	5	2.3	14	1	14	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Heart,Liver,Prostate,Spleen,Testis,Thyroid,Tongue	6	2	6	6	2	6	Aorta,Bone marrow,Brain,Colon,Heart,Liver	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Prostate,Thyroid,Tongue
+EVDRFVVSY	9	5	2.3	12	5	9	Aorta,Colon,Esophagus,Liver,Lung,Skin,Thyroid,Tongue,Trachea	3	0	9	3	0	6	Aorta,Colon,Liver		Esophagus,Lung,Skin,Thyroid,Tongue,Trachea
+ASELIVYTY	9	5	2.4	1	1	1	Colon	1	0	0	1	0	0	Colon		
+FVDPLVTNY	9	5	2.4499998	11	5	9	Bone marrow,Colon,Gallbladder,Lung,Lymph node,Spleen,Thymus,Thyroid,Trachea	2	4	5	2	2	5	Bone marrow,Colon	Spleen,Thymus	Gallbladder,Lung,Lymph node,Thyroid,Trachea
+DSDPFSSFY	9	5	2.5	33	7	18	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Spleen,Testis,Thymus,Thyroid,Trachea	12	7	14	6	3	9	Aorta,Bone marrow,Colon,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Muscle,Prostate,Thyroid,Trachea
+DSDSVPAFY	9	5	2.5	26	7	16	Adrenal gland,Bladder,Colon,Esophagus,Heart,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Spleen,Thymus,Thyroid,Tongue,Trachea	9	3	14	5	2	9	Colon,Heart,Kidney,Liver,Pancreas	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Lung,Muscle,Prostate,Thyroid,Tongue,Trachea
+ELDPTNMTY	9	5	2.5	2	2	2	Liver,Thymus	1	1	0	1	1	0	Liver	Thymus	
+SSDLVLQNY	9	5	2.5	2	2	1	Adrenal gland	0	0	2	0	0	1			Adrenal gland
+EHDPRVITV	9	5	2.5	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+ETDNNIVVY	9	5	2.55	4	3	4	Adrenal gland,Colon,Thymus,Tongue	1	1	2	1	1	2	Colon	Thymus	Adrenal gland,Tongue
+NPDPAVYQL	9	5	2.55	2	2	2	Spleen,Thymus	0	2	0	0	2	0		Spleen,Thymus	
+LTDYINANY	9	5	2.6	3	2	2	Brain,Colon	3	0	0	2	0	0	Brain,Colon		
+ESEKHTANY	9	5	2.6	5	5	4	Esophagus,Liver,Lung,Lymph node	1	0	4	1	0	3	Liver		Esophagus,Lung,Lymph node
+EVSPIFTQF	9	5	2.6	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+QYDEAVAQF	9	5	2.6	1	1	1	Esophagus	0	0	1	0	0	1			Esophagus
+LSEPSSLQY	9	5	2.6000001	29	7	20	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Tongue,Trachea	11	5	13	7	3	10	Aorta,Bone marrow,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Tongue,Trachea
+SSDPNAVMY	9	5	2.6000001	8	5	7	Aorta,Gallbladder,Kidney,Liver,Pancreas,Thymus,Tongue	5	1	2	4	1	2	Aorta,Kidney,Liver,Pancreas	Thymus	Gallbladder,Tongue
+EENPIVLEF	9	5	2.65	10	1	10	Adrenal gland,Aorta,Bone marrow,Brain,Colon,Esophagus,Liver,Lung,Spleen,Thyroid	5	1	4	5	1	4	Aorta,Bone marrow,Brain,Colon,Liver	Spleen	Adrenal gland,Esophagus,Lung,Thyroid
+ETDIVVDHY	9	5	2.7	5	2	5	Brain,Colon,Kidney,Thymus,Trachea	3	1	1	3	1	1	Brain,Colon,Kidney	Thymus	Trachea
+QTDERLAQY	9	5	2.7	5	4	4	Liver,Lung,Thymus,Thyroid	1	2	2	1	1	2	Liver	Thymus	Lung,Thyroid
+PTDPKVVVY	9	5	2.75	47	7	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	19	6	22	9	3	11	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+VSDPVGVLY	9	5	2.75	7	4	6	Bone marrow,Colon,Lung,Thymus,Thyroid,Trachea	2	2	3	2	1	3	Bone marrow,Colon	Thymus	Lung,Thyroid,Trachea
+RSDPVSLRY	9	5	2.75	1	1	1	Brain	1	0	0	1	0	0	Brain		
+ESEVESLQY	9	5	2.75	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+ESTDVVAFI	9	5	2.75	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+SSDPGALMY	9	5	2.7500002	9	4	7	Aorta,Bone marrow,Gallbladder,Liver,Lung,Spleen,Thymus	4	3	2	3	2	2	Aorta,Bone marrow,Liver	Spleen,Thymus	Gallbladder,Lung
+GTDTGVVQY	9	5	2.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+HSDPSILGY	9	5	2.8000002	8	4	7	Adrenal gland,Colon,Lung,Spleen,Testis,Thymus,Thyroid	1	3	4	1	3	3	Colon	Spleen,Testis,Thymus	Adrenal gland,Lung,Thyroid
+EIKDILIQY	9	5	2.8000002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+YIDPIAMEY	9	5	2.85	9	2	6	Adrenal gland,Bone marrow,Colon,Lymph node,Spleen,Thyroid	3	2	4	2	1	3	Bone marrow,Colon	Spleen	Adrenal gland,Lymph node,Thyroid
+EQIQILAKY	9	5	2.85	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+STDPRPASY	9	5	2.8500001	55	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	22	8	25	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+NSELIMDQY	9	5	2.8500001	5	4	5	Liver,Thymus,Thyroid,Tongue,Trachea	1	1	3	1	1	3	Liver	Thymus	Thyroid,Tongue,Trachea
+YSDPSVLYM	9	5	2.8999999	3	3	3	Bone marrow,Thymus,Thyroid	1	1	1	1	1	1	Bone marrow	Thymus	Thyroid
+KSELLVEQY	9	5	2.8999999	1	1	1	Skin	0	0	1	0	0	1			Skin
+YSDPSIIVLY	10	5	2.9	5	4	3	Liver,Thymus,Thyroid	3	1	1	1	1	1	Liver	Thymus	Thyroid
+EVAPAGASY	9	5	2.9	3	2	3	Esophagus,Spleen,Thymus	0	2	1	0	2	1		Spleen,Thymus	Esophagus
+EASKYIMQY	9	5	2.9499998	3	1	3	Esophagus,Small intestine,Spleen	1	1	1	1	1	1	Small intestine	Spleen	Esophagus
+LTDPEAAKY	9	5	2.95	41	7	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	17	7	17	9	3	11	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+EESDLAQQY	9	5	2.95	3	1	3	Bone marrow,Lung,Spleen	1	1	1	1	1	1	Bone marrow	Spleen	Lung
+GSDKINYTY	9	5	2.95	3	3	2	Thymus,Thyroid	0	2	1	0	1	1		Thymus	Thyroid
+EVRDPLVTY	9	5	2.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+VTSPIRASY	9	5	2.95	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+VSVPLIVRY	9	5	2.9999998	2	2	2	Adrenal gland,Liver	1	0	1	1	0	1	Liver		Adrenal gland
+QSDPAPLQH	9	5	3.0	2	2	2	Liver,Thyroid	1	0	1	1	0	1	Liver		Thyroid
+EADINIAFY	9	5	3.0	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+EIDFLTALY	9	5	3.0	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+VSDLLHQY	8	5	3.0	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+EHDPHVLLA	9	5	3.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+FSDPVYAEAY	10	5	3.05	8	5	7	Colon,Gallbladder,Kidney,Lung,Spleen,Thymus,Trachea	2	3	3	2	2	3	Colon,Kidney	Spleen,Thymus	Gallbladder,Lung,Trachea
+ASDAAPLQY	9	5	3.05	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+GSSPVAMQK	9	5	3.0500002	4	2	4	Kidney,Lung,Spleen,Testis	1	2	1	1	2	1	Kidney	Spleen,Testis	Lung
+YTDPEVFKY	9	5	3.1	56	6	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	23	7	26	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+NSDPGLAVGY	10	5	3.1	28	7	16	Adrenal gland,Aorta,Brain,Colon,Esophagus,Gallbladder,Liver,Lung,Prostate,Skin,Small intestine,Testis,Thymus,Thyroid,Tongue,Trachea	9	4	15	5	2	9	Aorta,Brain,Colon,Liver,Small intestine	Testis,Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Prostate,Skin,Thyroid,Tongue,Trachea
+FSDPERVNY	9	5	3.1	9	6	7	Colon,Liver,Lung,Thymus,Thyroid,Tongue,Trachea	2	1	6	2	1	4	Colon,Liver	Thymus	Lung,Thyroid,Tongue,Trachea
+TDRIAAAQY	9	5	3.1	1	1	1	Lung	0	0	1	0	0	1			Lung
+THSPYVAQI	9	5	3.1	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+NIDPITMAY	9	5	3.1000001	37	5	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Testis,Thyroid,Tongue,Trachea	16	3	18	9	1	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+EISERIVQW	9	5	3.1000001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+VSDPLIGGTY	10	5	3.1000001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+ESIPIRLFL	9	5	3.1499999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TDPEVFKY	8	5	3.1499999	1	1	1	Lung	0	0	1	0	0	1			Lung
+PSDLLVNVY	9	5	3.15	5	4	4	Bone marrow,Liver,Spleen,Thymus	2	3	0	2	2	0	Bone marrow,Liver	Spleen,Thymus	
+ESQLRVASL	9	5	3.15	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+EEKPIEIQW	9	5	3.15	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+SEYIHAQV	8	5	3.1999998	29	2	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Spleen,Testis,Thyroid,Tongue,Trachea	12	3	14	9	2	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+YADPVNAHY	9	5	3.1999998	25	7	14	Adrenal gland,Bone marrow,Colon,Gallbladder,Kidney,Liver,Lung,Lymph node,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	7	6	12	4	3	7	Bone marrow,Colon,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Gallbladder,Lung,Lymph node,Thyroid,Tongue,Trachea
+SEDDPILQI	9	5	3.1999998	17	2	17	Adrenal gland,Bladder,Bone marrow,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Spleen,Testis,Tongue,Trachea	6	2	9	6	2	9	Bone marrow,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Prostate,Tongue,Trachea
+EVDPNIQAV	9	5	3.1999998	7	1	7	Adrenal gland,Colon,Kidney,Liver,Pancreas,Tongue,Trachea	4	0	3	4	0	3	Colon,Kidney,Liver,Pancreas		Adrenal gland,Tongue,Trachea
+EESDIVFHF	9	5	3.1999998	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+STDPREALQY	10	5	3.2	24	7	16	Adrenal gland,Aorta,Bone marrow,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	8	4	12	5	3	8	Aorta,Bone marrow,Colon,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Skin,Thyroid,Tongue,Trachea
+RESDQLFKQY	10	5	3.2	3	1	3	Bone marrow,Lung,Spleen	1	1	1	1	1	1	Bone marrow	Spleen	Lung

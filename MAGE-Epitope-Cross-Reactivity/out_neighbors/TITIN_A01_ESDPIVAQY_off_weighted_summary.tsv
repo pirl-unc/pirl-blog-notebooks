@@ -1,0 +1,811 @@
+job	query_epitope	query_allele	label	peptide	pep_len	unit_dist	weighted_dist	n_hits	n_donors	n_tissues	tissues	protected_hits	tolerated_hits	uncertain_hits	protected_tissues_n	tolerated_tissues_n	uncertain_tissues_n	protected_tissues	tolerated_tissues	uncertain_tissues
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESDPIVAQY	9	0	0.0	14	4	8	Aorta,Bone marrow,Esophagus,Heart,Muscle,Skin,Thyroid,Tongue	5	0	9	3	0	5	Aorta,Bone marrow,Heart		Esophagus,Muscle,Skin,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDSISAQY	9	3	2.5	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	RTDPVVADY	9	4	1.8999999	8	3	7	Adrenal gland,Bone marrow,Colon,Liver,Lung,Lymph node,Spleen	4	1	3	3	1	3	Bone marrow,Colon,Liver	Spleen	Adrenal gland,Lung,Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDNIMVQY	9	4	2.0500002	3	3	2	Thymus,Thyroid	0	2	1	0	1	1		Thymus	Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESDLDYIQY	9	4	2.35	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSDPYVKTY	9	4	2.45	32	6	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Spleen,Thymus,Thyroid,Tongue,Trachea	14	2	16	8	2	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	RSDPYVKSY	9	4	2.5	2	2	2	Bone marrow,Thymus	1	1	0	1	1	0	Bone marrow	Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESDSTIVYY	9	4	2.5	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDELVQQY	9	4	2.55	3	3	2	Thymus,Thyroid	0	2	1	0	1	1		Thymus	Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASDSIVLFY	9	4	2.7	17	5	13	Bladder,Bone marrow,Colon,Heart,Liver,Muscle,Pancreas,Prostate,Spleen,Testis,Thymus,Thyroid,Trachea	6	5	6	5	3	5	Bone marrow,Colon,Heart,Liver,Pancreas	Spleen,Testis,Thymus	Bladder,Muscle,Prostate,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESDPTEWAMY	10	4	2.75	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TSDDHVIQY	9	4	2.8000002	5	5	2	Thymus,Thyroid	0	1	4	0	1	1		Thymus	Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EAQPIVTKY	9	4	3.0	1	1	1	Thyroid	0	0	1	0	0	1			Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDPSSPQY	9	4	3.1999998	21	5	14	Adrenal gland,Aorta,Bone marrow,Colon,Gallbladder,Liver,Lung,Lymph node,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid	10	4	7	6	3	5	Aorta,Bone marrow,Colon,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Gallbladder,Lung,Lymph node,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDPQAQKY	9	4	3.2	35	5	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Skin,Small intestine,Spleen,Testis,Thyroid,Tongue	15	5	15	8	2	9	Aorta,Bone marrow,Brain,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Skin,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QSDPKPSQY	9	4	3.3	40	6	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue	17	6	17	9	3	10	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVPHEVAQY	9	4	3.3500001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	RSDLEVAHY	9	4	3.6	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSFKVAQY	8	4	3.6	2	1	2	Esophagus,Spleen	0	1	1	0	1	1		Spleen	Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSDIVKQGY	9	4	3.9	13	4	12	Adrenal gland,Aorta,Bladder,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Small intestine,Thyroid,Tongue	5	0	8	5	0	7	Aorta,Colon,Kidney,Liver,Small intestine		Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QTDPVTLQY	9	5	1.8000001	20	6	13	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Kidney,Liver,Lung,Pancreas,Spleen,Thymus,Thyroid	8	5	7	6	2	5	Aorta,Bone marrow,Colon,Kidney,Liver,Pancreas	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETERIVTTY	9	5	1.8500001	8	6	6	Adrenal gland,Liver,Lung,Skin,Thymus,Thyroid	1	2	5	1	1	4	Liver	Thymus	Adrenal gland,Lung,Skin,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASDPLCLTY	9	5	2.1000001	3	3	1	Liver	3	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESDEVELSY	9	5	2.25	18	6	16	Bladder,Bone marrow,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Skin,Spleen,Thymus,Thyroid,Tongue,Trachea	7	3	8	6	2	8	Bone marrow,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Thymus	Bladder,Esophagus,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NTDPSIVMTY	10	5	2.25	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KSDPFLVFY	9	5	2.3	31	5	20	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Prostate,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	12	4	15	7	3	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVDRFVVSY	9	5	2.3	12	5	9	Aorta,Colon,Esophagus,Liver,Lung,Skin,Thyroid,Tongue,Trachea	3	0	9	3	0	6	Aorta,Colon,Liver		Esophagus,Lung,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASELIVYTY	9	5	2.4	1	1	1	Colon	1	0	0	1	0	0	Colon		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FVDPLVTNY	9	5	2.4499998	11	5	9	Bone marrow,Colon,Gallbladder,Lung,Lymph node,Spleen,Thymus,Thyroid,Trachea	2	4	5	2	2	5	Bone marrow,Colon	Spleen,Thymus	Gallbladder,Lung,Lymph node,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSDPFSSFY	9	5	2.5	33	7	18	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Spleen,Testis,Thymus,Thyroid,Trachea	12	7	14	6	3	9	Aorta,Bone marrow,Colon,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Muscle,Prostate,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSDSVPAFY	9	5	2.5	26	7	16	Adrenal gland,Bladder,Colon,Esophagus,Heart,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Spleen,Thymus,Thyroid,Tongue,Trachea	9	3	14	5	2	9	Colon,Heart,Kidney,Liver,Pancreas	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Lung,Muscle,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELDPTNMTY	9	5	2.5	2	2	2	Liver,Thymus	1	1	0	1	1	0	Liver	Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDLVLQNY	9	5	2.5	2	2	1	Adrenal gland	0	0	2	0	0	1			Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETDNNIVVY	9	5	2.55	4	3	4	Adrenal gland,Colon,Thymus,Tongue	1	1	2	1	1	2	Colon	Thymus	Adrenal gland,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NPDPAVYQL	9	5	2.55	2	2	2	Spleen,Thymus	0	2	0	0	2	0		Spleen,Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDYINANY	9	5	2.6	3	2	2	Brain,Colon	3	0	0	2	0	0	Brain,Colon		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESEKHTANY	9	5	2.6	5	5	4	Esophagus,Liver,Lung,Lymph node	1	0	4	1	0	3	Liver		Esophagus,Lung,Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVSPIFTQF	9	5	2.6	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QYDEAVAQF	9	5	2.6	1	1	1	Esophagus	0	0	1	0	0	1			Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSEPSSLQY	9	5	2.6000001	29	7	20	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Tongue,Trachea	11	5	13	7	3	10	Aorta,Bone marrow,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDPNAVMY	9	5	2.6000001	8	5	7	Aorta,Gallbladder,Kidney,Liver,Pancreas,Thymus,Tongue	5	1	2	4	1	2	Aorta,Kidney,Liver,Pancreas	Thymus	Gallbladder,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETDIVVDHY	9	5	2.7	5	2	5	Brain,Colon,Kidney,Thymus,Trachea	3	1	1	3	1	1	Brain,Colon,Kidney	Thymus	Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QTDERLAQY	9	5	2.7	5	4	4	Liver,Lung,Thymus,Thyroid	1	2	2	1	1	2	Liver	Thymus	Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PTDPKVVVY	9	5	2.75	47	7	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	19	6	22	9	3	11	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDPVGVLY	9	5	2.75	7	4	6	Bone marrow,Colon,Lung,Thymus,Thyroid,Trachea	2	2	3	2	1	3	Bone marrow,Colon	Thymus	Lung,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	RSDPVSLRY	9	5	2.75	1	1	1	Brain	1	0	0	1	0	0	Brain		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESEVESLQY	9	5	2.75	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESTDVVAFI	9	5	2.75	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDPGALMY	9	5	2.7500002	9	4	7	Aorta,Bone marrow,Gallbladder,Liver,Lung,Spleen,Thymus	4	3	2	3	2	2	Aorta,Bone marrow,Liver	Spleen,Thymus	Gallbladder,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GTDTGVVQY	9	5	2.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	HSDPSILGY	9	5	2.8000002	8	4	7	Adrenal gland,Colon,Lung,Spleen,Testis,Thymus,Thyroid	1	3	4	1	3	3	Colon	Spleen,Testis,Thymus	Adrenal gland,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EIKDILIQY	9	5	2.8000002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YIDPIAMEY	9	5	2.85	9	2	6	Adrenal gland,Bone marrow,Colon,Lymph node,Spleen,Thyroid	3	2	4	2	1	3	Bone marrow,Colon	Spleen	Adrenal gland,Lymph node,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EQIQILAKY	9	5	2.85	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	STDPRPASY	9	5	2.8500001	55	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	22	8	25	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NSELIMDQY	9	5	2.8500001	5	4	5	Liver,Thymus,Thyroid,Tongue,Trachea	1	1	3	1	1	3	Liver	Thymus	Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KSELLVEQY	9	5	2.8999999	1	1	1	Skin	0	0	1	0	0	1			Skin
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSDPSIIVLY	10	5	2.9	5	4	3	Liver,Thymus,Thyroid	3	1	1	1	1	1	Liver	Thymus	Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVAPAGASY	9	5	2.9	3	2	3	Esophagus,Spleen,Thymus	0	2	1	0	2	1		Spleen,Thymus	Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EASKYIMQY	9	5	2.9499998	3	1	3	Esophagus,Small intestine,Spleen	1	1	1	1	1	1	Small intestine	Spleen	Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDPEAAKY	9	5	2.95	41	7	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	17	7	17	9	3	11	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EESDLAQQY	9	5	2.95	3	1	3	Bone marrow,Lung,Spleen	1	1	1	1	1	1	Bone marrow	Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GSDKINYTY	9	5	2.95	3	3	2	Thymus,Thyroid	0	2	1	0	1	1		Thymus	Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVRDPLVTY	9	5	2.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSVPLIVRY	9	5	2.9999998	2	2	2	Adrenal gland,Liver	1	0	1	1	0	1	Liver		Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QSDPAPLQH	9	5	3.0	2	2	2	Liver,Thyroid	1	0	1	1	0	1	Liver		Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EADINIAFY	9	5	3.0	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EIDFLTALY	9	5	3.0	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDLLHQY	8	5	3.0	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSDPVYAEAY	10	5	3.05	8	5	7	Colon,Gallbladder,Kidney,Lung,Spleen,Thymus,Trachea	2	3	3	2	2	3	Colon,Kidney	Spleen,Thymus	Gallbladder,Lung,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASDAAPLQY	9	5	3.05	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GSSPVAMQK	9	5	3.0500002	4	2	4	Kidney,Lung,Spleen,Testis	1	2	1	1	2	1	Kidney	Spleen,Testis	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YTDPEVFKY	9	5	3.1	56	6	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	23	7	26	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NSDPGLAVGY	10	5	3.1	28	7	16	Adrenal gland,Aorta,Brain,Colon,Esophagus,Gallbladder,Liver,Lung,Prostate,Skin,Small intestine,Testis,Thymus,Thyroid,Tongue,Trachea	9	4	15	5	2	9	Aorta,Brain,Colon,Liver,Small intestine	Testis,Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSDPERVNY	9	5	3.1	9	6	7	Colon,Liver,Lung,Thymus,Thyroid,Tongue,Trachea	2	1	6	2	1	4	Colon,Liver	Thymus	Lung,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NIDPITMAY	9	5	3.1000001	37	5	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Testis,Thyroid,Tongue,Trachea	16	3	18	9	1	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EISERIVQW	9	5	3.1000001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDPLIGGTY	10	5	3.1000001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PSDLLVNVY	9	5	3.15	5	4	4	Bone marrow,Liver,Spleen,Thymus	2	3	0	2	2	0	Bone marrow,Liver	Spleen,Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESQLRVASL	9	5	3.15	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEKPIEIQW	9	5	3.15	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YADPVNAHY	9	5	3.1999998	25	7	14	Adrenal gland,Bone marrow,Colon,Gallbladder,Kidney,Liver,Lung,Lymph node,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	7	6	12	4	3	7	Bone marrow,Colon,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Gallbladder,Lung,Lymph node,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SEDDPILQI	9	5	3.1999998	17	2	17	Adrenal gland,Bladder,Bone marrow,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Spleen,Testis,Tongue,Trachea	6	2	9	6	2	9	Bone marrow,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Prostate,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	STDPREALQY	10	5	3.2	24	7	16	Adrenal gland,Aorta,Bone marrow,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	8	4	12	5	3	8	Aorta,Bone marrow,Colon,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ENIDKIAQW	9	5	3.2	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESDINSVRY	9	5	3.25	52	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	21	8	23	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FMDPASALY	9	5	3.25	15	7	9	Adrenal gland,Bone marrow,Colon,Kidney,Liver,Lung,Spleen,Thymus,Thyroid	7	5	3	4	2	3	Bone marrow,Colon,Kidney,Liver	Spleen,Thymus	Adrenal gland,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDTQNAQY	9	5	3.25	9	4	7	Brain,Kidney,Liver,Pancreas,Skin,Thymus,Tongue	6	1	2	4	1	2	Brain,Kidney,Liver,Pancreas	Thymus	Skin,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVSKIVQTY	9	5	3.25	10	1	10	Adrenal gland,Aorta,Brain,Esophagus,Heart,Skin,Small intestine,Spleen,Testis,Trachea	4	2	4	4	2	4	Aorta,Brain,Heart,Small intestine	Spleen,Testis	Adrenal gland,Esophagus,Skin,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSETISAYY	9	5	3.25	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TSDYVSQSY	9	5	3.3000002	27	5	20	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Esophagus,Gallbladder,Kidney,Liver,Lung,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	11	3	13	7	3	10	Aorta,Bone marrow,Brain,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NEDVRVVQY	9	5	3.35	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDPDQLVY	9	5	3.3500001	39	6	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	16	5	18	9	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NSDFLVHFY	9	5	3.3500001	24	6	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Spleen,Testis,Thymus,Thyroid,Tongue	8	4	12	6	3	10	Aorta,Bone marrow,Brain,Colon,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDPSHLVY	9	5	3.3500001	9	4	6	Adrenal gland,Liver,Lung,Testis,Thyroid,Trachea	2	1	6	1	1	4	Liver	Testis	Adrenal gland,Lung,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDRHLTQY	9	5	3.3500001	8	6	6	Adrenal gland,Liver,Lung,Spleen,Thymus,Tongue	1	3	4	1	2	3	Liver	Spleen,Thymus	Adrenal gland,Lung,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EENQIVSSY	9	5	3.3500001	2	1	2	Adrenal gland,Lung	0	0	2	0	0	2			Adrenal gland,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASRSAVAQI	9	5	3.3500001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EQRKVYQY	8	5	3.3500001	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETQPPVALK	9	5	3.3500001	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSFPTVVIY	9	5	3.3500001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EMDSPILGDY	10	5	3.3999999	5	4	5	Adrenal gland,Aorta,Kidney,Liver,Thyroid	3	0	2	3	0	2	Aorta,Kidney,Liver		Adrenal gland,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EKDPQPQQL	9	5	3.3999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESDSRQIFY	9	5	3.4	8	4	7	Adrenal gland,Bone marrow,Kidney,Lung,Testis,Thymus,Thyroid	2	2	4	2	2	3	Bone marrow,Kidney	Testis,Thymus	Adrenal gland,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NSKVVSQY	8	5	3.4	2	1	2	Adrenal gland,Spleen	0	1	1	0	1	1		Spleen	Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FTDPGQVAY	9	5	3.45	31	7	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	13	5	13	9	3	10	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASDRNIVLY	9	5	3.45	2	1	2	Adrenal gland,Gallbladder	0	0	2	0	0	2			Adrenal gland,Gallbladder
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EADVAQLEY	9	5	3.45	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELDHTVSMQY	10	5	3.45	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSDKNIEQY	9	5	3.5	52	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	21	8	23	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSEKIVDMY	9	5	3.5	46	5	22	Adrenal gland,Aorta,Bladder,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thyroid,Tongue,Trachea	15	6	25	8	2	12	Aorta,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSEEIVEMY	9	5	3.5	43	7	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	14	6	23	9	3	12	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TSDSTVYDY	9	5	3.5	20	7	14	Adrenal gland,Aorta,Bone marrow,Colon,Gallbladder,Kidney,Liver,Lung,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid	8	4	8	7	3	4	Aorta,Bone marrow,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Gallbladder,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSDKELAAY	9	5	3.5	5	4	2	Adrenal gland,Liver	4	0	1	1	0	1	Liver		Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SVDKIVIQK	9	5	3.5	7	2	6	Adrenal gland,Lung,Small intestine,Spleen,Testis,Thyroid	1	2	4	1	2	3	Small intestine	Spleen,Testis	Adrenal gland,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEISTVLQY	9	5	3.5	3	1	3	Liver,Lung,Spleen	1	1	1	1	1	1	Liver	Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELDTPINY	8	5	3.5	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELDPDNETY	9	5	3.5	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELDPNNAVYY	10	5	3.5000002	9	5	7	Colon,Lung,Testis,Thymus,Thyroid,Tongue,Trachea	1	3	5	1	2	4	Colon	Testis,Thymus	Lung,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LVDPSVYGY	9	5	3.5499997	14	4	12	Adrenal gland,Bone marrow,Colon,Esophagus,Gallbladder,Liver,Lung,Pancreas,Testis,Thymus,Thyroid,Trachea	5	2	7	4	2	6	Bone marrow,Colon,Liver,Pancreas	Testis,Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVINTVAQV	9	5	3.55	21	1	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lymph node,Pancreas,Prostate,Skin,Spleen,Testis,Thyroid,Tongue,Trachea	9	2	10	9	2	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESSPELAKK	9	5	3.55	2	2	2	Kidney,Small intestine	2	0	0	2	0	0	Kidney,Small intestine		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEKAIVQQW	9	5	3.55	3	1	3	Bone marrow,Lung,Spleen	1	1	1	1	1	1	Bone marrow	Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESRTVIRY	8	5	3.55	2	2	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EALPPVSQA	9	5	3.55	1	1	1	Tongue	0	0	1	0	0	1			Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEADKLVRQY	10	5	3.5500002	7	1	7	Adrenal gland,Bone marrow,Esophagus,Liver,Lung,Spleen,Thyroid	2	1	4	2	1	4	Bone marrow,Liver	Spleen	Adrenal gland,Esophagus,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ISKALVAYY	9	5	3.5500002	7	1	7	Adrenal gland,Esophagus,Small intestine,Spleen,Testis,Thyroid,Trachea	1	2	4	1	2	4	Small intestine	Spleen,Testis	Adrenal gland,Esophagus,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	HSDTIQWLY	9	5	3.6	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSDIVIEKY	9	5	3.6499999	36	6	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	13	5	18	9	3	12	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PSDPKQYRY	9	5	3.6499999	17	7	10	Adrenal gland,Bone marrow,Kidney,Liver,Lung,Lymph node,Muscle,Spleen,Thymus,Thyroid	6	5	6	3	2	5	Bone marrow,Kidney,Liver	Spleen,Thymus	Adrenal gland,Lung,Lymph node,Muscle,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FLDPIKAYL	9	5	3.6499999	10	1	10	Adrenal gland,Bone marrow,Brain,Colon,Esophagus,Liver,Lung,Small intestine,Spleen,Thyroid	5	1	4	5	1	4	Bone marrow,Brain,Colon,Liver,Small intestine	Spleen	Adrenal gland,Esophagus,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EDELVKKY	8	5	3.6499999	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDPYHSGY	9	5	3.65	44	7	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue	20	5	19	9	3	11	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSDYLHPQY	9	5	3.65	36	7	20	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Liver,Lung,Prostate,Skin,Small intestine,Testis,Thymus,Thyroid,Tongue,Trachea	13	5	18	8	2	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Liver,Small intestine	Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QSDYFRALY	9	5	3.65	9	4	8	Adrenal gland,Bladder,Bone marrow,Colon,Liver,Lung,Prostate,Thymus	3	1	5	3	1	4	Bone marrow,Colon,Liver	Thymus	Adrenal gland,Bladder,Lung,Prostate
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDTVVEPY	9	5	3.65	3	3	2	Pancreas,Thymus	1	2	0	1	1	0	Pancreas	Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSTPISPQL	9	5	3.65	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	HSDQQVFEY	9	5	3.6999998	18	6	12	Adrenal gland,Bone marrow,Colon,Gallbladder,Kidney,Liver,Lung,Spleen,Thymus,Thyroid,Tongue,Trachea	7	3	8	4	2	6	Bone marrow,Colon,Kidney,Liver	Spleen,Thymus	Adrenal gland,Gallbladder,Lung,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EESDLSRQY	9	5	3.7	9	1	9	Adrenal gland,Aorta,Bone marrow,Esophagus,Liver,Lung,Small intestine,Spleen,Thyroid	4	1	4	4	1	4	Aorta,Bone marrow,Liver,Small intestine	Spleen	Adrenal gland,Esophagus,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GSDVRVPSY	9	5	3.7	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSDTSVIQFY	10	5	3.7	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EIVPFRVAAY	10	5	3.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ISDLAQHY	8	5	3.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSKIVQTY	8	5	3.7000003	6	1	6	Adrenal gland,Brain,Esophagus,Skin,Spleen,Trachea	1	1	4	1	1	4	Brain	Spleen	Adrenal gland,Esophagus,Skin,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSDMREANY	9	5	3.75	18	7	11	Adrenal gland,Bone marrow,Esophagus,Heart,Kidney,Liver,Lung,Testis,Thymus,Thyroid,Tongue	7	4	7	4	2	5	Bone marrow,Heart,Kidney,Liver	Testis,Thymus	Adrenal gland,Esophagus,Lung,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESDVSAQMEY	10	5	3.75	15	5	10	Esophagus,Heart,Kidney,Liver,Lung,Muscle,Skin,Testis,Thyroid,Tongue	7	1	7	3	1	6	Heart,Kidney,Liver	Testis	Esophagus,Lung,Muscle,Skin,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSDTEVLEY	9	5	3.75	2	2	2	Spleen,Thymus	0	2	0	0	2	0		Spleen,Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ERIPDVAAL	9	5	3.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVMQEVAQL	9	5	3.8	13	1	13	Adrenal gland,Bone marrow,Brain,Colon,Liver,Lymph node,Pancreas,Skin,Spleen,Testis,Thyroid,Tongue,Trachea	5	2	6	5	2	6	Bone marrow,Brain,Colon,Liver,Pancreas	Spleen,Testis	Adrenal gland,Lymph node,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NSDVVEQIY	9	5	3.8	7	2	6	Adrenal gland,Brain,Liver,Lung,Testis,Thyroid	3	1	3	2	1	3	Brain,Liver	Testis	Adrenal gland,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEAPNVFQLY	10	5	3.8	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSISHVAY	8	5	3.8	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESIDKIARW	9	5	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	IVDHIHFQY	9	5	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LHDINAQL	8	5	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSDYFDALY	9	5	3.8	1	1	1	Prostate	0	0	1	0	0	1			Prostate
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	RRDSIVAEL	9	5	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EESIVEQTY	9	5	3.8000002	4	1	4	Bone marrow,Lung,Spleen,Thyroid	1	1	2	1	1	2	Bone marrow	Spleen	Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSKDIVENY	9	5	3.8000002	2	1	2	Esophagus,Spleen	0	1	1	0	1	1		Spleen	Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESDLPDELLY	10	5	3.8000002	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSDVIAGQFY	10	5	3.85	2	1	2	Bone marrow,Colon	2	0	0	2	0	0	Bone marrow,Colon		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ISKALVAY	8	5	3.8500001	4	1	4	Adrenal gland,Esophagus,Small intestine,Spleen	1	1	2	1	1	2	Small intestine	Spleen	Adrenal gland,Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDRHVYKY	9	5	3.8999999	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ISDLIRDSY	9	5	3.9	38	7	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	15	5	18	9	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YADPGVSFY	9	5	3.9	33	5	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thyroid,Trachea	15	4	14	10	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Muscle,Prostate,Skin,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESRQITQVY	9	5	3.95	2	1	2	Small intestine,Spleen	1	1	0	1	1	0	Small intestine	Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSGEPEVQY	9	5	3.95	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ISDAPAPAY	9	5	4.0	6	3	5	Bone marrow,Colon,Lymph node,Spleen,Thymus	2	3	1	2	2	1	Bone marrow,Colon	Spleen,Thymus	Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETEPVFWYY	9	6	1.55	4	4	3	Lung,Spleen,Thymus	0	3	1	0	2	1		Spleen,Thymus	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVFPLAMNY	9	6	2.1499999	4	1	4	Aorta,Heart,Skin,Spleen	2	1	1	2	1	1	Aorta,Heart	Spleen	Skin
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DTDAFVLVY	9	6	2.2	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETLPTILQV	9	6	2.3	12	1	12	Adrenal gland,Bladder,Bone marrow,Cerebellum,Colon,Kidney,Liver,Lymph node,Prostate,Spleen,Testis,Trachea	5	2	5	5	2	5	Bone marrow,Cerebellum,Colon,Kidney,Liver	Spleen,Testis	Adrenal gland,Bladder,Lymph node,Prostate,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETAQAIASY	9	6	2.3	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DTDEYVLKY	9	6	2.3000002	22	6	16	Adrenal gland,Bladder,Brain,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Pancreas,Prostate,Spleen,Testis,Thymus,Thyroid,Trachea	6	4	12	5	3	8	Brain,Colon,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETDSLFLHY	9	6	2.3000002	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETQKAVLQW	9	6	2.3000002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVERFLAQL	9	6	2.35	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EAGPAFMQF	9	6	2.35	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETFPANIQV	9	6	2.45	2	1	2	Adrenal gland,Tongue	0	0	2	0	0	2			Adrenal gland,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	WTDLALQY	8	6	2.45	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GTDPQLLLY	9	6	2.55	5	2	4	Aorta,Bladder,Colon,Trachea	3	0	2	2	0	2	Aorta,Colon		Bladder,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETAQAMAQL	9	6	2.6	12	1	12	Adrenal gland,Bone marrow,Colon,Gallbladder,Kidney,Liver,Lymph node,Pancreas,Spleen,Thyroid,Tongue,Trachea	5	1	6	5	1	6	Bone marrow,Colon,Kidney,Liver,Pancreas	Spleen	Adrenal gland,Gallbladder,Lymph node,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETLAFIAQM	9	6	2.6	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETEDVNLAY	9	6	2.6000001	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVAPMLQQF	9	6	2.6499999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVTAIIASF	9	6	2.6499999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NSDVSLLNY	9	6	2.65	46	7	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	19	7	20	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDKVTVNY	9	6	2.65	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVDVSLANV	9	6	2.6999998	4	1	4	Skin,Thyroid,Tongue,Trachea	0	0	4	0	0	4			Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSDKVGVFY	9	6	2.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSIPYIISY	9	6	2.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DTDDEIAKY	9	6	2.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	INDPFIDLNY	10	6	2.8	12	4	9	Cerebellum,Heart,Liver,Lung,Muscle,Skin,Small intestine,Testis,Thyroid	5	1	6	4	1	4	Cerebellum,Heart,Liver,Small intestine	Testis	Lung,Muscle,Skin,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESDNSLYFTY	10	6	2.8	4	3	2	Liver,Small intestine	4	0	0	2	0	0	Liver,Small intestine		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EQIDLLQQY	9	6	2.8	4	1	4	Esophagus,Heart,Small intestine,Spleen	2	1	1	2	1	1	Heart,Small intestine	Spleen	Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YTDPVGVLY	9	6	2.8	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QTDNIIYVY	9	6	2.8	6	3	5	Adrenal gland,Esophagus,Lung,Prostate,Thyroid	0	0	6	0	0	5			Adrenal gland,Esophagus,Lung,Prostate,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	AMDPVSVSY	9	6	2.8	2	2	2	Thymus,Thyroid	0	1	1	0	1	1		Thymus	Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VLDSLLVQY	9	6	2.8	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVVDILLNY	9	6	2.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELDRNYLNY	9	6	2.85	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESEYGNITY	9	6	2.8500001	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DTDSINLY	8	6	2.8500001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLDSLLVQY	10	6	2.8500001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVTEIISQF	9	6	2.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	STDWHVVNY	9	6	2.9	30	7	18	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Small intestine,Spleen,Thymus,Thyroid,Trachea	11	5	14	7	2	9	Aorta,Bone marrow,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NSDWHLVNY	9	6	2.9	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSSPAGAKW	9	6	2.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVMSVIAQV	9	6	2.9499998	14	1	14	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Kidney,Liver,Lymph node,Pancreas,Spleen,Tongue,Trachea	7	1	6	7	1	6	Aorta,Bone marrow,Brain,Colon,Kidney,Liver,Pancreas	Spleen	Adrenal gland,Bladder,Esophagus,Lymph node,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NTDLVFGQY	9	6	2.9499998	2	2	2	Thymus,Tongue	0	1	1	0	1	1		Thymus	Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSGLLANY	8	6	2.9499998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETDNMFNRY	9	6	2.95	47	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	19	6	22	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YQDLLQLQY	9	6	2.95	13	6	11	Bone marrow,Colon,Gallbladder,Liver,Lung,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	3	4	6	3	3	5	Bone marrow,Colon,Liver	Spleen,Testis,Thymus	Gallbladder,Lung,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETEGPHVLLY	10	6	2.95	4	3	4	Adrenal gland,Testis,Thymus,Thyroid	0	2	2	0	2	2		Testis,Thymus	Adrenal gland,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EIIPATLQW	9	6	2.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YTDNWLAVY	9	6	2.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDTSALSY	9	6	2.9500003	4	2	3	Adrenal gland,Pancreas,Trachea	1	0	3	1	0	2	Pancreas		Adrenal gland,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVTELLARY	9	6	2.9999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	STDPEALHY	9	6	3.0	46	7	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	22	6	18	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSDGSFFLY	9	6	3.0	33	7	21	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lymph node,Muscle,Pancreas,Prostate,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	12	5	16	7	3	11	Aorta,Bone marrow,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSDAPLFY	8	6	3.0	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VLDPYLLKY	9	6	3.05	47	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	20	8	19	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASLPQAATF	9	6	3.05	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NTDKAVECY	9	6	3.0500002	4	3	2	Liver,Lung	3	0	1	1	0	1	Liver		Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSEPRAIFY	9	6	3.0500002	5	4	5	Bone marrow,Liver,Lung,Thymus,Thyroid	2	1	2	2	1	2	Bone marrow,Liver	Thymus	Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YVDPQFLTY	9	6	3.1	58	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	24	8	26	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETADVIAKV	9	6	3.1	22	1	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lymph node,Muscle,Pancreas,Prostate,Skin,Spleen,Testis,Thyroid,Tongue,Trachea	9	2	11	9	2	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TVDSYVISY	9	6	3.1	10	3	9	Bone marrow,Colon,Esophagus,Lung,Prostate,Small intestine,Thyroid,Tongue,Trachea	4	0	6	3	0	6	Bone marrow,Colon,Small intestine		Esophagus,Lung,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	RTDVAVLRY	9	6	3.1	14	7	11	Adrenal gland,Bladder,Esophagus,Kidney,Liver,Lung,Muscle,Skin,Spleen,Thymus,Thyroid	3	4	7	2	2	7	Kidney,Liver	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Lung,Muscle,Skin,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FLDHIIASV	9	6	3.1	4	1	4	Bone marrow,Liver,Lung,Spleen	2	1	1	2	1	1	Bone marrow,Liver	Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VYDPLFSQL	9	6	3.1	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ERDNFLQQL	9	6	3.1	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLPPLLQL	9	6	3.1	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDRGVMSY	9	6	3.1000001	55	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	22	8	25	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDPASQLSY	10	6	3.1000001	20	5	14	Adrenal gland,Aorta,Bone marrow,Colon,Esophagus,Gallbladder,Liver,Lung,Lymph node,Small intestine,Spleen,Thymus,Thyroid,Tongue	8	3	9	5	2	7	Aorta,Bone marrow,Colon,Liver,Small intestine	Spleen,Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Lymph node,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETDSFKLAY	9	6	3.1000001	10	5	9	Bone marrow,Colon,Esophagus,Lung,Spleen,Thymus,Thyroid,Tongue,Trachea	2	3	5	2	2	5	Bone marrow,Colon	Spleen,Thymus	Esophagus,Lung,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSDLGLISY	9	6	3.1000001	5	5	4	Bone marrow,Liver,Spleen,Thymus	2	3	0	2	2	0	Bone marrow,Liver	Spleen,Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ITDSFNATY	9	6	3.1000001	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETDKNGFLQY	10	6	3.1499999	52	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	21	7	24	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KTDYMVGSY	9	6	3.1499999	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASSPVLRQM	9	6	3.1499999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSEQVAMGY	9	6	3.15	52	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	21	7	24	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	STDPWIQMAY	10	6	3.15	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EIRQYLAQW	9	6	3.15	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EPFHLIVSY	9	6	3.15	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVRHYLAQW	9	6	3.15	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ISDLFIDNY	9	6	3.1999998	28	4	20	Adrenal gland,Aorta,Bladder,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Pancreas,Prostate,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	11	4	13	8	3	9	Aorta,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETFHDIAQV	9	6	3.1999998	7	1	7	Adrenal gland,Colon,Gallbladder,Liver,Lymph node,Spleen,Testis	2	2	3	2	2	3	Colon,Liver	Spleen,Testis	Adrenal gland,Gallbladder,Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETSPHTFQL	9	6	3.1999998	6	1	6	Adrenal gland,Colon,Lymph node,Spleen,Tongue,Trachea	1	1	4	1	1	4	Colon	Spleen	Adrenal gland,Lymph node,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVIPVFAEI	9	6	3.1999998	3	2	3	Lymph node,Spleen,Thymus	0	2	1	0	2	1		Spleen,Thymus	Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSDMQTLVY	9	6	3.2	41	7	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	18	7	16	9	3	10	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ATDFDVLSY	9	6	3.2	25	5	20	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Spleen,Testis,Thymus,Thyroid,Trachea	9	4	12	7	3	10	Aorta,Bone marrow,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ITDAYLDQY	9	6	3.2	19	5	16	Adrenal gland,Aorta,Bone marrow,Colon,Esophagus,Gallbladder,Kidney,Liver,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	7	4	8	7	3	6	Aorta,Bone marrow,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Esophagus,Gallbladder,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SEDVIARTY	9	6	3.2	5	1	5	Adrenal gland,Bone marrow,Lung,Small intestine,Thyroid	2	0	3	2	0	3	Bone marrow,Small intestine		Adrenal gland,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	MSELKVLSY	9	6	3.2	5	3	4	Bone marrow,Lung,Spleen,Trachea	1	1	3	1	1	2	Bone marrow	Spleen	Lung,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSFPMEIRQY	10	6	3.2	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETQHIADQV	9	6	3.2	1	1	1	Tongue	0	0	1	0	0	1			Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	MVDPLLTKY	9	6	3.2499998	5	4	4	Bone marrow,Liver,Lung,Thymus	2	2	1	2	1	1	Bone marrow,Liver	Thymus	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	IYDKFIAQL	9	6	3.2499998	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YTDKIMTY	8	6	3.25	49	7	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	19	7	23	9	3	12	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EENTLVQNY	9	6	3.25	5	1	5	Bone marrow,Liver,Lung,Small intestine,Spleen	3	1	1	3	1	1	Bone marrow,Liver,Small intestine	Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GEDPALQI	8	6	3.25	3	1	3	Bone marrow,Colon,Lymph node	2	0	1	2	0	1	Bone marrow,Colon		Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EFTPAVHASL	10	6	3.25	1	1	1	Bladder	0	0	1	0	0	1			Bladder
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELADFVLQW	9	6	3.25	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FTDKAASY	8	6	3.25	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	MSDPYLSSYY	10	6	3.25	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVDLNLLRY	9	6	3.3	20	5	16	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Prostate,Spleen,Thymus,Thyroid,Tongue,Trachea	7	2	11	5	2	9	Aorta,Bone marrow,Colon,Kidney,Liver	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDKLVSFY	9	6	3.3	16	6	11	Adrenal gland,Bone marrow,Gallbladder,Liver,Lung,Lymph node,Spleen,Testis,Thymus,Thyroid,Trachea	3	5	8	2	3	6	Bone marrow,Liver	Spleen,Testis,Thymus	Adrenal gland,Gallbladder,Lung,Lymph node,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PTDENLARY	9	6	3.3	5	3	5	Brain,Liver,Muscle,Small intestine,Spleen	3	1	1	3	1	1	Brain,Liver,Small intestine	Spleen	Muscle
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GSDEPAFMYY	10	6	3.3	6	6	5	Cerebellum,Colon,Esophagus,Thymus,Thyroid	2	2	2	2	1	2	Cerebellum,Colon	Thymus	Esophagus,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TVDRVVLLY	9	6	3.3	2	2	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSDSDLQLY	9	6	3.3	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GTDPELNLY	9	6	3.3	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TTDYLVQGY	9	6	3.3000002	16	5	12	Brain,Cerebellum,Esophagus,Heart,Kidney,Liver,Muscle,Small intestine,Spleen,Testis,Thyroid,Trachea	8	2	6	6	2	4	Brain,Cerebellum,Heart,Kidney,Liver,Small intestine	Spleen,Testis	Esophagus,Muscle,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASEPSAQLSY	10	6	3.3000002	11	6	7	Adrenal gland,Aorta,Bone marrow,Small intestine,Testis,Thymus,Thyroid	3	3	5	3	2	2	Aorta,Bone marrow,Small intestine	Testis,Thymus	Adrenal gland,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NSDSNLTTY	9	6	3.3000002	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TSDLQLSTY	9	6	3.3000002	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VEDPALQI	8	6	3.35	7	2	6	Colon,Esophagus,Kidney,Liver,Pancreas,Tongue	5	0	2	4	0	2	Colon,Kidney,Liver,Pancreas		Esophagus,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSERADWQY	9	6	3.35	12	6	8	Bone marrow,Colon,Kidney,Lung,Lymph node,Spleen,Thymus,Tongue	4	5	3	3	2	3	Bone marrow,Colon,Kidney	Spleen,Thymus	Lung,Lymph node,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEAEGILQQY	10	6	3.35	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EENILVSRY	9	6	3.35	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETDGFISYIY	10	6	3.35	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVGPAGSQF	9	6	3.35	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSDFFTSYY	9	6	3.3500001	32	6	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	13	4	15	9	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	WVDPYEVSY	9	6	3.3500001	23	7	16	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Gallbladder,Liver,Lung,Lymph node,Pancreas,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	7	6	10	5	3	8	Aorta,Bone marrow,Colon,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Gallbladder,Lung,Lymph node,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PTDEITVYY	9	6	3.3500001	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	WIDPFEVSY	9	6	3.3500001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EERPLFPQI	9	6	3.3999996	3	2	3	Kidney,Lymph node,Spleen	1	1	1	1	1	1	Kidney	Spleen	Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDKVQAEY	9	6	3.3999999	13	5	10	Bone marrow,Colon,Esophagus,Kidney,Lung,Spleen,Testis,Thymus,Thyroid,Tongue	4	4	5	3	3	4	Bone marrow,Colon,Kidney	Spleen,Testis,Thymus	Esophagus,Lung,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETLDIGWQL	9	6	3.3999999	4	1	4	Bone marrow,Cerebellum,Colon,Liver	4	0	0	4	0	0	Bone marrow,Cerebellum,Colon,Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EKDFYLYY	8	6	3.3999999	8	5	6	Adrenal gland,Kidney,Lung,Spleen,Testis,Thymus	1	5	2	1	3	2	Kidney	Spleen,Testis,Thymus	Adrenal gland,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESEVNLDRY	9	6	3.3999999	3	1	3	Colon,Testis,Trachea	1	1	1	1	1	1	Colon	Testis	Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ATDFPLQY	8	6	3.3999999	2	1	2	Colon,Trachea	1	0	1	1	0	1	Colon		Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVIPPYYSY	9	6	3.3999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VIDPTLLHY	9	6	3.3999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NVDPVQHTY	9	6	3.4	35	7	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	15	4	16	9	3	10	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSEAVASHY	9	6	3.4	29	6	21	Adrenal gland,Aorta,Bladder,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	11	5	13	7	3	11	Aorta,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TSERTVLRY	9	6	3.4	21	7	12	Adrenal gland,Bone marrow,Esophagus,Kidney,Liver,Lung,Lymph node,Small intestine,Spleen,Thymus,Thyroid,Tongue	7	5	9	4	2	6	Bone marrow,Kidney,Liver,Small intestine	Spleen,Thymus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NLDPLTETY	9	6	3.4	11	6	9	Adrenal gland,Bone marrow,Colon,Liver,Lung,Testis,Thymus,Thyroid,Tongue	3	4	4	3	2	4	Bone marrow,Colon,Liver	Testis,Thymus	Adrenal gland,Lung,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSEAHLQQY	9	6	3.4	9	5	8	Bone marrow,Colon,Liver,Lung,Spleen,Thymus,Thyroid,Tongue	3	3	3	3	2	3	Bone marrow,Colon,Liver	Spleen,Thymus	Lung,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEDNVQKNY	9	6	3.4	6	1	6	Adrenal gland,Bone marrow,Liver,Lung,Small intestine,Spleen	3	1	2	3	1	2	Bone marrow,Liver,Small intestine	Spleen	Adrenal gland,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EKERISENY	9	6	3.4	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSDLAIQIY	9	6	3.4	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVSQYIYQV	9	6	3.4499996	9	1	9	Adrenal gland,Brain,Colon,Liver,Lymph node,Spleen,Thyroid,Tongue,Trachea	3	1	5	3	1	5	Brain,Colon,Liver	Spleen	Adrenal gland,Lymph node,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EALPSLTQV	9	6	3.4499998	7	1	7	Adrenal gland,Bone marrow,Colon,Liver,Skin,Tongue,Trachea	3	0	4	3	0	4	Bone marrow,Colon,Liver		Adrenal gland,Skin,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	IYDPNLAFL	9	6	3.4499998	2	2	2	Liver,Spleen	1	1	0	1	1	0	Liver	Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SFDGIIAMM	9	6	3.4499998	2	1	2	Aorta,Skin	1	0	1	1	0	1	Aorta		Skin
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NTDPTAPPY	9	6	3.4499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TTDFIYQLY	9	6	3.45	38	6	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	17	5	16	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PTDTNVIRY	9	6	3.45	36	7	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Prostate,Spleen,Thymus,Thyroid,Tongue,Trachea	13	5	18	7	2	10	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TTDFIFNLY	9	6	3.45	32	6	22	Adrenal gland,Aorta,Bladder,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	11	5	16	8	3	11	Aorta,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DLDSRVLYY	9	6	3.45	26	7	20	Adrenal gland,Aorta,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	10	4	12	8	3	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDRVTVLY	9	6	3.45	18	6	12	Adrenal gland,Bone marrow,Colon,Kidney,Liver,Lung,Lymph node,Spleen,Thymus,Thyroid,Tongue,Trachea	5	3	10	4	2	6	Bone marrow,Colon,Kidney,Liver	Spleen,Thymus	Adrenal gland,Lung,Lymph node,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	WTDINVVVY	9	6	3.45	11	6	8	Adrenal gland,Bone marrow,Kidney,Liver,Lung,Spleen,Thymus,Thyroid	5	3	3	3	2	3	Bone marrow,Kidney,Liver	Spleen,Thymus	Adrenal gland,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	WTDGSTLQY	9	6	3.45	6	2	5	Aorta,Bone marrow,Colon,Esophagus,Gallbladder	4	0	2	3	0	2	Aorta,Bone marrow,Colon		Esophagus,Gallbladder
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETFNVPAMY	9	6	3.45	7	3	6	Heart,Liver,Muscle,Skin,Small intestine,Thyroid	3	0	4	3	0	3	Heart,Liver,Small intestine		Muscle,Skin,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EMDAALHYY	9	6	3.45	6	3	4	Brain,Colon,Thyroid,Tongue	2	0	4	2	0	2	Brain,Colon		Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELKIAYQL	8	6	3.45	5	1	5	Adrenal gland,Esophagus,Liver,Lung,Spleen	1	1	3	1	1	3	Liver	Spleen	Adrenal gland,Esophagus,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ISDRLIGIY	9	6	3.45	3	3	2	Bone marrow,Thymus	1	2	0	1	1	0	Bone marrow	Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASEDSVLLY	9	6	3.45	1	1	1	Colon	1	0	0	1	0	0	Colon		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESESLPRY	8	6	3.45	1	1	1	Brain	1	0	0	1	0	0	Brain		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASMPHALSY	9	6	3.45	2	1	2	Thyroid,Trachea	0	0	2	0	0	2			Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSDSDQLFY	9	6	3.45	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESDLYSLAHSY	11	6	3.45	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	IVDTVTLQY	9	6	3.45	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TFDLTVVSY	9	6	3.45	1	1	1	Esophagus	0	0	1	0	0	1			Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YADRALAFY	9	6	3.45	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	STDHIPILY	9	6	3.4500003	42	7	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	17	7	18	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NSEPETLEY	9	6	3.5	13	4	12	Aorta,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Liver,Muscle,Prostate,Spleen,Testis,Thymus	5	3	5	4	3	5	Aorta,Bone marrow,Colon,Liver	Spleen,Testis,Thymus	Bladder,Esophagus,Gallbladder,Muscle,Prostate
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEQLIAAKF	9	6	3.5	4	1	4	Bone marrow,Liver,Lung,Spleen	2	1	1	2	1	1	Bone marrow,Liver	Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TSDELLHKY	9	6	3.5	2	2	2	Lung,Thyroid	0	0	2	0	0	2			Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETTFLVDKY	9	6	3.5	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETFPGVTALF	10	6	3.5	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVPERTVAQW	10	6	3.5	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	HSGPVIPVY	9	6	3.5	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TEDELVAHW	9	6	3.5	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EQKELQALY	9	6	3.5000002	4	1	4	Adrenal gland,Esophagus,Small intestine,Spleen	1	1	2	1	1	2	Small intestine	Spleen	Adrenal gland,Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TVDGVVFHY	9	6	3.5499997	4	3	3	Lung,Thymus,Thyroid	0	2	2	0	1	2		Thymus	Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	STDPSVLGKY	10	6	3.55	57	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	23	8	26	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASDMLQLEY	9	6	3.55	40	7	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	17	5	18	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDDKLSQY	9	6	3.55	34	7	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	13	5	16	8	3	11	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	MSDPYMPSYY	10	6	3.55	11	5	7	Adrenal gland,Colon,Kidney,Liver,Lung,Spleen,Thymus	4	4	3	3	2	2	Colon,Kidney,Liver	Spleen,Thymus	Adrenal gland,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSENIIEMY	9	6	3.55	5	3	4	Aorta,Colon,Thyroid,Trachea	3	0	2	2	0	2	Aorta,Colon		Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ITDHLDTQY	9	6	3.55	9	6	7	Colon,Liver,Lung,Spleen,Thymus,Thyroid,Tongue	2	3	4	2	2	3	Colon,Liver	Spleen,Thymus	Lung,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EAEIIRKY	8	6	3.55	3	1	3	Liver,Lung,Spleen	1	1	1	1	1	1	Liver	Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSKPKASL	8	6	3.55	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EYLKVDAQF	9	6	3.55	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YYDPHQATF	9	6	3.55	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDLHNNY	8	6	3.55	2	1	2	Lymph node,Spleen	0	1	1	0	1	1		Spleen	Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VLDILLEQY	9	6	3.55	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEHPELQQF	9	6	3.55	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QRDGIITQL	9	6	3.55	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EFEDMVAEK	9	6	3.5500002	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESSQHTLNY	9	6	3.5500002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SPDPLPVRY	9	6	3.5500002	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSNKMTASY	9	6	3.5500002	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ATDYTFAMY	9	6	3.6	39	7	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	16	5	18	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETDRGMSAEY	10	6	3.6	33	7	19	Adrenal gland,Aorta,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue	15	7	11	9	3	7	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Lymph node,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TSDELQFGY	9	6	3.6	35	6	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Pancreas,Prostate,Skin,Small intestine,Testis,Thymus,Thyroid,Tongue,Trachea	14	4	17	9	2	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KTDLDLQQY	9	6	3.6	38	7	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Muscle,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	13	6	19	7	3	11	Aorta,Bone marrow,Brain,Colon,Kidney,Liver,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSDPSQLNLY	10	6	3.6	11	4	9	Adrenal gland,Aorta,Colon,Liver,Small intestine,Spleen,Testis,Thyroid,Tongue	4	3	4	4	2	3	Aorta,Colon,Liver,Small intestine	Spleen,Testis	Adrenal gland,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDGNFSNY	9	6	3.6	10	4	8	Bone marrow,Colon,Lymph node,Small intestine,Spleen,Thymus,Tongue,Trachea	4	3	3	3	2	3	Bone marrow,Colon,Small intestine	Spleen,Thymus	Lymph node,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLQILTQV	9	6	3.6	12	1	12	Bladder,Cerebellum,Colon,Gallbladder,Liver,Lymph node,Prostate,Skin,Spleen,Testis,Thyroid,Trachea	3	2	7	3	2	7	Cerebellum,Colon,Liver	Spleen,Testis	Bladder,Gallbladder,Lymph node,Prostate,Skin,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSDGTPVNY	9	6	3.6	2	2	1	Lung	0	0	2	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETFSSVSQL	9	6	3.6	1	1	1	Tongue	0	0	1	0	0	1			Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVIELIVKY	9	6	3.6	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLPAALAVY	10	6	3.6	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSDVLNFIY	9	6	3.6	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QTDINLPY	8	6	3.6	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	RSEDIQLDY	9	6	3.6	1	1	1	Skin	0	0	1	0	0	1			Skin
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VFDTSIAQL	9	6	3.6	1	1	1	Esophagus	0	0	1	0	0	1			Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VTDPSTLEQY	10	6	3.6000001	24	6	17	Adrenal gland,Aorta,Bone marrow,Colon,Gallbladder,Heart,Kidney,Liver,Lung,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Trachea	12	4	8	8	3	6	Aorta,Bone marrow,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Gallbladder,Lung,Skin,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDTFTAYY	9	6	3.6000001	24	7	18	Adrenal gland,Aorta,Bladder,Bone marrow,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Prostate,Spleen,Testis,Thymus,Thyroid,Trachea	9	4	11	7	3	8	Aorta,Bone marrow,Cerebellum,Colon,Heart,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QSDYYASYY	9	6	3.6000001	23	5	14	Adrenal gland,Bladder,Bone marrow,Brain,Heart,Kidney,Liver,Lung,Prostate,Small intestine,Spleen,Thymus,Thyroid,Tongue	9	4	10	6	2	6	Bone marrow,Brain,Heart,Kidney,Liver,Small intestine	Spleen,Thymus	Adrenal gland,Bladder,Lung,Prostate,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDMAQLFY	9	6	3.6000001	13	6	9	Adrenal gland,Esophagus,Heart,Liver,Lung,Prostate,Spleen,Testis,Thymus	4	5	4	2	3	4	Heart,Liver	Spleen,Testis,Thymus	Adrenal gland,Esophagus,Lung,Prostate
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ATDPGFQAY	9	6	3.6000001	3	3	2	Kidney,Small intestine	3	0	0	2	0	0	Kidney,Small intestine		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSDLYSPRY	9	6	3.6000001	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FVDPWTVQT	9	6	3.6000001	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EQILATAVY	9	6	3.6000001	2	1	2	Adrenal gland,Spleen	0	1	1	0	1	1		Spleen	Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ALDAAVLAY	9	6	3.6000001	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSDLGISSY	9	6	3.6000001	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELDRQELTY	9	6	3.6000001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESFEKAYQV	9	6	3.6499999	9	1	9	Adrenal gland,Colon,Kidney,Liver,Lymph node,Spleen,Testis,Tongue,Trachea	3	2	4	3	2	4	Colon,Kidney,Liver	Spleen,Testis	Adrenal gland,Lymph node,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	AEDGLIRQY	9	6	3.6499999	4	1	4	Esophagus,Liver,Lung,Spleen	1	1	2	1	1	2	Liver	Spleen	Esophagus,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETALLVDRY	9	6	3.6499999	4	4	3	Liver,Thymus,Tongue	1	2	1	1	1	1	Liver	Thymus	Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEIAQVATI	9	6	3.6499999	2	1	2	Adrenal gland,Lymph node	0	0	2	0	0	2			Adrenal gland,Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EIEWITEY	8	6	3.6499999	2	1	2	Esophagus,Trachea	0	0	2	0	0	2			Esophagus,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVAPVISSAY	10	6	3.6499999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TTDPNIRVGY	10	6	3.65	7	4	6	Bone marrow,Colon,Gallbladder,Liver,Thyroid,Trachea	3	0	4	3	0	3	Bone marrow,Colon,Liver		Gallbladder,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESENKIPATQ	10	6	3.65	5	5	3	Adrenal gland,Heart,Liver	3	0	2	2	0	1	Heart,Liver		Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETDHINQIGY	10	6	3.65	6	4	5	Adrenal gland,Colon,Lung,Thymus,Thyroid	1	2	3	1	1	3	Colon	Thymus	Adrenal gland,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETDPDAQAKAY	11	6	3.65	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELKTIQANL	9	6	3.65	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	STDIGALMY	9	6	3.6500003	3	2	3	Aorta,Colon,Gallbladder	2	0	1	2	0	1	Aorta,Colon		Gallbladder
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GSELPAGALY	10	6	3.6500003	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TTDPSVRWEY	10	6	3.6999998	13	6	8	Adrenal gland,Gallbladder,Heart,Kidney,Liver,Lung,Muscle,Thymus	7	2	4	3	1	4	Heart,Kidney,Liver	Thymus	Adrenal gland,Gallbladder,Lung,Muscle
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LLDPASFEY	9	6	3.6999998	13	3	13	Bladder,Bone marrow,Colon,Gallbladder,Kidney,Liver,Lymph node,Pancreas,Prostate,Spleen,Testis,Thymus,Thyroid	5	3	5	5	3	5	Bone marrow,Colon,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Bladder,Gallbladder,Lymph node,Prostate,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EGIPKLVADF	10	6	3.6999998	3	3	2	Liver,Muscle	2	0	1	1	0	1	Liver		Muscle
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TTDPNVRWEY	10	6	3.6999998	2	2	1	Liver	2	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LNDPNPMKY	9	6	3.6999998	2	2	2	Thymus,Thyroid	0	1	1	0	1	1		Thymus	Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEVIVIAKW	9	6	3.6999998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ERNPTQFQL	9	6	3.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSFPSIFIY	9	6	3.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TSDAPFLSDY	10	6	3.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VADPPIARL	9	6	3.6999998	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VHDTVVNQL	9	6	3.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDYLRQSY	9	6	3.7	42	7	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	16	5	21	9	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QSDKVYEVY	9	6	3.7	26	6	16	Adrenal gland,Bone marrow,Brain,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	10	6	10	6	3	7	Bone marrow,Brain,Colon,Heart,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ATDMPVKNQY	10	6	3.7	15	6	11	Adrenal gland,Bone marrow,Brain,Colon,Kidney,Liver,Lung,Spleen,Testis,Thymus,Thyroid	7	3	5	5	3	3	Bone marrow,Brain,Colon,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FTDVRAAVY	9	6	3.7	15	6	10	Adrenal gland,Aorta,Bone marrow,Esophagus,Gallbladder,Liver,Lung,Thymus,Thyroid,Trachea	6	1	8	3	1	6	Aorta,Bone marrow,Liver	Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KSGPVIAKR	9	6	3.7	8	2	8	Esophagus,Heart,Kidney,Lung,Small intestine,Spleen,Testis,Thyroid	3	2	3	3	2	3	Heart,Kidney,Small intestine	Spleen,Testis	Esophagus,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	WSDGHLIYY	9	6	3.7	9	5	7	Adrenal gland,Bone marrow,Gallbladder,Kidney,Lung,Spleen,Thymus	2	3	4	2	2	3	Bone marrow,Kidney	Spleen,Thymus	Adrenal gland,Gallbladder,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	MSDVNLKY	8	6	3.7	5	4	4	Bone marrow,Liver,Lung,Thyroid	2	0	3	2	0	2	Bone marrow,Liver		Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DLDPETEQV	9	6	3.7	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DPDTNIVY	8	6	3.7	1	1	1	Heart	1	0	0	1	0	0	Heart		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESEEYQERY	9	6	3.7	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSDLRNDSY	9	6	3.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EAIGAVIHY	9	6	3.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EAYNAVVRY	9	6	3.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FTDPRTMGY	9	6	3.7000003	22	6	16	Adrenal gland,Bone marrow,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Small intestine,Spleen,Thymus,Thyroid,Trachea	11	2	9	7	2	7	Bone marrow,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Lymph node,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEQGIGVQW	9	6	3.7000003	4	1	4	Bone marrow,Liver,Lung,Spleen	2	1	1	2	1	1	Bone marrow,Liver	Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLGPLAQV	9	6	3.7499998	10	1	10	Adrenal gland,Bladder,Brain,Colon,Heart,Lymph node,Pancreas,Prostate,Testis,Trachea	4	1	5	4	1	5	Brain,Colon,Heart,Pancreas	Testis	Adrenal gland,Bladder,Lymph node,Prostate,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSDDNFGNY	9	6	3.7499998	3	2	3	Spleen,Testis,Thymus	0	3	0	0	3	0		Spleen,Testis,Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FTDVIGHY	8	6	3.7499998	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FVDVGLYQY	9	6	3.7499998	3	3	1	Thyroid	0	0	3	0	0	1			Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ERADLIAYL	9	6	3.7499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QVDPLSALKY	10	6	3.75	49	6	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	20	8	21	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVYKAVAAV	9	6	3.75	19	1	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lymph node,Muscle,Pancreas,Prostate,Spleen,Testis,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lymph node,Muscle,Prostate,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QSELVGQLY	9	6	3.75	18	5	14	Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Kidney,Liver,Lymph node,Pancreas,Spleen,Thymus,Thyroid,Trachea	8	4	6	6	2	6	Bone marrow,Brain,Colon,Kidney,Liver,Pancreas	Spleen,Thymus	Bladder,Esophagus,Gallbladder,Lymph node,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	HSERHVLLY	9	6	3.75	25	7	15	Adrenal gland,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue	6	6	13	4	3	8	Heart,Kidney,Liver,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Esophagus,Lung,Lymph node,Muscle,Skin,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QSDDLPQFQY	10	6	3.75	10	4	9	Bladder,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Pancreas,Prostate	6	0	4	5	0	4	Cerebellum,Colon,Kidney,Liver,Pancreas		Bladder,Esophagus,Gallbladder,Prostate
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELDRFMHYY	9	6	3.75	11	6	6	Adrenal gland,Bone marrow,Kidney,Liver,Spleen,Thymus	5	4	2	3	2	1	Bone marrow,Kidney,Liver	Spleen,Thymus	Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSDPGLLTALY	11	6	3.75	13	3	10	Adrenal gland,Bone marrow,Colon,Gallbladder,Liver,Lung,Lymph node,Spleen,Thymus,Thyroid	4	3	6	3	2	5	Bone marrow,Colon,Liver	Spleen,Thymus	Adrenal gland,Gallbladder,Lung,Lymph node,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEPTVIKKY	9	6	3.75	10	1	10	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Esophagus,Liver,Lung,Spleen,Thyroid	4	1	5	4	1	5	Aorta,Bone marrow,Brain,Liver	Spleen	Adrenal gland,Bladder,Esophagus,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ATDPTIDLRY	10	6	3.75	11	5	6	Gallbladder,Liver,Lung,Skin,Thyroid,Tongue	3	0	8	1	0	5	Liver		Gallbladder,Lung,Skin,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GSDFYSMHY	9	6	3.75	6	5	4	Bone marrow,Lung,Thymus,Thyroid	1	2	3	1	1	2	Bone marrow	Thymus	Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSDPNQIWIY	10	6	3.75	2	2	2	Kidney,Thymus	1	1	0	1	1	0	Kidney	Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FADSTVLQL	9	6	3.75	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLQPIGLTY	10	6	3.75	4	1	4	Lymph node,Spleen,Tongue,Trachea	0	1	3	0	1	3		Spleen	Lymph node,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TSDKPLMY	8	6	3.75	4	4	3	Adrenal gland,Thymus,Thyroid	0	1	3	0	1	2		Thymus	Adrenal gland,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDAVNVMVY	10	6	3.75	3	3	2	Thymus,Thyroid	0	1	2	0	1	1		Thymus	Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GSDVVDWLY	9	6	3.75	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EPVGWIAVY	9	6	3.75	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVIKNFIQY	9	6	3.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FADGFVLVY	9	6	3.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FLDFITYSY	9	6	3.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GLDGYVLEY	9	6	3.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDPIQGTEY	10	6	3.7500002	18	6	14	Adrenal gland,Aorta,Colon,Gallbladder,Kidney,Liver,Lung,Pancreas,Skin,Testis,Thymus,Thyroid,Tongue,Trachea	6	3	9	5	2	7	Aorta,Colon,Kidney,Liver,Pancreas	Testis,Thymus	Adrenal gland,Gallbladder,Lung,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELLIRATF	8	6	3.7500002	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEMDLKVLQF	10	6	3.7500002	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSEAPLVQK	9	6	3.7500002	2	1	2	Spleen,Thyroid	0	1	1	0	1	1		Spleen	Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASRQMIQQY	9	6	3.7500002	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSEYFGAIY	9	6	3.7500002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ISDHGTVTY	9	6	3.7500002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KSYPGLTSY	9	6	3.7500002	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASVPPFYQL	9	6	3.7999997	3	3	1	Liver	3	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEAAVFAKY	9	6	3.7999997	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	HTDPDYSAAY	10	6	3.8	12	4	9	Adrenal gland,Bone marrow,Colon,Gallbladder,Kidney,Liver,Lung,Spleen,Thymus	6	2	4	4	2	3	Bone marrow,Colon,Kidney,Liver	Spleen,Thymus	Adrenal gland,Gallbladder,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSNPYSIEY	9	6	3.8	5	2	5	Esophagus,Small intestine,Spleen,Thymus,Thyroid	1	2	2	1	2	2	Small intestine	Spleen,Thymus	Esophagus,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEFGIIKSY	9	6	3.8	2	1	2	Esophagus,Spleen	0	1	1	0	1	1		Spleen	Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EELKRVASF	9	6	3.8	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSAPVRAVL	9	6	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NTDPSGSYY	9	6	3.8000002	18	5	11	Adrenal gland,Colon,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen,Thyroid	8	3	7	5	1	5	Colon,Heart,Kidney,Liver,Pancreas	Spleen	Adrenal gland,Gallbladder,Lung,Lymph node,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ATDFKFAMY	9	6	3.85	32	7	20	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Liver,Lung,Prostate,Skin,Small intestine,Testis,Thymus,Thyroid,Tongue,Trachea	11	5	16	8	2	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Liver,Small intestine	Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVIKELAQI	9	6	3.85	23	2	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lymph node,Muscle,Pancreas,Prostate,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	9	3	11	9	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVMQAVARL	9	6	3.85	22	1	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lymph node,Muscle,Pancreas,Prostate,Skin,Spleen,Testis,Thyroid,Tongue,Trachea	9	2	11	9	2	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ATDLDVANFY	10	6	3.85	30	6	20	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Spleen,Testis,Thymus,Thyroid,Trachea	9	6	15	7	3	10	Aorta,Bone marrow,Brain,Colon,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EESFFILKY	9	6	3.85	9	1	9	Adrenal gland,Aorta,Brain,Colon,Esophagus,Liver,Lung,Spleen,Thyroid	4	1	4	4	1	4	Aorta,Brain,Colon,Liver	Spleen	Adrenal gland,Esophagus,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	AVDPRFLAY	9	6	3.85	5	4	4	Bone marrow,Colon,Lung,Thymus	2	2	1	2	1	1	Bone marrow,Colon	Thymus	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDEAGLDY	9	6	3.85	3	1	3	Bladder,Colon,Trachea	1	0	2	1	0	2	Colon		Bladder,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDDHVQF	8	6	3.85	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SYDPDFNQL	9	6	3.85	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FIDSYVLEY	9	6	3.85	2	1	2	Prostate,Testis	0	1	1	0	1	1		Testis	Prostate
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELDPQSSNLY	10	6	3.85	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASDLLDIGY	9	6	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EHAFAVQQL	9	6	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TVDARVYSY	9	6	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSIHQIAQM	9	6	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NSDSQAAAHY	10	6	3.8500001	12	4	10	Adrenal gland,Aorta,Brain,Colon,Esophagus,Pancreas,Skin,Testis,Thyroid,Tongue	5	1	6	4	1	5	Aorta,Brain,Colon,Pancreas	Testis	Adrenal gland,Esophagus,Skin,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GSYKVVVQK	9	6	3.8500001	3	1	3	Heart,Kidney,Lung	2	0	1	2	0	1	Heart,Kidney		Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	REDTRVATF	9	6	3.8500001	2	1	2	Liver,Spleen	1	1	0	1	1	0	Liver	Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EDALRAQQF	9	6	3.8500001	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSVISVVSY	9	6	3.8500001	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NTDQIDLY	8	6	3.8500001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVFPLKVFGY	10	6	3.8999996	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ERVDVNVQI	9	6	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVSSEIYQW	9	6	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDFIQKY	8	6	3.8999999	1	1	1	Thyroid	0	0	1	0	0	1			Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NLDQSLAHY	9	6	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSDVNMQEY	9	6	3.9	45	7	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	17	5	23	9	3	12	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	RSDLPTAMEY	10	6	3.9	15	4	10	Adrenal gland,Aorta,Colon,Esophagus,Gallbladder,Kidney,Prostate,Spleen,Testis,Thyroid	5	3	7	3	2	5	Aorta,Colon,Kidney	Spleen,Testis	Adrenal gland,Esophagus,Gallbladder,Prostate,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KSDEMELLY	9	6	3.9	7	6	6	Bone marrow,Liver,Lung,Spleen,Thymus,Thyroid	2	3	2	2	2	2	Bone marrow,Liver	Spleen,Thymus	Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDRTITEY	9	6	3.9	4	4	3	Colon,Thymus,Thyroid	1	2	1	1	1	1	Colon	Thymus	Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	STDEITTRY	9	6	3.9	2	2	2	Liver,Skin	1	0	1	1	0	1	Liver		Skin
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASDAANGMQY	10	6	3.9	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	HRDKAVTQL	9	6	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSYGSIVTY	9	6	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSHPQYSSY	9	6	3.9	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KSDGSFIGY	9	6	3.9499998	13	6	10	Aorta,Bone marrow,Colon,Liver,Lung,Testis,Thymus,Thyroid,Tongue,Trachea	4	3	6	4	2	4	Aorta,Bone marrow,Colon,Liver	Testis,Thymus	Lung,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVSPPVGAGV	10	6	3.9499998	3	1	3	Adrenal gland,Colon,Kidney	2	0	1	2	0	1	Colon,Kidney		Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESMKRLAEV	9	6	3.9499998	2	1	2	Adrenal gland,Liver	1	0	1	1	0	1	Liver		Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EAFPEAFHY	9	6	3.9499998	1	1	1	Small intestine	1	0	0	1	0	0	Small intestine		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASSSIAAKM	9	6	3.9499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSEERVWEY	9	6	3.9499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YRDGLVEQL	9	6	3.9499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GTDPTPQHY	9	6	3.95	52	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	22	7	23	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDKTLSFY	9	6	3.95	38	7	20	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Pancreas,Prostate,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	13	7	18	7	3	10	Aorta,Bone marrow,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSDRVAVDYY	10	6	3.95	32	6	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Prostate,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	11	6	15	7	3	9	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SIDRTVMYY	9	6	3.95	3	3	2	Kidney,Small intestine	3	0	0	2	0	0	Kidney,Small intestine		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASNPATFQR	9	6	3.95	5	1	5	Kidney,Liver,Lung,Testis,Thyroid	2	1	2	2	1	2	Kidney,Liver	Testis	Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEQTPVERQY	10	6	3.95	1	1	1	Small intestine	1	0	0	1	0	0	Small intestine		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSDLLAGVAY	10	6	3.95	2	2	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ITDIHIKY	8	6	3.95	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QLDHSVQSY	9	6	3.95	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QLDRISVYY	9	6	3.95	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EMMKVVQVY	9	6	3.95	1	1	1	Esophagus	0	0	1	0	0	1			Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSDEEAVHY	9	6	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TLDSITLMY	9	6	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	RVDPIGPLSY	10	6	3.9500003	12	5	11	Adrenal gland,Aorta,Bone marrow,Cerebellum,Colon,Esophagus,Gallbladder,Lung,Thymus,Thyroid,Trachea	4	2	6	4	1	6	Aorta,Bone marrow,Cerebellum,Colon	Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EQRKTVTY	8	6	3.9500003	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLGFVAKL	9	6	3.9999998	20	1	20	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Liver,Lymph node,Muscle,Pancreas,Prostate,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	10	8	2	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lymph node,Muscle,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EAYGFVARI	9	6	3.9999998	14	1	14	Adrenal gland,Bladder,Brain,Colon,Gallbladder,Heart,Muscle,Pancreas,Prostate,Skin,Testis,Thyroid,Tongue,Trachea	4	1	9	4	1	9	Brain,Colon,Heart,Pancreas	Testis	Adrenal gland,Bladder,Gallbladder,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVFPEFAAA	9	6	3.9999998	13	1	13	Adrenal gland,Bone marrow,Colon,Gallbladder,Kidney,Lymph node,Pancreas,Skin,Spleen,Testis,Thyroid,Tongue,Trachea	4	2	7	4	2	7	Bone marrow,Colon,Kidney,Pancreas	Spleen,Testis	Adrenal gland,Gallbladder,Lymph node,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSGVVARL	8	6	3.9999998	2	2	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEQERVLRY	9	6	3.9999998	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NTDPHSQEY	9	6	4.0	51	6	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	21	7	23	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSDLGKLSY	9	6	4.0	47	7	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	19	8	20	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YTDVPFHNQY	10	6	4.0	45	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	17	7	21	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSDSKQFTY	9	6	4.0	38	7	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	16	7	15	9	3	10	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSDLGRLSY	9	6	4.0	40	7	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	14	7	19	9	3	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PSDSHRLSY	9	6	4.0	14	5	7	Adrenal gland,Aorta,Kidney,Liver,Lymph node,Spleen,Trachea	6	3	5	3	1	3	Aorta,Kidney,Liver	Spleen	Adrenal gland,Lymph node,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EALGRMAQV	9	6	4.0	13	1	13	Adrenal gland,Bladder,Bone marrow,Colon,Esophagus,Heart,Kidney,Liver,Lymph node,Spleen,Testis,Tongue,Trachea	5	2	6	5	2	6	Bone marrow,Colon,Heart,Kidney,Liver	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lymph node,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QSKTIKVSY	9	6	4.0	7	1	7	Adrenal gland,Aorta,Brain,Esophagus,Small intestine,Spleen,Thyroid	3	1	3	3	1	3	Aorta,Brain,Small intestine	Spleen	Adrenal gland,Esophagus,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSAKLASY	8	6	4.0	4	4	2	Adrenal gland,Liver	3	0	1	1	0	1	Liver		Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSDLHAFYY	9	6	4.0	11	5	7	Adrenal gland,Kidney,Liver,Lung,Lymph node,Spleen,Tongue	2	3	6	2	1	4	Kidney,Liver	Spleen	Adrenal gland,Lung,Lymph node,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEQLPLRAGY	10	6	4.0	4	1	4	Adrenal gland,Esophagus,Lung,Spleen	0	1	3	0	1	3		Spleen	Adrenal gland,Esophagus,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEIPLIKSAY	10	6	4.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EERAVIKAY	9	6	4.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELITKFLQY	9	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ESVRNYEQW	9	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVPEIIPLY	9	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FRDIAQQL	8	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSVDLIKTY	9	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YKDMVAAM	8	6	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSEGYLLFY	9	7	2.25	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETVRVLMSY	9	7	2.35	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVTDLLASF	9	7	2.3999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETESTWLTY	9	7	2.4	4	2	3	Brain,Cerebellum,Thyroid	3	0	1	2	0	1	Brain,Cerebellum		Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DTDHYFLRY	9	7	2.65	54	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	22	8	24	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YTDAALNY	8	7	2.65	7	4	6	Colon,Kidney,Liver,Spleen,Thymus,Trachea	3	3	1	3	2	1	Colon,Kidney,Liver	Spleen,Thymus	Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSERFFIRY	9	7	2.65	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVIRLIANF	9	7	2.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSEQLLNNY	9	7	2.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DTDISLIRY	9	7	2.7	4	4	3	Thymus,Thyroid,Tongue	0	2	2	0	1	2		Thymus	Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DMDKVLLKY	9	7	2.7	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	RQDMLILQI	9	7	2.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETLTMLYQV	9	7	2.7999997	10	1	10	Adrenal gland,Bone marrow,Brain,Colon,Gallbladder,Prostate,Spleen,Thyroid,Tongue,Trachea	3	1	6	3	1	6	Bone marrow,Brain,Colon	Spleen	Adrenal gland,Gallbladder,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETVTAMASL	9	7	2.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KTDHFIFTY	9	7	2.85	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EASKLLLTY	9	7	2.85	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EREQVIAAL	9	7	2.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETKQFFLQF	9	7	2.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETETVTKSY	9	7	2.8500001	2	2	2	Colon,Esophagus	1	0	1	1	0	1	Colon		Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVSEAVLALW	10	7	2.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETEKMIEKY	9	7	2.95	18	7	11	Adrenal gland,Colon,Esophagus,Kidney,Liver,Lung,Spleen,Testis,Thymus,Thyroid,Tongue	4	5	9	3	3	5	Colon,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Esophagus,Lung,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEEARLASF	9	7	2.95	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	MTDETIANV	9	7	2.9999998	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TTDPYLTNSY	10	7	3.0	12	6	10	Adrenal gland,Bone marrow,Colon,Liver,Lung,Lymph node,Spleen,Testis,Thymus,Thyroid	4	3	5	3	3	4	Bone marrow,Colon,Liver	Spleen,Testis,Thymus	Adrenal gland,Lung,Lymph node,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QTDGLGLSY	9	7	3.0	9	3	8	Bladder,Brain,Colon,Esophagus,Pancreas,Spleen,Thymus,Trachea	3	3	3	3	2	3	Brain,Colon,Pancreas	Spleen,Thymus	Bladder,Esophagus,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETEYSFLDY	9	7	3.0	6	5	5	Colon,Lung,Skin,Thymus,Thyroid	1	2	3	1	1	3	Colon	Thymus	Lung,Skin,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETEVSFLDY	9	7	3.0	3	2	3	Colon,Lung,Thyroid	1	0	2	1	0	2	Colon		Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSEGVTISY	9	7	3.0	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETEPGSFLYY	10	7	3.05	21	6	14	Adrenal gland,Aorta,Colon,Esophagus,Heart,Kidney,Liver,Lung,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid	8	4	9	6	3	5	Aorta,Colon,Heart,Kidney,Liver,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Esophagus,Lung,Skin,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PTDAYQLNY	9	7	3.05	11	6	7	Adrenal gland,Kidney,Liver,Pancreas,Spleen,Thymus,Thyroid	5	3	3	3	2	2	Kidney,Liver,Pancreas	Spleen,Thymus	Adrenal gland,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DTDDVTYQVY	10	7	3.05	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EDFVLLLTY	9	7	3.1	8	3	6	Adrenal gland,Cerebellum,Colon,Esophagus,Gallbladder,Thyroid	3	0	5	2	0	4	Cerebellum,Colon		Adrenal gland,Esophagus,Gallbladder,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LLDGFLVNY	9	7	3.1499999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSELFTLTY	9	7	3.15	51	7	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	21	7	23	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSERAMLYY	9	7	3.15	2	2	1	Liver	2	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSEKQALCY	9	7	3.15	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FLDEALLTY	9	7	3.15	3	3	2	Adrenal gland,Thymus	0	2	1	0	1	1		Thymus	Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSEGYLLFY	9	7	3.15	3	3	2	Spleen,Thymus	0	3	0	0	2	0		Spleen,Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEFEKLYASY	10	7	3.1999998	6	1	6	Adrenal gland,Bone marrow,Esophagus,Liver,Lung,Spleen	2	1	3	2	1	3	Bone marrow,Liver	Spleen	Adrenal gland,Esophagus,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QTDHLFFKY	9	7	3.2499998	24	6	15	Adrenal gland,Bladder,Bone marrow,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Prostate,Small intestine,Spleen,Thymus,Thyroid,Tongue	8	4	12	4	2	9	Bone marrow,Kidney,Liver,Small intestine	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASTSLIMQL	9	7	3.2499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YTDPAGLRNY	10	7	3.25	3	1	3	Adrenal gland,Bone marrow,Liver	2	0	1	2	0	1	Bone marrow,Liver		Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSEFLQPLY	9	7	3.2500002	2	2	2	Colon,Thyroid	1	0	1	1	0	1	Colon		Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SLDKFLASV	9	7	3.2999997	19	3	16	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Heart,Liver,Lung,Muscle,Pancreas,Skin,Small intestine,Spleen,Trachea	10	1	8	8	1	7	Aorta,Bone marrow,Brain,Colon,Heart,Liver,Pancreas,Small intestine	Spleen	Adrenal gland,Bladder,Esophagus,Lung,Muscle,Skin,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TQDGNIYQL	9	7	3.2999997	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LLDDFLLTY	9	7	3.3	26	6	17	Adrenal gland,Bladder,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Liver,Lung,Pancreas,Prostate,Small intestine,Spleen,Thymus,Thyroid,Tongue,Trachea	9	4	13	6	2	9	Brain,Cerebellum,Colon,Liver,Pancreas,Small intestine	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NTDNLLTEY	9	7	3.3	19	6	16	Adrenal gland,Aorta,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Kidney,Liver,Pancreas,Small intestine,Testis,Thymus,Thyroid,Tongue,Trachea	9	2	8	8	2	6	Aorta,Bone marrow,Brain,Colon,Kidney,Liver,Pancreas,Small intestine	Testis,Thymus	Adrenal gland,Esophagus,Gallbladder,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETFAFIQQL	9	7	3.3	18	1	18	Adrenal gland,Bladder,Bone marrow,Brain,Colon,Esophagus,Heart,Kidney,Liver,Lymph node,Muscle,Pancreas,Prostate,Spleen,Testis,Thyroid,Tongue,Trachea	7	2	9	7	2	9	Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lymph node,Muscle,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QTDQMVFNAY	10	7	3.3	9	5	8	Adrenal gland,Bone marrow,Colon,Liver,Lung,Spleen,Thymus,Thyroid	3	3	3	3	2	3	Bone marrow,Colon,Liver	Spleen,Thymus	Adrenal gland,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YTDRALRASY	10	7	3.3	10	7	7	Bone marrow,Kidney,Liver,Lung,Lymph node,Spleen,Thymus	3	5	2	3	2	2	Bone marrow,Kidney,Liver	Spleen,Thymus	Lung,Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DMDTFFLHY	9	7	3.3	2	2	1	Colon	2	0	0	1	0	0	Colon		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FTDKLFYIY	9	7	3.3	3	3	3	Liver,Lung,Thymus	1	1	1	1	1	1	Liver	Thymus	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LVDLYILTY	9	7	3.3	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EAAMAIASL	9	7	3.3	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETLEVDVASW	10	7	3.3	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TSEIGWLTY	9	7	3.3000002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GLDELFVQV	9	7	3.35	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NTDANILFY	9	7	3.3500001	36	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	13	4	19	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	STDILTLVY	9	7	3.3500001	12	3	9	Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Kidney,Pancreas,Prostate,Small intestine	8	0	4	5	0	4	Bone marrow,Colon,Kidney,Pancreas,Small intestine		Bladder,Esophagus,Gallbladder,Prostate
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QSERQLLLY	9	7	3.3500001	13	7	8	Adrenal gland,Bone marrow,Kidney,Liver,Lung,Lymph node,Spleen,Thymus	5	5	3	3	2	3	Bone marrow,Kidney,Liver	Spleen,Thymus	Adrenal gland,Lung,Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETIRLEATL	9	7	3.3999999	4	1	4	Kidney,Lymph node,Testis,Thyroid	1	1	2	1	1	2	Kidney	Testis	Lymph node,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EHAGLAVQL	9	7	3.3999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETIGRLLQL	9	7	3.3999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSESSGVLY	9	7	3.4	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LLDRFLATV	9	7	3.4499998	11	1	11	Adrenal gland,Aorta,Bone marrow,Brain,Colon,Esophagus,Liver,Lung,Small intestine,Spleen,Thyroid	6	1	4	6	1	4	Aorta,Bone marrow,Brain,Colon,Liver,Small intestine	Spleen	Adrenal gland,Esophagus,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDQAIFY	8	7	3.4499998	13	5	11	Bone marrow,Colon,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen,Thymus,Thyroid,Trachea	5	3	5	5	2	4	Bone marrow,Colon,Kidney,Liver,Pancreas	Spleen,Thymus	Lung,Lymph node,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ATDASFLVQY	10	7	3.4499998	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETLSKIYLSY	10	7	3.4499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASETGFLTY	9	7	3.45	12	7	8	Bone marrow,Colon,Gallbladder,Liver,Lung,Skin,Thymus,Thyroid	3	2	7	3	1	4	Bone marrow,Colon,Liver	Thymus	Gallbladder,Lung,Skin,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETERLTDDY	9	7	3.45	5	4	3	Aorta,Lung,Thymus	1	2	2	1	1	1	Aorta	Thymus	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SLDALLSQV	9	7	3.4999998	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVTTHILSQF	10	7	3.4999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDRLASLY	9	7	3.5	36	7	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	13	6	17	9	3	11	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSEVSSLNY	9	7	3.5	15	7	13	Adrenal gland,Aorta,Bone marrow,Colon,Esophagus,Liver,Pancreas,Small intestine,Spleen,Thymus,Thyroid,Tongue,Trachea	6	3	6	6	2	5	Aorta,Bone marrow,Colon,Liver,Pancreas,Small intestine	Spleen,Thymus	Adrenal gland,Esophagus,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSEELPLYY	9	7	3.5	10	6	8	Colon,Liver,Lung,Prostate,Thymus,Thyroid,Tongue,Trachea	2	2	6	2	1	5	Colon,Liver	Thymus	Lung,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DIDTAAKF	8	7	3.5	3	3	3	Bladder,Lung,Pancreas	1	0	2	1	0	2	Pancreas		Bladder,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PTDENLLKY	9	7	3.5	3	3	3	Brain,Spleen,Thymus	1	2	0	1	2	0	Brain	Spleen,Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVAEAITQF	9	7	3.5	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVVENLLNY	9	7	3.5	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSEELANLY	9	7	3.5	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QSEIASMLY	9	7	3.5000002	47	6	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	20	5	22	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NTDPWAGYRY	10	7	3.55	28	7	18	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Spleen,Testis,Thymus,Thyroid	11	6	11	7	3	8	Aorta,Bone marrow,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis,Thymus	Adrenal gland,Bladder,Gallbladder,Lung,Lymph node,Muscle,Prostate,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FTDPRAYLKY	10	7	3.55	10	6	7	Kidney,Liver,Lung,Small intestine,Spleen,Thymus,Thyroid	3	4	3	3	2	2	Kidney,Liver,Small intestine	Spleen,Thymus	Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETAGRYITY	9	7	3.55	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KLDSLLLFY	9	7	3.5500002	3	3	3	Bone marrow,Liver,Thymus	2	1	0	2	1	0	Bone marrow,Liver	Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DLDPNADLAY	10	7	3.5500002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVPTQLVSY	9	7	3.5500002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDMTLLHY	9	7	3.6	34	7	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Prostate,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	13	6	15	8	3	10	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASEFQILKY	9	7	3.6	6	4	4	Adrenal gland,Kidney,Liver,Pancreas	5	0	1	3	0	1	Kidney,Liver,Pancreas		Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	RTDEAAFQK	9	7	3.6	9	2	8	Adrenal gland,Aorta,Esophagus,Kidney,Lung,Skin,Spleen,Testis	2	2	5	2	2	4	Aorta,Kidney	Spleen,Testis	Adrenal gland,Esophagus,Lung,Skin
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EENPSLNIQF	10	7	3.6	5	1	5	Bone marrow,Esophagus,Liver,Lung,Spleen	2	1	2	2	1	2	Bone marrow,Liver	Spleen	Esophagus,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ITDIQIMEY	9	7	3.6	2	2	2	Brain,Cerebellum	2	0	0	2	0	0	Brain,Cerebellum		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLGLILRY	9	7	3.6	3	2	3	Esophagus,Skin,Thymus	0	1	2	0	1	2		Thymus	Esophagus,Skin
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVIRAFYSY	9	7	3.6	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSEMLQKNY	9	7	3.6	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DTDYRSMEY	9	7	3.6000001	7	7	4	Colon,Liver,Thymus,Thyroid	2	2	3	2	1	1	Colon,Liver	Thymus	Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETVRNINQV	9	7	3.6499999	9	1	9	Adrenal gland,Brain,Colon,Esophagus,Kidney,Lymph node,Spleen,Tongue,Trachea	3	1	5	3	1	5	Brain,Colon,Kidney	Spleen	Adrenal gland,Esophagus,Lymph node,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETIGTLAFL	9	7	3.6499999	7	1	7	Adrenal gland,Bone marrow,Colon,Liver,Lymph node,Spleen,Trachea	3	1	3	3	1	3	Bone marrow,Colon,Liver	Spleen	Adrenal gland,Lymph node,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GTDLSIFKY	9	7	3.6499999	5	5	4	Liver,Lung,Thymus,Tongue	1	2	2	1	1	2	Liver	Thymus	Lung,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETLGLSAAL	9	7	3.6499999	3	1	3	Liver,Lymph node,Spleen	1	1	1	1	1	1	Liver	Spleen	Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EALHVLAFL	9	7	3.6499999	2	1	2	Liver,Spleen	1	1	0	1	1	0	Liver	Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETVALTAFV	9	7	3.6499999	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	HTDWLLDLY	9	7	3.6499999	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETIESINQL	9	7	3.6499999	8	2	8	Adrenal gland,Lymph node,Skin,Spleen,Testis,Thymus,Tongue,Trachea	0	3	5	0	3	5		Spleen,Testis,Thymus	Adrenal gland,Lymph node,Skin,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSERDVYLTY	10	7	3.6499999	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EITQYIQSY	9	7	3.6499999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETIETINQL	9	7	3.6499999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLDQLANL	9	7	3.6499999	1	1	1	Tongue	0	0	1	0	0	1			Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NTDFYQTSY	9	7	3.65	53	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	22	7	24	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GTDELRLLY	9	7	3.65	50	7	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	20	8	22	10	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSEQTFMYY	9	7	3.65	28	7	18	Adrenal gland,Aorta,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Prostate,Small intestine,Testis,Thymus,Thyroid,Tongue,Trachea	12	4	12	8	2	8	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Small intestine	Testis,Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETTKLTTY	8	7	3.65	4	1	4	Esophagus,Small intestine,Thyroid,Trachea	1	0	3	1	0	3	Small intestine		Esophagus,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ILDEVIMGY	9	7	3.65	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PTDVLKIVY	9	7	3.65	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VTDEAQLVY	9	7	3.65	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEASLLHQF	9	7	3.6999998	12	1	12	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Esophagus,Liver,Lung,Small intestine,Spleen,Thyroid	6	1	5	6	1	5	Aorta,Bone marrow,Brain,Cerebellum,Liver,Small intestine	Spleen	Adrenal gland,Bladder,Esophagus,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EESILSRNY	9	7	3.6999998	9	1	9	Adrenal gland,Bladder,Bone marrow,Esophagus,Liver,Lung,Small intestine,Spleen,Thyroid	3	1	5	3	1	5	Bone marrow,Liver,Small intestine	Spleen	Adrenal gland,Bladder,Esophagus,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETITKFLQL	9	7	3.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETLKEFVQL	9	7	3.6999998	1	1	1	Tongue	0	0	1	0	0	1			Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVPGFGANF	9	7	3.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NTDGRLLEY	9	7	3.7	6	3	4	Bone marrow,Colon,Pancreas,Small intestine	6	0	0	4	0	0	Bone marrow,Colon,Pancreas,Small intestine		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KTDVTMLLY	9	7	3.7	2	2	1	Liver	2	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KYDVLFALF	9	7	3.7	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLDNLLAFV	10	7	3.7	2	1	2	Adrenal gland,Thyroid	0	0	2	0	0	2			Adrenal gland,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EIKDKLLNY	9	7	3.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETELISTTANY	11	7	3.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NSENHILKY	9	7	3.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TIDQLYLEY	9	7	3.7499998	20	6	16	Aorta,Bladder,Bone marrow,Colon,Gallbladder,Liver,Lung,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	6	4	10	5	3	8	Aorta,Bone marrow,Colon,Liver,Small intestine	Spleen,Testis,Thymus	Bladder,Gallbladder,Lung,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLKLLAEM	9	7	3.7499998	2	1	2	Spleen,Trachea	0	1	1	0	1	1		Spleen	Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETELDGLRY	9	7	3.75	47	7	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	19	8	20	9	3	11	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FTDKELLAY	9	7	3.75	36	7	21	Adrenal gland,Bladder,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	14	6	16	8	3	10	Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VTDTASMKY	9	7	3.75	29	6	19	Adrenal gland,Aorta,Bladder,Bone marrow,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Skin,Small intestine,Spleen,Thymus,Thyroid,Tongue	12	3	14	8	2	9	Aorta,Bone marrow,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Skin,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDYLKNTY	9	7	3.75	5	4	4	Colon,Kidney,Liver,Small intestine	5	0	0	4	0	0	Colon,Kidney,Liver,Small intestine		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VTDPEKLNNY	10	7	3.75	6	5	4	Bone marrow,Liver,Lung,Thymus	3	2	1	2	1	1	Bone marrow,Liver	Thymus	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASLDKFLASV	10	7	3.75	4	2	4	Bone marrow,Colon,Heart,Muscle	3	0	1	3	0	1	Bone marrow,Colon,Heart		Muscle
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETEKDFSRY	9	7	3.75	7	6	5	Liver,Lung,Thymus,Thyroid,Tongue	2	2	3	1	1	3	Liver	Thymus	Lung,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EYTLMRATF	9	7	3.75	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GSSALARF	8	7	3.75	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSEEASLHY	9	7	3.75	2	2	1	Adrenal gland	0	0	2	0	0	1			Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELERLTSLY	9	7	3.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EPIEAIAKF	9	7	3.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVVQEILQF	9	7	3.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FIDFLIDTY	9	7	3.75	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TTDVDSLSY	9	7	3.7500002	5	1	5	Bone marrow,Colon,Esophagus,Kidney,Pancreas	4	0	1	4	0	1	Bone marrow,Colon,Kidney,Pancreas		Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEETTRISY	9	7	3.7500002	7	1	7	Adrenal gland,Bone marrow,Esophagus,Liver,Lung,Spleen,Thyroid	2	1	4	2	1	4	Bone marrow,Liver	Spleen	Adrenal gland,Esophagus,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETERRMDFY	9	7	3.7500002	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KTDLLLEPY	9	7	3.7999997	10	5	8	Adrenal gland,Aorta,Bone marrow,Esophagus,Muscle,Spleen,Thymus,Thyroid	2	3	5	2	2	4	Aorta,Bone marrow	Spleen,Thymus	Adrenal gland,Esophagus,Muscle,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EAEPHPLWEY	10	7	3.7999997	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	HTDVGLLEY	9	7	3.8	47	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	20	6	21	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVMFLTVQV	9	7	3.8	16	1	16	Adrenal gland,Aorta,Bladder,Brain,Colon,Esophagus,Liver,Muscle,Pancreas,Prostate,Skin,Spleen,Testis,Thyroid,Tongue,Trachea	5	2	9	5	2	9	Aorta,Brain,Colon,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FTDTSLMY	8	7	3.8	5	3	4	Colon,Kidney,Thymus,Trachea	2	2	1	2	1	1	Colon,Kidney	Thymus	Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LLDTVTMQV	9	7	3.8	3	1	3	Bone marrow,Liver,Lung	2	0	1	2	0	1	Bone marrow,Liver		Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETAKGIQQV	9	7	3.8	5	1	5	Adrenal gland,Colon,Lymph node,Spleen,Tongue	1	1	3	1	1	3	Colon	Spleen	Adrenal gland,Lymph node,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLSALSQL	9	7	3.8	4	1	4	Adrenal gland,Bone marrow,Tongue,Trachea	1	0	3	1	0	3	Bone marrow		Adrenal gland,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLTSLLQV	9	7	3.8	2	1	2	Colon,Spleen	1	1	0	1	1	0	Colon	Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EYMSFMNQF	9	7	3.8	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VLDVVYLVY	9	7	3.8	3	3	2	Lung,Thymus	0	2	1	0	1	1		Thymus	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LLDTVELATY	10	7	3.8	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DGDLAGRY	8	7	3.8	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EALSAIIASW	10	7	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETISSTATL	9	7	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVAQHLAATY	10	7	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVFETIIHSY	10	7	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVIIPLATW	9	7	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLNTLVQL	9	7	3.8	1	1	1	Tongue	0	0	1	0	0	1			Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVSEHTLESY	10	7	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ILDEFLQTY	9	7	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VLDNGILSY	9	7	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VTDHLGVVYY	10	7	3.8000002	15	6	12	Adrenal gland,Bone marrow,Colon,Gallbladder,Liver,Lung,Lymph node,Spleen,Thymus,Thyroid,Tongue,Trachea	3	3	9	3	2	7	Bone marrow,Colon,Liver	Spleen,Thymus	Adrenal gland,Gallbladder,Lung,Lymph node,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VMDKMQLTY	9	7	3.8000002	3	2	3	Bone marrow,Liver,Lung	2	0	1	2	0	1	Bone marrow,Liver		Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TSDQATLLLY	10	7	3.8000002	4	3	4	Adrenal gland,Colon,Thymus,Thyroid	1	1	2	1	1	2	Colon	Thymus	Adrenal gland,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EPTAAAIAY	9	7	3.8000002	5	1	5	Adrenal gland,Esophagus,Skin,Spleen,Thyroid	0	1	4	0	1	4		Spleen	Adrenal gland,Esophagus,Skin,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EQRNLQVEY	9	7	3.8000002	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVAGVGIQW	9	7	3.8000002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	HADILLETY	9	7	3.8000002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PSENNKLTY	9	7	3.8000002	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEALFIARF	9	7	3.8499997	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDDDLLRY	9	7	3.85	53	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	22	8	23	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDLVDDNY	9	7	3.85	33	6	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	13	5	15	9	3	11	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EETETVTKSY	10	7	3.85	9	1	9	Adrenal gland,Aorta,Bone marrow,Esophagus,Liver,Lung,Small intestine,Spleen,Thyroid	4	1	4	4	1	4	Aorta,Bone marrow,Liver,Small intestine	Spleen	Adrenal gland,Esophagus,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VSEQELLRY	9	7	3.85	9	5	8	Bone marrow,Colon,Liver,Testis,Thymus,Thyroid,Tongue,Trachea	3	3	3	3	2	3	Bone marrow,Colon,Liver	Testis,Thymus	Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEVSRIINY	9	7	3.85	4	1	4	Bone marrow,Liver,Lung,Thyroid	2	0	2	2	0	2	Bone marrow,Liver		Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EHSLVLHQL	9	7	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ERVPFDAATL	10	7	3.85	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVNGLISMY	9	7	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVTDFLSFY	9	7	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PSRLPLQF	8	7	3.85	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSERQNQEY	9	7	3.8500001	2	2	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EIPEQFLSY	9	7	3.8500001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TVDPASLWEY	10	7	3.8999999	13	5	9	Adrenal gland,Aorta,Bone marrow,Cerebellum,Liver,Lung,Spleen,Thymus,Thyroid	5	4	4	4	2	3	Aorta,Bone marrow,Cerebellum,Liver	Spleen,Thymus	Adrenal gland,Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ATDGSFANK	9	7	3.8999999	3	2	3	Brain,Heart,Lung	2	0	1	2	0	1	Brain,Heart		Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETIERLQQL	9	7	3.8999999	7	2	7	Adrenal gland,Colon,Lymph node,Spleen,Thymus,Tongue,Trachea	1	2	4	1	2	4	Colon	Spleen,Thymus	Adrenal gland,Lymph node,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETVQLKALV	9	7	3.8999999	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETILLKAVL	9	7	3.8999999	3	1	3	Lymph node,Spleen,Tongue	0	1	2	0	1	2		Spleen	Lymph node,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VFDTAIAHL	9	7	3.8999999	2	1	2	Esophagus,Spleen	0	1	1	0	1	1		Spleen	Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELAEELLQW	9	7	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETIDRFNNY	9	7	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VEDLNIIQV	9	7	3.8999999	1	1	1	Gallbladder	0	0	1	0	0	1			Gallbladder
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	WEDISLATI	9	7	3.8999999	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YTDQFSRNY	9	7	3.9	41	7	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Trachea	16	6	19	10	3	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	STDLQDYTY	9	7	3.9	25	7	16	Adrenal gland,Aorta,Bone marrow,Brain,Colon,Gallbladder,Heart,Kidney,Liver,Lung,Skin,Testis,Thymus,Thyroid,Tongue,Trachea	9	5	11	7	2	7	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver	Testis,Thymus	Adrenal gland,Gallbladder,Lung,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	GTDVLSTRY	9	7	3.9	3	2	3	Skin,Thymus,Trachea	0	1	2	0	1	2		Thymus	Skin,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	VTDVGIRY	8	7	3.9	2	1	2	Lung,Thyroid	0	0	2	0	0	2			Lung,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LIDLAIDTY	9	7	3.9	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EAEKSNLAY	9	7	3.9	1	1	1	Tongue	0	0	1	0	0	1			Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EALSLAHTY	9	7	3.9	1	1	1	Esophagus	0	0	1	0	0	1			Esophagus
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELAQKLLQW	9	7	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETQTKYQSY	9	7	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QRDETALQL	9	7	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QTDFGMYDY	9	7	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	HTDDPLTWDY	10	7	3.9499998	14	5	12	Adrenal gland,Aorta,Bone marrow,Colon,Gallbladder,Liver,Lung,Lymph node,Spleen,Thymus,Thyroid,Tongue	4	3	7	4	2	6	Aorta,Bone marrow,Colon,Liver	Spleen,Thymus	Adrenal gland,Gallbladder,Lung,Lymph node,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YSDVSGLLANY	11	7	3.9499998	14	5	11	Adrenal gland,Bone marrow,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Spleen,Thymus,Thyroid	4	3	7	3	2	6	Bone marrow,Kidney,Liver	Spleen,Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Lymph node,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	RTDAILLGHY	10	7	3.9499998	4	3	4	Bone marrow,Liver,Lung,Thymus	2	1	1	2	1	1	Bone marrow,Liver	Thymus	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETHYLNEQV	9	7	3.9499998	4	1	4	Adrenal gland,Bone marrow,Lymph node,Spleen	1	1	2	1	1	2	Bone marrow	Spleen	Adrenal gland,Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETHLKQQL	8	7	3.9499998	2	2	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ATDDSLYY	8	7	3.9499998	1	1	1	Colon	1	0	0	1	0	0	Colon		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EALRLLDAQL	10	7	3.9499998	6	1	6	Adrenal gland,Lymph node,Spleen,Thyroid,Tongue,Trachea	0	1	5	0	1	5		Spleen	Adrenal gland,Lymph node,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EAYPLPGVTY	10	7	3.9499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QTDTLQNDY	9	7	3.95	19	6	12	Adrenal gland,Bone marrow,Colon,Liver,Lung,Lymph node,Small intestine,Spleen,Thymus,Thyroid,Tongue,Trachea	6	4	9	4	2	6	Bone marrow,Colon,Liver,Small intestine	Spleen,Thymus	Adrenal gland,Lung,Lymph node,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSEVNMQEY	9	7	3.95	2	1	2	Bone marrow,Liver	2	0	0	2	0	0	Bone marrow,Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FTDRATLY	8	7	3.95	3	3	3	Liver,Lung,Lymph node	1	0	2	1	0	2	Liver		Lung,Lymph node
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSDPVTLNVLY	11	7	3.95	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PLDRAMAEL	9	7	3.95	2	1	2	Adrenal gland,Spleen	0	1	1	0	1	1		Spleen	Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDEGLLY	8	7	3.95	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TSEPKPFLYY	10	7	3.95	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ERTVVNALF	9	7	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVLPQARASW	10	7	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FTDLPANLY	9	7	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	HRDGALTQL	9	7	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LPDKSIASL	9	7	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSDNATLTHY	10	7	3.9500003	56	7	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	23	8	25	10	3	12	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Muscle,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ASGAVGLSY	9	7	3.9500003	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSEEGAVGY	9	7	3.9500003	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	RSSRAGLQF	9	7	3.9500003	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	MEDGLIKQI	9	7	3.9999998	20	2	18	Adrenal gland,Aorta,Bladder,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Muscle,Pancreas,Prostate,Spleen,Testis,Thyroid,Tongue,Trachea	7	3	10	6	2	10	Aorta,Colon,Heart,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Muscle,Prostate,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EEVGALAKV	9	7	3.9999998	5	2	3	Adrenal gland,Kidney,Liver	4	0	1	2	0	1	Kidney,Liver		Adrenal gland
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	KTDGSFIGY	9	7	4.0	39	7	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	15	5	19	9	3	10	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Prostate,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YTDEDMLKY	9	7	4.0	31	7	16	Adrenal gland,Aorta,Bone marrow,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	9	6	16	4	3	9	Aorta,Bone marrow,Kidney,Liver	Spleen,Testis,Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LTDADAMKY	9	7	4.0	15	6	11	Adrenal gland,Bone marrow,Heart,Kidney,Liver,Lung,Lymph node,Small intestine,Spleen,Thymus,Thyroid	7	3	5	5	2	4	Bone marrow,Heart,Kidney,Liver,Small intestine	Spleen,Thymus	Adrenal gland,Lung,Lymph node,Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELEDSTLRY	9	7	4.0	22	7	15	Adrenal gland,Aorta,Brain,Colon,Gallbladder,Heart,Liver,Lung,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	6	4	12	5	3	7	Aorta,Brain,Colon,Heart,Liver	Spleen,Testis,Thymus	Adrenal gland,Gallbladder,Lung,Skin,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TADHNLLLY	9	7	4.0	19	6	12	Adrenal gland,Bladder,Bone marrow,Colon,Liver,Lung,Lymph node,Spleen,Thymus,Thyroid,Tongue,Trachea	5	5	9	3	2	7	Bone marrow,Colon,Liver	Spleen,Thymus	Adrenal gland,Bladder,Lung,Lymph node,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	FSENTLQFY	9	7	4.0	10	4	7	Adrenal gland,Bone marrow,Colon,Liver,Lung,Spleen,Thymus	4	4	2	3	2	2	Bone marrow,Colon,Liver	Spleen,Thymus	Adrenal gland,Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SVDSQILYY	9	7	4.0	11	6	8	Colon,Gallbladder,Kidney,Liver,Testis,Thymus,Thyroid,Trachea	3	3	5	3	2	3	Colon,Kidney,Liver	Testis,Thymus	Gallbladder,Thyroid,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NSEITSLYY	9	7	4.0	3	3	2	Heart,Thymus	2	1	0	1	1	0	Heart	Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	PIDGNFFTY	9	7	4.0	3	2	3	Liver,Thymus,Thyroid	1	1	1	1	1	1	Liver	Thymus	Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELRTGLATV	9	7	4.0	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EYIRSLNQF	9	7	4.0	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ELDSKVEVLTY	11	7	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETERTRNLY	9	7	4.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVKDYLAAI	9	7	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	LSEGVEALFY	10	7	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	NRDEAIKQL	9	7	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	QLDHLSLYY	9	7	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	TLDDMISYY	9	7	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DTDSAYILFY	10	8	3.1000001	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETEREYFNRY	10	8	3.6499999	10	7	9	Bone marrow,Esophagus,Liver,Lung,Spleen,Testis,Thymus,Thyroid,Tongue	2	4	4	2	3	4	Bone marrow,Liver	Spleen,Testis,Thymus	Esophagus,Lung,Thyroid,Tongue
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	SSEELLSLKY	10	8	3.8	3	3	2	Thymus,Thyroid	0	2	1	0	1	1		Thymus	Thyroid
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSQRVLYIRY	10	8	3.8	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YTDSSSILNY	10	8	3.85	35	7	18	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	15	5	15	7	3	8	Aorta,Bone marrow,Brain,Heart,Kidney,Liver,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EVIERLIKSY	10	8	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	ETPETSFNQW	10	8	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DTDLFSQPTY	10	8	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EAFEKSAATW	10	8	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	EENEKLLKEY	10	8	3.9499998	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	YLDIKWLANF	10	8	3.9999998	1	1	1	Liver	1	0	0	1	0	0	Liver		
+TITIN_A01_ESDPIVAQY_off	ESDPIVAQY	A*01:01	weighted	DSFSDLYSSY	10	8	3.9999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	

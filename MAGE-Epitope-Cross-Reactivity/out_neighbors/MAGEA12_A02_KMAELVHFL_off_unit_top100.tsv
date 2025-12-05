@@ -1,0 +1,24 @@
+peptide	pep_len	unit_dist	weighted_dist	n_hits	n_donors	n_tissues	tissues	protected_hits	tolerated_hits	uncertain_hits	protected_tissues_n	tolerated_tissues_n	uncertain_tissues_n	protected_tissues	tolerated_tissues	uncertain_tissues
+KMAEMLVEL	9	3	2.15	5	4	5	Adrenal gland,Bone marrow,Lung,Ovary,Thymus	1	2	2	1	2	2	Bone marrow	Ovary,Thymus	Adrenal gland,Lung
+RLAEVVHEL	9	4	1.25	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+SLAELVHAV	9	4	1.4	62	6	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Ovary,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	25	11	26	10	5	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Skin,Thyroid,Tongue,Trachea
+KVADLVLML	9	4	1.5500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+NLLELVHLL	9	4	1.5500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+KLAEFIDFL	9	4	1.6	3	3	3	Bone marrow,Ovary,Thymus	1	2	0	1	2	0	Bone marrow	Ovary,Thymus	
+SIAEVVHQL	9	4	1.75	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+AMAELVRNV	9	4	1.8499999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+KLAEGVQLL	9	4	2.2	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+HLWAELVFL	9	4	2.35	9	5	7	Bone marrow,Kidney,Liver,Lung,Ovary,Spleen,Thymus	4	4	1	3	3	1	Bone marrow,Kidney,Liver	Ovary,Spleen,Thymus	Lung
+KVMELLVHL	9	4	2.35	3	3	3	Lung,Ovary,Thymus	0	2	1	0	2	1		Ovary,Thymus	Lung
+KLAELEEAL	9	4	2.5	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+AETELVRFL	9	4	2.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SMASLVIFM	9	4	2.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+GLAELGHRL	9	4	2.8500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+YMAELIERL	9	4	2.95	4	3	4	Bone marrow,Colon,Lung,Ovary	2	1	1	2	1	1	Bone marrow,Colon	Ovary	Lung
+SMAELDIKL	9	4	3.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+VLAELVAKL	9	4	3.05	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+ETSELVHSL	9	4	3.1000001	17	2	17	Adrenal gland,Aorta,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	7	8	2	7	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+AMIELVERL	9	4	3.1000001	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+PYAERVYFL	9	4	3.1000001	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+KMQEDLVTL	9	4	3.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+KIMAELQAF	9	4	3.3999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	

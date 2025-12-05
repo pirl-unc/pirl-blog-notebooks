@@ -1,0 +1,23 @@
+peptide	pep_len	min_edit	n_tissues	tissues	n_donors
+ESDPIVAQY	9	0	8	Aorta,Bone marrow,Esophagus,Heart,Muscle,Skin,Thyroid,Tongue	4
+SDPIVAQY	8	1	1	Heart	1
+VSDSISAQY	9	3	1	Liver	1
+SSFKVAQY	8	4	2	Esophagus,Spleen	1
+QSDPKPSQY	9	4	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue	6
+YSDPYVKTY	9	4	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Prostate,Spleen,Thymus,Thyroid,Tongue,Trachea	6
+SSDPQAQKY	9	4	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Skin,Small intestine,Spleen,Testis,Thyroid,Tongue	5
+VSDPSSPQY	9	4	14	Adrenal gland,Aorta,Bone marrow,Colon,Gallbladder,Liver,Lung,Lymph node,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid	5
+ASDSIVLFY	9	4	13	Bladder,Bone marrow,Colon,Heart,Liver,Muscle,Pancreas,Prostate,Spleen,Testis,Thymus,Thyroid,Trachea	5
+FSDIVKQGY	9	4	12	Adrenal gland,Aorta,Bladder,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Small intestine,Thyroid,Tongue	4
+RTDPVVADY	9	4	7	Adrenal gland,Bone marrow,Colon,Liver,Lung,Lymph node,Spleen	3
+TSDDHVIQY	9	4	2	Thymus,Thyroid	5
+SSDNIMVQY	9	4	2	Thymus,Thyroid	3
+VSDELVQQY	9	4	2	Thymus,Thyroid	3
+RSDPYVKSY	9	4	2	Bone marrow,Thymus	2
+EAQPIVTKY	9	4	1	Thyroid	1
+ESDLDYIQY	9	4	1	Thymus	1
+ESDSTIVYY	9	4	1	Thymus	1
+EVPHEVAQY	9	4	1	Thymus	1
+RSDLEVAHY	9	4	1	Liver	1
+SELDRINAQY	10	4	8	Adrenal gland,Bladder,Bone marrow,Esophagus,Liver,Lung,Spleen,Thyroid	1
+ESDPTEWAMY	10	4	1	Liver	1

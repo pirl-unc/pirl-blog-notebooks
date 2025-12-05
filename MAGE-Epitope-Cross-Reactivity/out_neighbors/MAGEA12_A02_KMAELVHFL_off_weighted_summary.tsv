@@ -1,0 +1,713 @@
+job	query_epitope	query_allele	label	peptide	pep_len	unit_dist	weighted_dist	n_hits	n_donors	n_tissues	tissues	protected_hits	tolerated_hits	uncertain_hits	protected_tissues_n	tolerated_tissues_n	uncertain_tissues_n	protected_tissues	tolerated_tissues	uncertain_tissues
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMAEMLVEL	9	3	2.15	5	4	5	Adrenal gland,Bone marrow,Lung,Ovary,Thymus	1	2	2	1	2	2	Bone marrow	Ovary,Thymus	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLAEVVHEL	9	4	1.25	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLAELVHAV	9	4	1.4	62	6	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Ovary,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	25	11	26	10	5	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Skin,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVADLVLML	9	4	1.5500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAEFIDFL	9	4	1.6	3	3	3	Bone marrow,Ovary,Thymus	1	2	0	1	2	0	Bone marrow	Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SIAEVVHQL	9	4	1.75	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAEGVQLL	9	4	2.2	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVMELLVHL	9	4	2.35	3	3	3	Lung,Ovary,Thymus	0	2	1	0	2	1		Ovary,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAELEEAL	9	4	2.5	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SMASLVIFM	9	4	2.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GLAELGHRL	9	4	2.8500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YMAELIERL	9	4	2.95	4	3	4	Bone marrow,Colon,Lung,Ovary	2	1	1	2	1	1	Bone marrow,Colon	Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SMAELDIKL	9	4	3.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VLAELVAKL	9	4	3.05	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AMIELVERL	9	4	3.1000001	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	PYAERVYFL	9	4	3.1000001	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMQEDLVTL	9	4	3.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YLADLYHFV	9	5	1.5999999	30	6	14	Adrenal gland,Bone marrow,Colon,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Thymus,Tongue,Uterus	12	8	10	6	4	4	Bone marrow,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Lymph node,Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RIAEVAKL	8	5	1.65	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVLDFEHFL	9	5	1.75	24	6	16	Adrenal gland,Aorta,Bone marrow,Cerebellum,Colon,Esophagus,Kidney,Lung,Lymph node,Ovary,Spleen,Thymus,Thyroid,Tongue,Trachea,Uterus	10	5	9	5	4	7	Aorta,Bone marrow,Cerebellum,Colon,Kidney	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIDLEHLL	9	5	1.75	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVVALVHAV	9	5	1.75	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NVAELLHQV	9	5	1.8	11	2	11	Aorta,Bone marrow,Colon,Esophagus,Kidney,Liver,Lymph node,Spleen,Thyroid,Tongue,Trachea	5	1	5	5	1	5	Aorta,Bone marrow,Colon,Kidney,Liver	Spleen	Esophagus,Lymph node,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVASLLHQV	9	5	1.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIAESIPYL	9	5	1.8499999	3	2	2	Adrenal gland,Ovary	0	1	2	0	1	1		Ovary	Adrenal gland
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HPAELYRAL	9	5	1.85	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEAEIIKQL	9	5	1.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LVADLVHTV	9	5	1.9499998	5	2	5	Colon,Kidney,Liver,Lung,Lymph node	3	0	2	3	0	2	Colon,Kidney,Liver		Lung,Lymph node
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NMLEAVHTI	9	5	1.95	4	4	2	Bone marrow,Thymus	3	1	0	1	1	0	Bone marrow	Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAEALPSL	9	5	2.0	2	2	2	Spleen,Thymus	0	2	0	0	2	0		Spleen,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ESADLIHWL	9	5	2.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLADLVHHV	9	5	2.05	22	6	13	Adrenal gland,Aorta,Bone marrow,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Spleen,Thymus,Thyroid,Trachea	5	7	10	4	3	6	Aorta,Bone marrow,Kidney,Liver	Ovary,Spleen,Thymus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YVADLVHSA	9	5	2.1	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAGYLHTL	9	5	2.15	3	2	2	Cerebellum,Liver	3	0	0	2	0	0	Cerebellum,Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RAAEQAHL	8	5	2.15	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLAELIQAL	9	5	2.1999998	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TIAQLVHAV	9	5	2.1999998	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	MVAEILHHL	9	5	2.1999998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FLADYVHSL	9	5	2.25	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KAVEDIHGL	9	5	2.25	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEIEAMHSL	9	5	2.25	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLAELEEFI	9	5	2.25	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KISEVVELL	9	5	2.3	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLAELGLHL	9	5	2.3	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAEKLTIL	9	5	2.35	5	4	4	Bone marrow,Lung,Ovary,Thymus	1	3	1	1	2	1	Bone marrow	Ovary,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMMDFETFL	9	5	2.35	3	2	3	Esophagus,Heart,Muscle	1	0	2	1	0	2	Heart		Esophagus,Muscle
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIDDVHRL	9	5	2.35	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLAELLVLL	9	5	2.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KRNDYVHAL	9	5	2.3999999	3	2	2	Liver,Lung	1	0	2	1	0	1	Liver		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMMENLTTL	9	5	2.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QYASAFHFL	9	5	2.5	7	1	7	Adrenal gland,Kidney,Ovary,Skin,Spleen,Thyroid,Uterus	1	3	3	1	3	3	Kidney	Ovary,Spleen,Uterus	Adrenal gland,Skin,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLWELLYKL	9	5	2.5	5	5	3	Ovary,Spleen,Thymus	0	5	0	0	3	0		Ovary,Spleen,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KILEEAHEL	9	5	2.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SAAELRHVM	9	5	2.5	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVDEIVVL	8	5	2.5499997	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLFELFLTL	9	5	2.55	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLYELYLQL	9	5	2.55	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMADIEYRL	9	5	2.6	2	2	2	Bone marrow,Ovary	1	1	0	1	1	0	Bone marrow	Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SMMDPNHFL	9	5	2.6	2	2	2	Ovary,Skin	0	1	1	0	1	1		Ovary	Skin
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLEPVLL	8	5	2.6	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVQEQVHKV	9	5	2.6	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVDEAVAVL	9	5	2.6499999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLAELQEQL	9	5	2.65	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAAVVNNL	9	5	2.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLMELYERL	9	5	2.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LMTDVLVFL	9	5	2.7499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMWEEAIAL	9	5	2.8	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KETEIVKKL	9	5	2.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMFQVHQV	8	5	2.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SVASLVIFV	9	5	2.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAVLLVTL	9	5	2.85	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLAEFVQSL	9	5	2.8500001	39	6	21	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	15	9	15	9	5	7	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LMAEMGVHSV	10	5	2.9	11	3	8	Adrenal gland,Cerebellum,Kidney,Lung,Ovary,Skin,Spleen,Uterus	2	6	3	2	3	3	Cerebellum,Kidney	Ovary,Spleen,Uterus	Adrenal gland,Lung,Skin
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLTENLVAL	9	5	2.9499998	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLGELHTL	9	5	2.95	8	5	7	Adrenal gland,Bone marrow,Lung,Ovary,Spleen,Thymus,Uterus	1	4	3	1	4	2	Bone marrow	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GLADKVYFL	9	5	3.0	47	6	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	19	10	18	9	5	8	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMLEKLPEL	9	5	3.0	15	5	8	Adrenal gland,Kidney,Liver,Lung,Ovary,Spleen,Thyroid,Uterus	3	6	6	2	3	3	Kidney,Liver	Ovary,Spleen,Uterus	Adrenal gland,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIEKNYFL	9	5	3.0	10	5	6	Adrenal gland,Kidney,Lung,Ovary,Spleen,Thymus	1	5	4	1	3	2	Kidney	Ovary,Spleen,Thymus	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VLAPLVIYL	9	5	3.0	4	3	4	Lung,Ovary,Spleen,Thymus	0	3	1	0	3	1		Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	REAEHLYHTL	10	5	3.05	2	2	2	Spleen,Thymus	0	2	0	0	2	0		Spleen,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLASTLVHL	9	5	3.05	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVAEFVQSL	9	5	3.0500002	1	1	1	Colon	1	0	0	1	0	0	Colon		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLGEFVVTL	9	5	3.0500002	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEAEFLQKL	9	5	3.1	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMASTLPSL	9	5	3.1000001	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLAELELEL	9	5	3.1000001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLSELEAAL	9	5	3.1499999	5	4	4	Lung,Ovary,Pancreas,Thymus	1	2	2	1	2	1	Pancreas	Ovary,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EAANLFQFL	9	5	3.1499999	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KADKVTML	8	5	3.1499999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMWEEAISL	9	5	3.15	11	5	5	Bone marrow,Lung,Ovary,Spleen,Thymus	3	5	3	1	3	1	Bone marrow	Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLYERSHKL	9	5	3.15	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIAGYVTHL	9	5	3.15	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAEEMLGL	9	5	3.15	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAKDVASL	9	5	3.2	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEEELLLFW	9	5	3.2499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQELNYNL	9	5	3.25	27	6	15	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Spleen,Thymus,Thyroid	11	6	10	7	3	5	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Ovary,Spleen,Thymus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYPENFFL	8	5	3.25	6	1	6	Adrenal gland,Kidney,Liver,Lung,Ovary,Pancreas	3	1	2	3	1	2	Kidney,Liver,Pancreas	Ovary	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMAGTSVYL	9	5	3.25	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VLAELAIRL	9	5	3.25	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GLAESVSTL	9	5	3.25	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQEENHQL	9	5	3.25	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TEAEGWHFF	9	5	3.2999997	5	3	5	Bone marrow,Lung,Ovary,Spleen,Thymus	1	3	1	1	3	1	Bone marrow	Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VVAVLPHIL	9	5	3.2999997	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLSENTDFL	9	5	3.3	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMFENEFLL	9	5	3.3	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QVAERVEAL	9	5	3.3	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVAELFQRL	9	5	3.3000002	19	2	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLAELHISL	9	5	3.35	2	2	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LMEHIHKL	8	5	3.3500001	7	4	5	Bone marrow,Kidney,Lung,Small intestine,Spleen	5	1	1	3	1	1	Bone marrow,Kidney,Small intestine	Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQNLNIFL	9	5	3.3500001	11	6	6	Aorta,Bone marrow,Lung,Ovary,Spleen,Thymus	2	6	3	2	3	1	Aorta,Bone marrow	Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEVVHSVL	8	5	3.3999999	4	2	4	Bone marrow,Colon,Lung,Spleen	2	1	1	2	1	1	Bone marrow,Colon	Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLAETLVNL	9	5	3.4	22	5	15	Adrenal gland,Bone marrow,Brain,Cerebellum,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Spleen,Thymus,Thyroid,Tongue,Trachea	8	4	10	6	3	6	Bone marrow,Brain,Cerebellum,Kidney,Liver,Pancreas	Ovary,Spleen,Thymus	Adrenal gland,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VMVENSHGL	9	5	3.4	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ARAAQVFFL	9	5	3.4499998	4	2	3	Kidney,Lung,Spleen	1	1	2	1	1	1	Kidney	Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QEAGLLQFL	9	5	3.4499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEALAHRW	8	5	3.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEQELTKKL	9	5	3.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLDENSAFL	9	5	3.5	2	2	2	Kidney,Ovary	1	1	0	1	1	0	Kidney	Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAENEITL	9	5	3.5	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VLAELNASL	9	5	3.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GMTELYFQL	9	5	3.55	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KFPELNYQL	9	5	3.5500002	5	4	3	Lung,Spleen,Thymus	0	2	3	0	2	1		Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQELENRL	9	5	3.6	13	5	8	Esophagus,Kidney,Lung,Ovary,Pancreas,Spleen,Tongue,Uterus	3	4	6	2	3	3	Kidney,Pancreas	Ovary,Spleen,Uterus	Esophagus,Lung,Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMDESKHEI	9	5	3.6	12	5	8	Adrenal gland,Kidney,Lung,Ovary,Skin,Spleen,Thyroid,Uterus	1	5	6	1	3	4	Kidney	Ovary,Spleen,Uterus	Adrenal gland,Lung,Skin,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLTELENEL	9	5	3.6	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLAELDVTL	9	5	3.6000001	2	2	2	Kidney,Ovary	1	1	0	1	1	0	Kidney	Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAPPLVTL	9	5	3.6000001	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GMAERIPEL	9	5	3.6499999	7	4	6	Adrenal gland,Cerebellum,Lung,Ovary,Skin,Thymus	1	3	3	1	2	3	Cerebellum	Ovary,Thymus	Adrenal gland,Lung,Skin
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AVAELNYGL	9	5	3.65	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GMVETRVFL	9	5	3.65	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SMMALLVQL	9	5	3.65	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LMAPYTPFL	9	5	3.6999998	3	1	3	Kidney,Lung,Spleen	1	1	1	1	1	1	Kidney	Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GMYETPLFL	9	5	3.7	6	4	6	Cerebellum,Lung,Ovary,Spleen,Thymus,Thyroid	1	3	2	1	3	2	Cerebellum	Ovary,Spleen,Thymus	Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KAEGDVAAL	9	5	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SEAEIRVFL	9	5	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YFAEKVTSL	9	5	3.75	5	1	5	Aorta,Brain,Esophagus,Lung,Thyroid	2	0	3	2	0	3	Aorta,Brain		Esophagus,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YFAERVTSL	9	5	3.75	3	2	2	Esophagus,Lung	0	0	3	0	0	2			Esophagus,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YMLEHVITL	9	5	3.75	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LLAEKVEQL	9	5	3.8	9	5	5	Adrenal gland,Lung,Ovary,Pancreas,Uterus	1	3	5	1	2	2	Pancreas	Ovary,Uterus	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GEALLTHLL	9	5	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEQELQQTL	9	5	3.85	4	3	4	Lung,Ovary,Spleen,Thymus	0	3	1	0	3	1		Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLAELELEL	9	5	3.8500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMKPEVTAL	9	5	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLAERVDRL	9	5	3.9	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KQKLVYIL	8	5	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KAHLGTAL	8	5	3.9999998	2	2	2	Small intestine,Thymus	1	1	0	1	1	0	Small intestine	Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	DMEQRHVL	8	5	4.0	2	1	2	Bone marrow,Spleen	1	1	0	1	1	0	Bone marrow	Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GLAALAVHL	9	5	4.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TTAELNYGL	9	5	4.0	1	1	1	Bladder	0	0	1	0	0	1			Bladder
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HLAEALHQA	9	6	1.5	5	4	4	Liver,Lung,Ovary,Spleen	1	2	2	1	2	1	Liver	Ovary,Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLADYLHLL	9	6	1.8	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LLADLLHNV	9	6	1.9999998	4	3	3	Bone marrow,Ovary,Spleen	2	2	0	1	2	0	Bone marrow	Ovary,Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KRIDIIHNL	9	6	1.9999998	2	2	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLAEAQTYL	9	6	2.0	3	3	3	Cerebellum,Ovary,Thymus	1	2	0	1	2	0	Cerebellum	Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVIEINPYL	9	6	2.05	46	6	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	19	11	16	9	5	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HEAEVLKQL	9	6	2.05	11	3	11	Adrenal gland,Aorta,Bone marrow,Brain,Esophagus,Liver,Lung,Ovary,Spleen,Thymus,Thyroid	4	3	4	4	3	4	Aorta,Bone marrow,Brain,Liver	Ovary,Spleen,Thymus	Adrenal gland,Esophagus,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQEVLDYL	9	6	2.05	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEIDSVKYL	9	6	2.1	3	3	3	Liver,Ovary,Thymus	1	2	0	1	2	0	Liver	Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEIDLLKQL	9	6	2.1	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KALDLSLYL	9	6	2.1499999	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLDNLHDL	9	6	2.1499999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLAEINREFL	10	6	2.15	2	2	1	Spleen	0	2	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQDGVHII	9	6	2.1999998	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYLGQLHYL	9	6	2.2	8	1	8	Adrenal gland,Cerebellum,Kidney,Liver,Lung,Spleen,Thyroid,Uterus	3	2	3	3	2	3	Cerebellum,Kidney,Liver	Spleen,Uterus	Adrenal gland,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIEILEQL	9	6	2.2	3	3	3	Kidney,Ovary,Thymus	1	2	0	1	2	0	Kidney	Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLFDASHSL	9	6	2.2	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVADYIPQL	9	6	2.2	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLDEVTYL	9	6	2.25	10	5	5	Brain,Cerebellum,Liver,Small intestine,Thymus	9	1	0	4	1	0	Brain,Cerebellum,Liver,Small intestine	Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RVAMYVHAY	9	6	2.25	3	2	3	Lung,Spleen,Thymus	0	2	1	0	2	1		Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KAANAFHVY	9	6	2.25	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEGEIIHLI	9	6	2.2999997	3	3	3	Lung,Ovary,Thymus	0	2	1	0	2	1		Ovary,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LLADVTHLL	9	6	2.2999997	3	2	3	Ovary,Spleen,Uterus	0	3	0	0	3	0		Ovary,Spleen,Uterus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAEVGRVYL	10	6	2.3	25	4	11	Adrenal gland,Aorta,Bone marrow,Kidney,Liver,Lung,Ovary,Spleen,Thyroid,Trachea,Uterus	9	7	9	4	3	4	Aorta,Bone marrow,Kidney,Liver	Ovary,Spleen,Uterus	Adrenal gland,Lung,Thyroid,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RQADFVQVL	9	6	2.3	2	2	2	Thymus,Uterus	0	2	0	0	2	0		Thymus,Uterus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLDSMHDL	9	6	2.3	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLDLLEGL	9	6	2.35	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLTEILELL	9	6	2.35	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SMVDVVMLL	9	6	2.3999999	4	4	4	Lung,Ovary,Spleen,Thymus	0	3	1	0	3	1		Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVANVAKFL	9	6	2.4	1	1	1	Colon	1	0	0	1	0	0	Colon		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEIGAVKYL	9	6	2.4	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLVEGLSAL	9	6	2.4499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLDLMPRL	9	6	2.45	7	4	6	Bone marrow,Liver,Lung,Ovary,Spleen,Thymus	2	3	2	2	3	1	Bone marrow,Liver	Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIIEYSVYL	9	6	2.45	8	3	6	Adrenal gland,Kidney,Lung,Spleen,Testis,Uterus	1	4	3	1	3	2	Kidney	Spleen,Testis,Uterus	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLADWMATL	9	6	2.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLEVYEQL	9	6	2.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLMEEIREL	9	6	2.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLMDQLEAL	9	6	2.5499997	9	5	6	Bone marrow,Lung,Ovary,Small intestine,Spleen,Thymus	3	4	2	2	3	1	Bone marrow,Small intestine	Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLHDVEHVL	9	6	2.5499997	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AIAEFARSL	9	6	2.55	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YAAEIASAL	9	6	2.55	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KESEVYKML	9	6	2.55	4	3	4	Lung,Ovary,Spleen,Thymus	0	3	1	0	3	1		Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLWDLLYKL	9	6	2.55	3	3	3	Ovary,Spleen,Thymus	0	3	0	0	3	0		Ovary,Spleen,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FAADAVKL	8	6	2.55	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLAEVLQQL	9	6	2.6	13	5	10	Adrenal gland,Bone marrow,Cerebellum,Colon,Kidney,Liver,Lung,Ovary,Thymus,Thyroid	7	2	4	5	2	3	Bone marrow,Cerebellum,Colon,Kidney,Liver	Ovary,Thymus	Adrenal gland,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLYEQHHVV	9	6	2.6	2	2	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLPLLLLL	9	6	2.6	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YCAEIAHNV	9	6	2.6499999	10	3	7	Bone marrow,Cerebellum,Kidney,Liver,Lung,Spleen,Trachea	5	2	3	4	1	2	Bone marrow,Cerebellum,Kidney,Liver	Spleen	Lung,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLYESLLPFA	10	6	2.6499999	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLAEQIATL	9	6	2.65	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLEDIAVL	9	6	2.6999998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLTEVHAA	9	6	2.7	2	1	2	Bone marrow,Lung	1	0	1	1	0	1	Bone marrow		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLMGQIHQL	9	6	2.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ALATLIHQV	9	6	2.75	60	6	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	25	11	24	10	5	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLFEAPNFF	9	6	2.75	7	2	7	Bone marrow,Liver,Lung,Lymph node,Small intestine,Spleen,Thymus	3	2	2	3	2	2	Bone marrow,Liver,Small intestine	Spleen,Thymus	Lung,Lymph node
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLEFQLAL	9	6	2.75	5	5	4	Bone marrow,Ovary,Spleen,Thymus	1	4	0	1	3	0	Bone marrow	Ovary,Spleen,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLDEAFEFV	9	6	2.75	5	4	4	Cerebellum,Lung,Ovary,Thymus	1	2	2	1	2	1	Cerebellum	Ovary,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLAPFVYLL	9	6	2.75	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLGDFVAAL	9	6	2.75	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YMLDLQKQL	9	6	2.75	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RYAPMVAFF	9	6	2.75	2	1	2	Spleen,Thyroid	0	1	1	0	1	1		Spleen	Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLADDLSTL	9	6	2.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLFEFMHET	9	6	2.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYITDVVKL	9	6	2.7999997	4	1	4	Cerebellum,Lung,Ovary,Thyroid	1	1	2	1	1	2	Cerebellum	Ovary	Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQEFLQTL	9	6	2.8	20	5	14	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Thymus,Uterus	9	6	5	7	4	3	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Lymph node
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SVALVIHNV	9	6	2.8	5	1	5	Cerebellum,Liver,Lung,Lymph node,Pancreas	3	0	2	3	0	2	Cerebellum,Liver,Pancreas		Lung,Lymph node
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLAEINEYL	9	6	2.8	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VLAEQLHQA	9	6	2.8	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RIAEFTTNL	9	6	2.8	3	3	3	Lung,Ovary,Thymus	0	2	1	0	2	1		Ovary,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIADPFVL	8	6	2.8	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KILETLYTL	9	6	2.8	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GMIGLLTFI	9	6	2.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLFDTQQFL	9	6	2.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVAEITKQL	9	6	2.8000002	2	1	2	Esophagus,Tongue	0	0	2	0	0	2			Esophagus,Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLAAISHGL	9	6	2.8000002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ETADITHAL	9	6	2.85	19	2	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LVATAVHAY	9	6	2.85	2	1	2	Liver,Spleen	1	1	0	1	1	0	Liver	Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQDGNHLL	9	6	2.85	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NLAERIKSL	9	6	2.8500001	5	1	5	Adrenal gland,Bone marrow,Liver,Lung,Spleen	2	1	2	2	1	2	Bone marrow,Liver	Spleen	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLETIDQL	9	6	2.8500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYMEDYHQF	9	6	2.8999999	2	1	2	Skin,Thyroid	0	0	2	0	0	2			Skin,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KILEDTQFV	9	6	2.8999999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLTEIRHEV	9	6	2.8999999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLADKLYNL	9	6	2.9	2	2	2	Kidney,Ovary	1	1	0	1	1	0	Kidney	Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FTADFVRQL	9	6	2.9	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLAEMIATL	9	6	2.9	4	3	4	Lung,Ovary,Spleen,Thymus	0	3	1	0	3	1		Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KILDLETQL	9	6	2.9	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLYSVVSQL	9	6	2.9	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KQIGLLSFF	9	6	2.9499998	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AMLAVLHTV	9	6	2.9499998	3	2	2	Lung,Uterus	0	1	2	0	1	1		Uterus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVAEVFEAL	9	6	2.9499998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIGQVHEV	9	6	2.95	33	6	17	Adrenal gland,Aorta,Bladder,Brain,Cerebellum,Esophagus,Heart,Kidney,Liver,Lung,Ovary,Small intestine,Spleen,Thymus,Thyroid,Trachea,Uterus	13	7	13	7	4	6	Aorta,Brain,Cerebellum,Heart,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Thyroid,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEFEKFKFA	9	6	2.95	4	1	4	Adrenal gland,Kidney,Liver,Lung	2	0	2	2	0	2	Kidney,Liver		Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LLAEVIENL	9	6	2.95	2	2	1	Bone marrow	2	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLAPAQWFL	9	6	2.95	2	2	1	Bone marrow	2	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RMLDSVEKL	9	6	2.95	3	3	2	Ovary,Thymus	0	3	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KILEINPKL	9	6	2.95	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVLDLKINL	9	6	2.95	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RIAGLAVSL	9	6	2.95	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLASMLETL	9	6	2.95	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVLDLRINL	9	6	2.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	DTAEIFHSA	9	6	3.0	19	2	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FLADIVQKL	9	6	3.0	14	5	11	Bone marrow,Cerebellum,Kidney,Liver,Lung,Lymph node,Ovary,Spleen,Testis,Thymus,Trachea	5	6	3	4	4	3	Bone marrow,Cerebellum,Kidney,Liver	Ovary,Spleen,Testis,Thymus	Lung,Lymph node,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ILADVVQKL	9	6	3.0	10	4	6	Adrenal gland,Esophagus,Kidney,Liver,Ovary,Testis	4	2	4	2	2	2	Kidney,Liver	Ovary,Testis	Adrenal gland,Esophagus
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EAADIVESL	9	6	3.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEISDLHYL	9	6	3.0	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KITDTLIHL	9	6	3.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SEAPFLHYL	9	6	3.0499997	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QTAEIFQAL	9	6	3.05	13	2	13	Bone marrow,Cerebellum,Colon,Esophagus,Kidney,Lung,Lymph node,Muscle,Pancreas,Spleen,Thyroid,Tongue,Trachea	5	1	7	5	1	7	Bone marrow,Cerebellum,Colon,Kidney,Pancreas	Spleen	Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RMSDLHVLL	9	6	3.05	4	3	3	Kidney,Liver,Pancreas	4	0	0	3	0	0	Kidney,Liver,Pancreas		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVAEVLQKL	9	6	3.05	2	1	2	Brain,Cerebellum	2	0	0	2	0	0	Brain,Cerebellum		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	MVADVHRTL	9	6	3.05	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TAADTVIFY	9	6	3.05	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLEVTADL	9	6	3.05	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLASQVHAA	9	6	3.05	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVAALIRSL	9	6	3.0500002	13	1	13	Bone marrow,Brain,Cerebellum,Esophagus,Kidney,Liver,Lung,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	6	2	5	6	2	5	Bone marrow,Brain,Cerebellum,Kidney,Liver,Pancreas	Spleen,Testis	Esophagus,Lung,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLAEAKFT	8	6	3.0500002	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ETAAIFHYL	9	6	3.1	7	2	7	Bone marrow,Cerebellum,Colon,Liver,Lung,Pancreas,Spleen	5	1	1	5	1	1	Bone marrow,Cerebellum,Colon,Liver,Pancreas	Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AVAEQIPLL	9	6	3.1	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	IMYDQNHLL	9	6	3.1	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KAMDDTFYL	9	6	3.1	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIEELETL	9	6	3.1000001	10	6	7	Adrenal gland,Brain,Cerebellum,Lung,Ovary,Spleen,Thymus	3	3	4	2	3	2	Brain,Cerebellum	Ovary,Spleen,Thymus	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLADQYPHL	9	6	3.1000001	2	1	2	Brain,Cerebellum	2	0	0	2	0	0	Brain,Cerebellum		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIFEDIPTL	9	6	3.1000001	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLESWLTL	9	6	3.1000001	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QLAQFVHEV	9	6	3.1499999	19	6	12	Adrenal gland,Bone marrow,Cerebellum,Kidney,Lung,Ovary,Pancreas,Small intestine,Spleen,Thymus,Thyroid,Uterus	7	7	5	5	4	3	Bone marrow,Cerebellum,Kidney,Pancreas,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ITADVNHNL	9	6	3.1499999	10	2	10	Aorta,Bladder,Cerebellum,Esophagus,Kidney,Liver,Lung,Ovary,Tongue,Trachea	4	1	5	4	1	5	Aorta,Cerebellum,Kidney,Liver	Ovary	Bladder,Esophagus,Lung,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLAEKIQAL	9	6	3.1499999	4	3	4	Colon,Kidney,Lung,Ovary	2	1	1	2	1	1	Colon,Kidney	Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FLAFILHRL	9	6	3.1499999	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLDEHIAYL	9	6	3.1499999	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQENLQQL	9	6	3.1499999	3	3	3	Lung,Ovary,Thymus	0	2	1	0	2	1		Ovary,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ILANIVNAL	9	6	3.1499999	3	2	3	Lung,Spleen,Thymus	0	2	1	0	2	1		Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AEAEIIQLL	9	6	3.1499999	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLHVFLL	8	6	3.1499999	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NLANVVLLL	9	6	3.1499999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RVAQLDQLL	9	6	3.1499999	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HVANIVEKL	9	6	3.15	18	2	18	Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	8	8	2	8	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLSDLQTQL	9	6	3.15	19	6	16	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Spleen,Thymus,Thyroid,Tongue,Uterus	6	4	9	6	4	6	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RAADPLVGVFL	11	6	3.15	4	2	3	Kidney,Liver,Spleen	3	1	0	2	1	0	Kidney,Liver	Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KILDLETEL	9	6	3.15	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLMDLDVEQL	10	6	3.15	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NAAAVVHHM	9	6	3.15	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLSEIDVAL	9	6	3.1999998	45	6	20	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Esophagus,Kidney,Lung,Lymph node,Ovary,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	16	11	18	6	5	9	Aorta,Bone marrow,Brain,Cerebellum,Kidney,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLMEQESAL	9	6	3.1999998	2	2	1	Liver	2	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YMIDNVILL	9	6	3.1999998	4	3	4	Kidney,Ovary,Spleen,Thymus	1	3	0	1	3	0	Kidney	Ovary,Spleen,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GLAERISVL	9	6	3.1999998	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ILADLEDYL	9	6	3.1999998	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLAGDVHIV	9	6	3.1999998	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LAAEVGSAL	9	6	3.1999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RMDENYNLL	9	6	3.1999998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLASVIFLL	9	6	3.1999998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLWEGLTEL	9	6	3.2	21	6	13	Aorta,Bone marrow,Cerebellum,Colon,Kidney,Liver,Lung,Lymph node,Ovary,Spleen,Testis,Thymus,Trachea	9	7	5	6	4	3	Aorta,Bone marrow,Cerebellum,Colon,Kidney,Liver	Ovary,Spleen,Testis,Thymus	Lung,Lymph node,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NLAEFAFSL	9	6	3.2	3	2	3	Liver,Lung,Ovary	1	1	1	1	1	1	Liver	Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVANAVAFI	9	6	3.2	2	1	2	Bone marrow,Spleen	1	1	0	1	1	0	Bone marrow	Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YTADPYHAL	9	6	3.2499998	4	2	4	Kidney,Ovary,Thymus,Uterus	1	3	0	1	3	0	Kidney	Ovary,Thymus,Uterus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YMIDNVIL	8	6	3.2499998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NMMTDVVKL	9	6	3.25	7	3	6	Bone marrow,Cerebellum,Kidney,Liver,Lung,Small intestine	6	0	1	5	0	1	Bone marrow,Cerebellum,Kidney,Liver,Small intestine		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AMATESILHFA	11	6	3.25	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLISELQKL	9	6	3.25	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLAEVNTQL	9	6	3.25	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ETAAALHAL	9	6	3.25	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FYAHIIPFL	9	6	3.25	1	1	1	Adrenal gland	0	0	1	0	0	1			Adrenal gland
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KFIEGVVLQL	10	6	3.25	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KILAAILHL	9	6	3.25	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYITFSGFL	9	6	3.25	1	1	1	Uterus	0	1	0	0	1	0		Uterus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLASSLHTL	9	6	3.25	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLPAIFFL	8	6	3.2500002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RRALLLLLL	9	6	3.3	4	2	4	Adrenal gland,Kidney,Liver,Ovary	2	1	1	2	1	1	Kidney,Liver	Ovary	Adrenal gland
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLDSLLLFY	9	6	3.3	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LLAEAKYYL	9	6	3.3	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQEQIFHL	9	6	3.3	5	4	4	Lung,Ovary,Spleen,Thymus	0	4	1	0	3	1		Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YLAEVMVRL	9	6	3.3	4	2	3	Lung,Ovary,Spleen	0	3	1	0	2	1		Ovary,Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLAENIDAQL	10	6	3.3	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYQEVTNNL	9	6	3.3	2	1	2	Ovary,Thyroid	0	1	1	0	1	1		Ovary	Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYVYVVTEL	9	6	3.3	2	1	2	Ovary,Thyroid	0	1	1	0	1	1		Ovary	Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ALADLMLRL	9	6	3.3	1	1	1	Thyroid	0	0	1	0	0	1			Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQEQLAQL	9	6	3.3	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	MEALHYML	8	6	3.3	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ELANLYHHV	9	6	3.35	16	2	16	Adrenal gland,Aorta,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Pancreas,Testis,Thyroid,Tongue,Trachea	8	1	7	8	1	7	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Testis	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NEASVLHNL	9	6	3.35	10	3	10	Adrenal gland,Aorta,Bladder,Bone marrow,Esophagus,Liver,Ovary,Spleen,Thymus,Thyroid	3	3	4	3	3	4	Aorta,Bone marrow,Liver	Ovary,Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KFDDGAVFL	9	6	3.35	8	1	8	Adrenal gland,Lung,Lymph node,Ovary,Small intestine,Spleen,Tongue,Uterus	1	3	4	1	3	4	Small intestine	Ovary,Spleen,Uterus	Adrenal gland,Lung,Lymph node,Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLANVVTSL	9	6	3.35	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ELAQLYHHV	9	6	3.35	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVAGRIHAK	9	6	3.35	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	REAILQHAW	9	6	3.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RQADKVWRL	9	6	3.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VLAPLFVYL	9	6	3.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVAALFKNL	9	6	3.3500001	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KALSIFNEL	9	6	3.3500001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KQFQFGHAL	9	6	3.3999996	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YPASIVHQV	9	6	3.3999999	5	1	5	Brain,Cerebellum,Kidney,Liver,Lung	4	0	1	4	0	1	Brain,Cerebellum,Kidney,Liver		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KATEHLSTL	9	6	3.3999999	7	1	7	Bone marrow,Kidney,Lung,Ovary,Small intestine,Spleen,Trachea	3	2	2	3	2	2	Bone marrow,Kidney,Small intestine	Ovary,Spleen	Lung,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMVSIQITL	9	6	3.4	2	2	2	Bone marrow,Ovary	1	1	0	1	1	0	Bone marrow	Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NLAEDIMRL	9	6	3.4	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SMYDKVLML	9	6	3.4499998	23	6	13	Adrenal gland,Aorta,Bone marrow,Brain,Cerebellum,Kidney,Lung,Ovary,Skin,Spleen,Thymus,Thyroid,Uterus	10	7	6	5	4	4	Aorta,Bone marrow,Brain,Cerebellum,Kidney	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Skin,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TVAEITGHQL	10	6	3.45	4	1	4	Brain,Cerebellum,Kidney,Liver	4	0	0	4	0	0	Brain,Cerebellum,Kidney,Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLSEMSVTL	9	6	3.45	4	3	2	Brain,Cerebellum	4	0	0	2	0	0	Brain,Cerebellum		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SEAQVQKFL	9	6	3.45	8	3	8	Bone marrow,Esophagus,Liver,Lung,Ovary,Spleen,Thymus,Thyroid	2	3	3	2	3	3	Bone marrow,Liver	Ovary,Spleen,Thymus	Esophagus,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLETKWTL	9	6	3.45	3	2	2	Lung,Pancreas	1	0	2	1	0	1	Pancreas		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLSEIPLTL	9	6	3.45	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLWEAESKL	9	6	3.45	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYMTAVVKL	9	6	3.45	2	1	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GYALPHAI	8	6	3.45	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIAIQKITL	9	6	3.45	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQEANAQL	9	6	3.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQEQLPEL	9	6	3.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMFNALIHRY	10	6	3.5	3	2	3	Kidney,Spleen,Thymus	1	2	0	1	2	0	Kidney	Spleen,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLAEVSTRL	9	6	3.5	3	2	3	Cerebellum,Lung,Ovary	1	1	1	1	1	1	Cerebellum	Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ELAEIYAKL	9	6	3.5	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KANEFEFVL	9	6	3.5	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HLAEKTSSL	9	6	3.5	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FLATVVTQL	9	6	3.5	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NLAAYVPLL	9	6	3.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VLADQVWTL	9	6	3.55	32	5	19	Adrenal gland,Bone marrow,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	13	8	11	7	5	7	Bone marrow,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYPENFFLL	9	6	3.55	19	5	15	Adrenal gland,Aorta,Bone marrow,Cerebellum,Gallbladder,Kidney,Liver,Lung,Ovary,Pancreas,Skin,Spleen,Thymus,Thyroid,Uterus	6	5	8	6	4	5	Aorta,Bone marrow,Cerebellum,Kidney,Liver,Pancreas	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Gallbladder,Lung,Skin,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLAATVLL	9	6	3.55	4	4	1	Liver	4	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KQVEEIFNL	9	6	3.55	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AQALAHAY	8	6	3.55	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EMDAALHYY	9	6	3.55	1	1	1	Thyroid	0	0	1	0	0	1			Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYIGFLVRL	9	6	3.5500002	6	1	6	Adrenal gland,Kidney,Liver,Ovary,Spleen,Thyroid	2	2	2	2	2	2	Kidney,Liver	Ovary,Spleen	Adrenal gland,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLAESALQL	9	6	3.5500002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LPAEVLDSL	9	6	3.6	3	1	3	Bone marrow,Lung,Spleen	1	1	1	1	1	1	Bone marrow	Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVAEYHYQL	9	6	3.6	2	1	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KENEGLHQF	9	6	3.6	2	2	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIEKLDIKL	10	6	3.6000001	8	4	5	Adrenal gland,Bone marrow,Lung,Spleen,Thymus	2	3	3	1	2	2	Bone marrow	Spleen,Thymus	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVADPTPFH	9	6	3.6000001	3	1	3	Small intestine,Spleen,Trachea	1	1	1	1	1	1	Small intestine	Spleen	Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LAALKKAL	8	6	3.6000001	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TMFEFAFHL	9	6	3.6000001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NTATIFHEL	9	6	3.6499999	19	2	19	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	9	8	2	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YMDAVVHEI	9	6	3.6499999	4	4	1	Liver	4	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYLEHPLLL	9	6	3.6499999	7	1	7	Adrenal gland,Kidney,Lung,Ovary,Spleen,Thyroid,Uterus	1	3	3	1	3	3	Kidney	Ovary,Spleen,Uterus	Adrenal gland,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FSAEIIYHL	9	6	3.6499999	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	REALHEAL	8	6	3.6499999	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ILAEHLQTL	9	6	3.6499999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLDEEALL	8	6	3.6499999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SEAEIFTTL	9	6	3.6499999	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	MPAETIKEL	9	6	3.65	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLDQINLFL	9	6	3.65	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLSDLDNKL	9	6	3.65	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLSTVRVFL	9	6	3.65	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QEAEQSKVL	9	6	3.65	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VLADLKVQL	9	6	3.6999998	17	5	10	Adrenal gland,Bone marrow,Kidney,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Thymus	6	6	5	4	3	3	Bone marrow,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus	Adrenal gland,Lung,Lymph node
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AYALLHLLL	9	6	3.6999998	3	1	3	Adrenal gland,Ovary,Spleen	0	2	1	0	2	1		Ovary,Spleen	Adrenal gland
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	IQAGLLSAL	9	6	3.6999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQEQEQLL	9	6	3.6999998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLNEMSYEL	9	6	3.7	27	6	14	Adrenal gland,Bone marrow,Brain,Cerebellum,Kidney,Liver,Lung,Ovary,Skin,Small intestine,Spleen,Thymus,Thyroid,Uterus	13	6	8	6	4	4	Bone marrow,Brain,Cerebellum,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Skin,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	WLAEKLPTL	9	6	3.7	12	5	8	Bone marrow,Liver,Lung,Ovary,Spleen,Thymus,Tongue,Uterus	3	5	4	2	4	2	Bone marrow,Liver	Ovary,Spleen,Thymus,Uterus	Lung,Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TAAPVVPEL	9	6	3.7	6	1	6	Bone marrow,Kidney,Lung,Small intestine,Spleen,Uterus	3	2	1	3	2	1	Bone marrow,Kidney,Small intestine	Spleen,Uterus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YLAERIPTL	9	6	3.7	8	4	5	Esophagus,Kidney,Muscle,Thymus,Tongue	3	1	4	1	1	3	Kidney	Thymus	Esophagus,Muscle,Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	MLAEKLPNL	9	6	3.7	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NAAEITDKL	9	6	3.7	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KADEGLASL	9	6	3.7	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLPSVTEL	9	6	3.7	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VLAEATIQL	9	6	3.7	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ALAEAQAQL	9	6	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AMLGQVHEV	9	6	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYVHLFPKL	9	6	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	MAAVKQAL	8	6	3.7	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KMFSDEILL	9	6	3.7499998	5	4	5	Bone marrow,Lung,Ovary,Thymus,Uterus	1	3	1	1	3	1	Bone marrow	Ovary,Thymus,Uterus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KPMEKISL	8	6	3.75	3	1	3	Bone marrow,Lung,Spleen	1	1	1	1	1	1	Bone marrow	Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EIAEIKAQL	9	6	3.75	2	1	2	Cerebellum,Lung	1	0	1	1	0	1	Cerebellum		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ENAFLSHVV	9	6	3.75	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ALAALHVTL	9	6	3.75	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KQIGNVAAL	9	6	3.75	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLFEEFLEL	9	6	3.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LEAVHDLL	8	6	3.75	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LLASIVSEL	9	6	3.75	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLTGLVFC	9	6	3.7500002	2	2	1	Liver	2	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GLAAFRAFL	9	6	3.7500002	3	3	3	Lung,Ovary,Thymus	0	2	1	0	2	1		Ovary,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLAEGRLYL	9	6	3.8	26	5	18	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Ovary,Pancreas,Spleen,Testis,Tongue,Trachea,Uterus	10	6	10	8	4	6	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Ovary,Spleen,Testis,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KRFEELTNL	9	6	3.8	8	2	8	Bone marrow,Colon,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen	5	1	2	5	1	2	Bone marrow,Colon,Kidney,Liver,Pancreas	Spleen	Lung,Lymph node
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AMLDTVVFK	9	6	3.8	3	1	3	Bone marrow,Kidney,Lung	2	0	1	2	0	1	Bone marrow,Kidney		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KRQEAIFEL	9	6	3.8	5	3	3	Kidney,Lung,Spleen	1	1	3	1	1	1	Kidney	Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QRALLANAL	9	6	3.8	2	1	2	Cerebellum,Lung	1	0	1	1	0	1	Cerebellum		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AMIDQVLEL	9	6	3.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YMTAVVKL	8	6	3.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EEANLMKTL	9	6	3.8000002	2	1	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QMLEMQVEL	9	6	3.8000002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AMAASPHAV	9	6	3.8499997	3	2	2	Ovary,Skin	0	2	1	0	1	1		Ovary	Skin
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EEASLLHQF	9	6	3.85	14	3	14	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Esophagus,Liver,Lung,Ovary,Small intestine,Spleen,Thymus,Thyroid	6	3	5	6	3	5	Aorta,Bone marrow,Brain,Cerebellum,Liver,Small intestine	Ovary,Spleen,Thymus	Adrenal gland,Bladder,Esophagus,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FMATIAEGL	9	6	3.85	5	4	5	Bone marrow,Kidney,Ovary,Small intestine,Thymus	3	2	0	3	2	0	Bone marrow,Kidney,Small intestine	Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KPFEKFLL	8	6	3.85	3	1	3	Adrenal gland,Liver,Spleen	1	1	1	1	1	1	Liver	Spleen	Adrenal gland
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	DLAEHHMF	8	6	3.85	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQEELERL	9	6	3.85	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LDALHQAL	8	6	3.85	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LLAESTWAL	9	6	3.85	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SAAEPTLAL	9	6	3.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	DVAERLLSL	9	6	3.8500001	10	2	10	Bone marrow,Cerebellum,Colon,Kidney,Liver,Lung,Pancreas,Spleen,Testis,Trachea	6	2	2	6	2	2	Bone marrow,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Lung,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QSAEIWEKL	9	6	3.8500001	3	1	3	Bone marrow,Cerebellum,Lung	2	0	1	2	0	1	Bone marrow,Cerebellum		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLYESELTL	9	6	3.8500001	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AMMAVRVLL	9	6	3.8500001	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GLAGAVSEL	9	6	3.8500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	IKALELDSNL	10	6	3.8500001	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIYEKTFTL	9	6	3.8500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLEEQGIFL	10	6	3.8999999	30	6	15	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Ovary,Small intestine,Spleen,Thymus,Thyroid,Uterus	12	10	8	7	4	4	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Esophagus,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RQALKVIFY	9	6	3.8999999	5	2	5	Bone marrow,Liver,Small intestine,Spleen,Thymus	3	2	0	3	2	0	Bone marrow,Liver,Small intestine	Spleen,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LLAETHYQL	9	6	3.8999999	4	3	3	Bone marrow,Lung,Ovary	2	1	1	1	1	1	Bone marrow	Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ILAAIVNHL	9	6	3.8999999	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KADNVGSAL	9	6	3.8999999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VLASLIIRL	9	6	3.9	5	5	4	Liver,Ovary,Spleen,Thymus	1	4	0	1	3	0	Liver	Ovary,Spleen,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QEAEAAQRL	9	6	3.9	3	3	3	Ovary,Spleen,Thymus	0	3	0	0	3	0		Ovary,Spleen,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVAPQVSLL	9	6	3.9	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYMPHAVL	8	6	3.9	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YEAGIVSFF	9	6	3.9499998	4	2	4	Kidney,Lung,Spleen,Thymus	1	2	1	1	2	1	Kidney	Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YLAIGIHEL	9	6	3.9499998	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KQFEPNDFY	9	6	3.9499998	2	2	2	Spleen,Thymus	0	2	0	0	2	0		Spleen,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KQKVLGKAL	9	6	3.9499998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LQADLEHHF	9	6	3.9499998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KAGPILEL	8	6	3.95	2	1	2	Adrenal gland,Liver	1	0	1	1	0	1	Liver		Adrenal gland
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KRASVFVKL	9	6	3.95	2	1	2	Liver,Spleen	1	1	0	1	1	0	Liver	Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLGPSHIL	8	6	3.95	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FMSEYLIEL	9	6	3.95	4	4	4	Lung,Ovary,Thymus,Uterus	0	3	1	0	3	1		Ovary,Thymus,Uterus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIREYEQTL	9	6	3.95	4	2	4	Lung,Spleen,Thymus,Uterus	0	3	1	0	3	1		Spleen,Thymus,Uterus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GLASFKSFL	9	6	3.95	3	3	3	Ovary,Thymus,Tongue	0	2	1	0	2	1		Ovary,Thymus	Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AEAEASRL	8	6	3.95	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FLAPLLAKL	9	6	3.95	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KELGEGQHFW	10	6	3.95	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KESEVFYEL	9	6	3.95	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	IPAESYTFF	9	6	3.9999998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KESESFVFF	9	6	3.9999998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KQKEDNHIF	9	6	3.9999998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VSAVVHEY	8	6	4.0	10	2	10	Adrenal gland,Bone marrow,Kidney,Liver,Lung,Lymph node,Small intestine,Spleen,Thymus,Uterus	4	3	3	4	3	3	Bone marrow,Kidney,Liver,Small intestine	Spleen,Thymus,Uterus	Adrenal gland,Lung,Lymph node
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	DPANIVHDF	9	6	4.0	7	1	7	Adrenal gland,Kidney,Ovary,Skin,Small intestine,Thyroid,Tongue	2	1	4	2	1	4	Kidney,Small intestine	Ovary	Adrenal gland,Skin,Thyroid,Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIAPNTPQL	9	6	4.0	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LTAEAFGFK	9	6	4.0	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVAFFNNFL	9	6	4.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GLAVFQAFL	9	6	4.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLAKVEQL	9	6	4.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KRVPLTALL	9	6	4.0	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLDILSYL	9	7	1.4	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIDVNHYA	9	7	1.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYGDILHVI	9	7	1.7499999	5	1	5	Adrenal gland,Cerebellum,Ovary,Skin,Thyroid	1	1	3	1	1	3	Cerebellum	Ovary	Adrenal gland,Skin,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NMVDIIHSV	9	7	1.8999999	10	4	6	Adrenal gland,Bone marrow,Kidney,Liver,Lung,Spleen	7	1	2	3	1	2	Bone marrow,Kidney,Liver	Spleen	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RMMDASVYL	9	7	2.2	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIDSLHSY	9	7	2.2499998	1	1	1	Uterus	0	1	0	0	1	0		Uterus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLDIRSYL	9	7	2.3	7	5	5	Adrenal gland,Bone marrow,Ovary,Spleen,Thymus	2	4	1	1	3	1	Bone marrow	Ovary,Spleen,Thymus	Adrenal gland
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLADALQEL	9	7	2.3	4	4	3	Adrenal gland,Ovary,Uterus	0	3	1	0	2	1		Ovary,Uterus	Adrenal gland
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HSADVFHTF	9	7	2.35	2	1	2	Lung,Uterus	0	1	1	0	1	1		Uterus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIIDIFTTL	9	7	2.3500001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FAADIISVL	9	7	2.4499998	6	3	5	Bone marrow,Kidney,Lung,Spleen,Thymus	2	2	2	2	2	1	Bone marrow,Kidney	Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLSDVWKEL	9	7	2.45	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVLDVLWEL	9	7	2.45	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLFDSLTLL	9	7	2.4999998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVLGALLFV	9	7	2.5	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYIDFDHVF	9	7	2.6	8	1	8	Adrenal gland,Cerebellum,Kidney,Liver,Lung,Ovary,Spleen,Thyroid	3	2	3	3	2	3	Cerebellum,Kidney,Liver	Ovary,Spleen	Adrenal gland,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FAADIPRIL	9	7	2.6	3	1	3	Adrenal gland,Liver,Lung	1	0	2	1	0	2	Liver		Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ALADVATVL	9	7	2.6	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLYDGFQYL	9	7	2.65	25	6	17	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Uterus	12	6	7	8	5	4	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Lung,Lymph node,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KAIDFAASL	9	7	2.65	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SEADWLRFW	9	7	2.6999998	2	2	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HTADISHPA	9	7	2.7	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLAEIAKVEL	10	7	2.75	10	5	9	Adrenal gland,Bone marrow,Cerebellum,Esophagus,Lung,Lymph node,Ovary,Spleen,Thymus	2	3	5	2	3	4	Bone marrow,Cerebellum	Ovary,Spleen,Thymus	Adrenal gland,Esophagus,Lung,Lymph node
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLAEIAKAEL	10	7	2.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SMTDVLTML	9	7	2.7999997	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TSADVIQAL	9	7	2.7999997	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TVADKIHSV	9	7	2.8	10	5	9	Adrenal gland,Kidney,Lung,Ovary,Skin,Thymus,Thyroid,Tongue,Uterus	1	3	6	1	3	5	Kidney	Ovary,Thymus,Uterus	Adrenal gland,Lung,Skin,Thyroid,Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIMDYSLLL	9	7	2.8	9	6	7	Adrenal gland,Kidney,Lung,Ovary,Spleen,Thymus,Uterus	1	5	3	1	4	2	Kidney	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLPQLTYL	9	7	2.85	26	6	14	Adrenal gland,Bone marrow,Brain,Cerebellum,Kidney,Liver,Lung,Lymph node,Ovary,Spleen,Thymus,Thyroid,Tongue,Trachea	11	7	8	5	3	6	Bone marrow,Brain,Cerebellum,Kidney,Liver	Ovary,Spleen,Thymus	Adrenal gland,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	IAAVIARFY	9	7	2.85	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LAADAFKEL	9	7	2.85	1	1	1	Small intestine	1	0	0	1	0	0	Small intestine		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLYPWIHQF	9	7	2.85	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KASGIIHSY	9	7	2.8999999	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ALAEIAKAEL	10	7	2.9	12	6	11	Brain,Cerebellum,Esophagus,Lung,Ovary,Skin,Thymus,Thyroid,Tongue,Trachea,Uterus	2	3	7	2	3	6	Brain,Cerebellum	Ovary,Thymus,Uterus	Esophagus,Lung,Skin,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLDQMPSL	9	7	2.9	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GMYVFLHAV	9	7	2.9499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLAPIIVFV	9	7	2.9499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYLQILTSL	9	7	2.95	2	1	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KFVDSTFYL	9	7	3.0	2	1	2	Ovary,Thyroid	0	1	1	0	1	1		Ovary	Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLFNDAIRL	9	7	3.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLYDDMIRL	9	7	3.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LLADVETFV	9	7	3.0499997	15	4	9	Bone marrow,Kidney,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Uterus	7	5	3	4	3	2	Bone marrow,Kidney,Liver,Small intestine	Ovary,Spleen,Uterus	Lung,Lymph node
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEDDFLHVY	9	7	3.0499997	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLADIIARL	9	7	3.05	50	6	24	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Ovary,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	19	10	21	9	5	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Skin,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AMLTVLHEI	9	7	3.05	6	4	5	Adrenal gland,Bone marrow,Lung,Ovary,Uterus	1	2	3	1	2	2	Bone marrow	Ovary,Uterus	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLHDVELHQV	10	7	3.05	6	4	4	Bone marrow,Ovary,Thyroid,Uterus	1	4	1	1	2	1	Bone marrow	Ovary,Uterus	Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVIDGLETL	9	7	3.05	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLADIAQKL	9	7	3.05	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLASVAQEL	9	7	3.05	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YLADVTNAL	9	7	3.0999997	22	5	14	Bladder,Bone marrow,Colon,Esophagus,Kidney,Lung,Lymph node,Ovary,Skin,Small intestine,Spleen,Thymus,Thyroid,Uterus	7	7	8	4	4	6	Bone marrow,Colon,Kidney,Small intestine	Ovary,Spleen,Thymus,Uterus	Bladder,Esophagus,Lung,Lymph node,Skin,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EAADIIQKL	9	7	3.1	18	2	18	Adrenal gland,Aorta,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	8	8	2	8	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TEADIFHQA	9	7	3.1	6	1	6	Adrenal gland,Cerebellum,Kidney,Lung,Spleen,Thyroid	2	1	3	2	1	3	Cerebellum,Kidney	Spleen	Adrenal gland,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LAADQSRAL	9	7	3.1	2	1	2	Lung,Small intestine	1	0	1	1	0	1	Small intestine		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLSSYLIFV	9	7	3.1	1	1	1	Cerebellum	1	0	0	1	0	0	Cerebellum		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GMVDVKIFV	9	7	3.1	2	2	2	Ovary,Thyroid	0	1	1	0	1	1		Ovary	Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HAARILANL	9	7	3.1	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	MSADFQHAV	9	7	3.1499999	10	1	10	Adrenal gland,Bladder,Bone marrow,Brain,Cerebellum,Kidney,Liver,Lung,Pancreas,Spleen	6	1	3	6	1	3	Bone marrow,Brain,Cerebellum,Kidney,Liver,Pancreas	Spleen	Adrenal gland,Bladder,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIDKLDSL	9	7	3.1499999	17	6	10	Adrenal gland,Cerebellum,Kidney,Liver,Lung,Ovary,Spleen,Thymus,Thyroid,Uterus	4	6	7	3	4	3	Cerebellum,Kidney,Liver	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIQDYQQFY	9	7	3.1499999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLVHIEHSV	9	7	3.1499999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HAAHIISEL	9	7	3.2	6	1	6	Aorta,Cerebellum,Kidney,Liver,Lung,Testis	4	1	1	4	1	1	Aorta,Cerebellum,Kidney,Liver	Testis	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	MTADAAKRL	9	7	3.2	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLDKISEL	9	7	3.2	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	STAAVFHAV	9	7	3.2499998	18	2	18	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea	8	2	8	8	2	8	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KRGDVIYIL	9	7	3.2499998	2	1	2	Adrenal gland,Liver	1	0	1	1	0	1	Liver		Adrenal gland
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KESSFIHYY	9	7	3.2499998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YLAAVIEYL	9	7	3.2499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GMGTALKLL	9	7	3.25	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HLAPYLATL	9	7	3.25	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYLAVRLAL	9	7	3.25	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HLADFTPRL	9	7	3.2500002	6	3	3	Lung,Spleen,Uterus	0	3	3	0	2	1		Spleen,Uterus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KRLDIQEAL	9	7	3.2999997	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	DPADIIHDF	9	7	3.2999997	1	1	1	Lymph node	0	0	1	0	0	1			Lymph node
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GMYIFLHTV	9	7	3.3	12	6	10	Adrenal gland,Aorta,Bone marrow,Cerebellum,Colon,Esophagus,Lung,Ovary,Thymus,Thyroid	4	2	6	4	2	4	Aorta,Bone marrow,Cerebellum,Colon	Ovary,Thymus	Adrenal gland,Esophagus,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EAADVWYNL	9	7	3.3	4	1	4	Brain,Cerebellum,Kidney,Testis	3	1	0	3	1	0	Brain,Cerebellum,Kidney	Testis	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLYKNLLYL	9	7	3.3	6	3	5	Adrenal gland,Kidney,Lung,Ovary,Spleen	1	3	2	1	2	2	Kidney	Ovary,Spleen	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVARILHRV	9	7	3.3	2	1	2	Bone marrow,Lung	1	0	1	1	0	1	Bone marrow		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLADSLQSL	9	7	3.3	3	2	3	Lung,Ovary,Thyroid	0	1	2	0	1	2		Ovary	Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YLADIFTKL	9	7	3.35	36	6	19	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	14	9	13	8	5	6	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQDQIFNL	9	7	3.35	12	5	8	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Lung,Ovary,Thymus	7	2	3	4	2	2	Bone marrow,Brain,Cerebellum,Colon	Ovary,Thymus	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLYQEILQL	9	7	3.35	3	3	1	Bone marrow	3	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLEVNGVAL	10	7	3.35	3	3	2	Bone marrow,Ovary	2	1	0	1	1	0	Bone marrow	Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GLADITQQL	9	7	3.35	3	3	3	Bone marrow,Ovary,Thymus	1	2	0	1	2	0	Bone marrow	Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FMVDKAIYL	9	7	3.35	4	3	4	Ovary,Spleen,Thymus,Uterus	0	4	0	0	4	0		Ovary,Spleen,Thymus,Uterus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YMVDKALYL	9	7	3.35	3	3	3	Ovary,Spleen,Thymus	0	3	0	0	3	0		Ovary,Spleen,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KWFDFKLFF	9	7	3.35	3	1	3	Adrenal gland,Ovary,Spleen	0	2	1	0	2	1		Ovary,Spleen	Adrenal gland
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RRAAIAQAL	9	7	3.35	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIIQVAVEL	9	7	3.3500001	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLQDLHEA	9	7	3.3500001	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VVAGVANAL	9	7	3.3999999	3	2	2	Bone marrow,Liver	3	0	0	2	0	0	Bone marrow,Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SYADQMFLL	9	7	3.3999999	8	1	8	Adrenal gland,Cerebellum,Kidney,Ovary,Skin,Spleen,Thyroid,Uterus	2	3	3	2	3	3	Cerebellum,Kidney	Ovary,Spleen,Uterus	Adrenal gland,Skin,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYLTVKDYL	9	7	3.3999999	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NVASIQNYL	9	7	3.3999999	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SMIIFIHSY	9	7	3.3999999	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KILDYEVTL	9	7	3.4	30	6	16	Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid	14	8	8	8	4	4	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus	Esophagus,Lung,Lymph node,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EAAAVFKTL	9	7	3.4	18	2	18	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Muscle,Pancreas,Testis,Thyroid,Tongue,Trachea	8	1	9	8	1	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Testis	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RMIAGANFY	9	7	3.4	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLISEMHSF	9	7	3.4	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KQLDDLKVEL	10	7	3.4499998	9	4	9	Colon,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Thymus,Uterus	3	4	2	3	4	2	Colon,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Lung,Lymph node
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YVADNFPFY	9	7	3.4499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VMLDVPIRL	9	7	3.45	26	5	14	Adrenal gland,Bone marrow,Colon,Kidney,Liver,Lung,Ovary,Pancreas,Small intestine,Spleen,Testis,Thyroid,Tongue,Uterus	12	7	7	6	4	4	Bone marrow,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Uterus	Adrenal gland,Lung,Thyroid,Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYIDQKFVL	9	7	3.45	11	1	11	Adrenal gland,Cerebellum,Heart,Kidney,Liver,Lung,Ovary,Skin,Spleen,Thyroid,Uterus	4	3	4	4	3	4	Cerebellum,Heart,Kidney,Liver	Ovary,Spleen,Uterus	Adrenal gland,Lung,Skin,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RYASINAHL	9	7	3.45	4	1	4	Kidney,Liver,Lung,Ovary	2	1	1	2	1	1	Kidney,Liver	Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLQFYPSL	9	7	3.45	8	5	6	Adrenal gland,Bone marrow,Lung,Ovary,Spleen,Thymus	1	4	3	1	3	2	Bone marrow	Ovary,Spleen,Thymus	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVMGFGLYL	9	7	3.45	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLNIQQQL	9	7	3.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLVGMSVLL	9	7	3.45	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVVAGVANAL	10	7	3.45	1	1	1	Bladder	0	0	1	0	0	1			Bladder
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLADSLYNL	9	7	3.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SAAMVFSAL	9	7	3.4999998	4	2	4	Skin,Small intestine,Thymus,Trachea	1	1	2	1	1	2	Small intestine	Thymus	Skin,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HAAVRQML	8	7	3.4999998	2	1	2	Liver,Spleen	1	1	0	1	1	0	Liver	Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KIIKDFYLL	9	7	3.4999998	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QEAQVLKQL	9	7	3.5	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SMMDRMFAL	9	7	3.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLADSMPSL	9	7	3.5000002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLARIFSIL	9	7	3.5499997	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	IPAAILHAF	9	7	3.5499997	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NAAKIFNFY	9	7	3.5499997	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIPQLPTL	9	7	3.55	23	6	10	Adrenal gland,Bone marrow,Esophagus,Kidney,Liver,Lung,Ovary,Spleen,Thymus,Uterus	7	10	6	3	4	3	Bone marrow,Kidney,Liver	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Esophagus,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FGADARAL	8	7	3.55	4	2	3	Adrenal gland,Liver,Lung	2	0	2	1	0	2	Liver		Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VYAEVSRLLL	10	7	3.55	6	1	6	Adrenal gland,Kidney,Lung,Ovary,Spleen,Thyroid	1	2	3	1	2	3	Kidney	Ovary,Spleen	Adrenal gland,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ETADTAHGV	9	7	3.55	1	1	1	Brain	1	0	0	1	0	0	Brain		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FMWDVAEEL	9	7	3.55	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LVANATHIY	9	7	3.55	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLVPFATEL	9	7	3.5500002	3	2	3	Kidney,Small intestine,Spleen	2	1	0	2	1	0	Kidney,Small intestine	Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYLNIYVGL	9	7	3.5500002	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SVAGKIHTV	9	7	3.6	9	5	6	Cerebellum,Kidney,Lung,Ovary,Spleen,Uterus	2	4	3	2	3	1	Cerebellum,Kidney	Ovary,Spleen,Uterus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLHDINAQL	9	7	3.6	6	4	6	Adrenal gland,Bone marrow,Lung,Ovary,Spleen,Thymus	1	3	2	1	3	2	Bone marrow	Ovary,Spleen,Thymus	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FLADNHHQV	9	7	3.6	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLNNFNSYL	9	7	3.6	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VYADQPHIF	9	7	3.6	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLTDIQIEL	9	7	3.6000001	2	2	2	Brain,Cerebellum	2	0	0	2	0	0	Brain,Cerebellum		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	MLANDIARL	9	7	3.6000001	4	3	3	Bone marrow,Lung,Ovary	1	1	2	1	1	1	Bone marrow	Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQDAEIARL	10	7	3.6000001	2	2	1	Spleen	0	2	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIPFLEKL	9	7	3.6000001	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLSEALEL	9	7	3.6000001	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVSQAGKTL	9	7	3.6000001	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLGDFGLL	8	7	3.6499996	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FLADAKWIL	9	7	3.6499999	9	4	6	Bone marrow,Kidney,Liver,Lung,Ovary,Spleen	5	3	1	3	2	1	Bone marrow,Kidney,Liver	Ovary,Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SQAIIHQY	8	7	3.6499999	9	2	9	Bone marrow,Kidney,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Thymus	4	3	2	4	3	2	Bone marrow,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus	Lung,Lymph node
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVVPEMTEIL	10	7	3.6499999	2	1	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLFNEFIQL	9	7	3.6499999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYLSVQGQL	9	7	3.6499999	1	1	1	Thyroid	0	0	1	0	0	1			Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	DTAPVIIFV	9	7	3.65	10	2	10	Adrenal gland,Aorta,Bone marrow,Colon,Esophagus,Kidney,Lung,Pancreas,Thyroid,Trachea	5	0	5	5	0	5	Aorta,Bone marrow,Colon,Kidney,Pancreas		Adrenal gland,Esophagus,Lung,Thyroid,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLTDYQVTL	9	7	3.65	3	3	3	Adrenal gland,Lung,Ovary	0	1	2	0	1	2		Ovary	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLDVDAPRL	9	7	3.65	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KESVVFHAY	9	7	3.6999996	4	2	4	Liver,Lung,Ovary,Spleen	1	2	1	1	2	1	Liver	Ovary,Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SQANIAQVL	9	7	3.6999998	16	2	16	Adrenal gland,Aorta,Bone marrow,Cerebellum,Kidney,Liver,Lung,Lymph node,Ovary,Skin,Small intestine,Spleen,Thymus,Tongue,Trachea,Uterus	6	4	6	6	4	6	Aorta,Bone marrow,Cerebellum,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung,Lymph node,Skin,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEQTFYHVA	9	7	3.6999998	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KAVGDGIVL	9	7	3.6999998	2	2	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AVAAASHIY	9	7	3.6999998	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLDYGQHVV	9	7	3.6999998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SMTLAIHEI	9	7	3.7	35	6	18	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Skin,Small intestine,Spleen,Thymus,Thyroid,Tongue,Uterus	15	7	13	7	4	7	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Esophagus,Lung,Lymph node,Skin,Thyroid,Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEFDHPHVA	9	7	3.7	3	1	3	Adrenal gland,Kidney,Liver	2	0	1	2	0	1	Kidney,Liver		Adrenal gland
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EAAMAFAYL	9	7	3.7	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLFAIPILL	9	7	3.7	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EIADFFTEL	9	7	3.7	2	1	2	Lung,Trachea	0	0	2	0	0	2			Lung,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KVMPQNHSF	9	7	3.7	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYPYVAVML	9	7	3.7	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RYASINTHL	9	7	3.7	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YSAAILEYL	9	7	3.7499998	2	1	2	Bone marrow,Spleen	1	1	0	1	1	0	Bone marrow	Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ILADNIPEL	9	7	3.7499998	1	1	1	Brain	1	0	0	1	0	0	Brain		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEQGVLSFW	9	7	3.7499998	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EVAKFLSFY	9	7	3.7499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KADDPYAHL	9	7	3.7499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	VMVDNIPKL	9	7	3.7499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FLADPSAFV	9	7	3.75	2	2	2	Bone marrow,Ovary	1	1	0	1	1	0	Bone marrow	Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLSQYLIQL	9	7	3.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SQAPLLRWVL	10	7	3.75	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TLADMKVTL	9	7	3.75	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HTAIGAHPV	9	7	3.7500002	2	1	2	Esophagus,Liver	1	0	1	1	0	1	Liver		Esophagus
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KAVNPGRSL	9	7	3.7500002	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RLAYINPDL	9	7	3.7500002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIDRTESL	9	7	3.8	5	5	4	Lung,Ovary,Spleen,Thymus	0	3	2	0	3	1		Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	IEAIHAIL	8	7	3.8	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KEQDVEKEL	9	7	3.8	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KSVDPTLAL	9	7	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	NIAQVLAEL	9	7	3.8	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QLAPFLPQL	9	7	3.8	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	AEANVMKTL	9	7	3.8000002	5	3	5	Liver,Lung,Ovary,Spleen,Thymus	1	3	1	1	3	1	Liver	Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLIDGQVIQL	10	7	3.8000002	8	6	6	Adrenal gland,Lung,Ovary,Spleen,Thymus,Uterus	0	4	4	0	4	2		Ovary,Spleen,Thymus,Uterus	Adrenal gland,Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SEAFVIKGL	9	7	3.8000002	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FTADVRSVL	9	7	3.8499997	15	2	15	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Pancreas,Spleen,Testis,Tongue,Trachea	7	2	6	7	2	6	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Spleen,Testis	Adrenal gland,Esophagus,Lung,Lymph node,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RMQKEITAL	9	7	3.85	8	3	8	Bone marrow,Kidney,Lung,Ovary,Small intestine,Spleen,Thymus,Uterus	3	4	1	3	4	1	Bone marrow,Kidney,Small intestine	Ovary,Spleen,Thymus,Uterus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EIANILQEL	9	7	3.85	6	1	6	Cerebellum,Lung,Pancreas,Spleen,Testis,Tongue	2	2	2	2	2	2	Cerebellum,Pancreas	Spleen,Testis	Lung,Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FLASVSTVL	9	7	3.85	6	4	5	Liver,Lung,Ovary,Spleen,Thymus	1	3	2	1	3	1	Liver	Ovary,Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KELDPIQKL	9	7	3.85	2	1	2	Liver,Tongue	1	0	1	1	0	1	Liver		Tongue
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ALASVIMGL	9	7	3.85	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	IGAYAKAL	8	7	3.85	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLQDSQNNL	9	7	3.85	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLVDKSTEL	9	7	3.85	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TTAYIHHAV	9	7	3.85	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLPFNPQL	9	7	3.8500001	3	3	2	Ovary,Spleen	0	3	0	0	2	0		Ovary,Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RVAPEEHPV	9	7	3.8999999	26	5	14	Adrenal gland,Bladder,Bone marrow,Brain,Cerebellum,Esophagus,Kidney,Liver,Lung,Ovary,Pancreas,Spleen,Trachea,Uterus	9	7	10	6	3	5	Bone marrow,Brain,Cerebellum,Kidney,Liver,Pancreas	Ovary,Spleen,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QMLNVNIHL	9	7	3.8999999	4	4	3	Bone marrow,Lung,Ovary	1	2	1	1	1	1	Bone marrow	Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FVAGVLPFK	9	7	3.8999999	2	1	2	Liver,Lung	1	0	1	1	0	1	Liver		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	IVAAIQHNY	9	7	3.8999999	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KFLASVSTVL	10	7	3.8999999	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLLRLPSL	9	7	3.8999999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	TMKDFNHSY	9	7	3.8999999	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EIADKIYNL	9	7	3.9	2	1	2	Brain,Cerebellum	2	0	0	2	0	0	Brain,Cerebellum		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GLAGDNIYL	9	7	3.9	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	QEAQIMKKL	9	7	3.9	2	2	2	Ovary,Spleen	0	2	0	0	2	0		Ovary,Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FAAMEAAAL	9	7	3.9	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYNDNFFGL	9	7	3.9499998	3	1	3	Ovary,Spleen,Thyroid	0	2	1	0	2	1		Ovary,Spleen	Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KQFGNILIL	9	7	3.9499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KQYPISLVL	9	7	3.9499998	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	HTALNTHSV	9	7	3.95	4	1	4	Bone marrow,Kidney,Liver,Lung	3	0	1	3	0	1	Bone marrow,Kidney,Liver		Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLWADRISL	9	7	3.95	3	3	3	Bone marrow,Ovary,Thymus	1	2	0	1	2	0	Bone marrow	Ovary,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	EIAAITHGA	9	7	3.95	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	ILAQEIHDV	9	7	3.95	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	IMNDIPIRL	9	7	3.95	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GLAKSIHHA	9	7	3.9500003	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KSDVHLNFY	9	7	3.9999998	11	1	11	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Esophagus,Liver,Lung,Spleen,Thyroid	5	1	5	5	1	5	Aorta,Bone marrow,Brain,Cerebellum,Liver	Spleen	Adrenal gland,Bladder,Esophagus,Lung,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	GQAHAGHYY	9	7	3.9999998	2	1	2	Spleen,Uterus	0	2	0	0	2	0		Spleen,Uterus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KTIDKKTFY	9	7	3.9999998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KRFQVAVNL	9	7	4.0	25	3	19	Adrenal gland,Aorta,Bladder,Bone marrow,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Spleen,Testis,Thyroid,Tongue,Trachea,Uterus	10	5	10	7	4	8	Aorta,Bone marrow,Cerebellum,Colon,Kidney,Liver,Pancreas	Ovary,Spleen,Testis,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FAAGIIAHL	9	7	4.0	6	2	6	Bone marrow,Colon,Liver,Lung,Pancreas,Spleen	4	1	1	4	1	1	Bone marrow,Colon,Liver,Pancreas	Spleen	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	SLASVFVRL	9	7	4.0	6	4	4	Bone marrow,Liver,Lung,Ovary	4	1	1	2	1	1	Bone marrow,Liver	Ovary	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	YAAQASQAL	9	7	4.0	6	2	6	Adrenal gland,Lung,Small intestine,Spleen,Thymus,Trachea	1	2	3	1	2	3	Small intestine	Spleen,Thymus	Adrenal gland,Lung,Trachea
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYIGENLQL	9	7	4.0	4	1	4	Adrenal gland,Ovary,Spleen,Thyroid	0	2	2	0	2	2		Ovary,Spleen	Adrenal gland,Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KETNIAVFW	9	7	4.0	2	2	2	Spleen,Thymus	0	2	0	0	2	0		Spleen,Thymus	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	FLASILEEL	9	7	4.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KADDDGIYL	9	7	4.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYFSFPVFF	9	7	4.0	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	RIADGTMAFM	10	8	3.3500001	2	1	2	Kidney,Liver	2	0	0	2	0	0	Kidney,Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	MTADGILHTV	10	8	3.5499997	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLFDASPTFF	10	8	3.6499999	3	2	3	Lung,Spleen,Thymus	0	2	1	0	2	1		Spleen,Thymus	Lung
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLFNAIIHKY	10	8	3.7499998	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	LDADYPLRVL	10	8	3.85	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLPGDIHQI	10	8	3.8999999	3	3	3	Ovary,Thyroid,Uterus	0	2	1	0	2	1		Ovary,Uterus	Thyroid
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KYLSIPAVFF	10	8	3.9	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KLLDQMETPL	10	8	4.0	2	2	1	Bone marrow	2	0	0	1	0	0	Bone marrow		
+MAGEA12_A02_KMAELVHFL_off	KMAELVHFL	A*02:01	weighted	KAVDWWALGVL	11	9	3.9	1	1	1	Spleen	0	1	0	0	1	0		Spleen	

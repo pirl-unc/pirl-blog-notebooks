@@ -1,0 +1,28 @@
+The HLA Ligand Atlas
+
+Authors:
+ Ana Marcu
+ Leon Bichmann
+ Leon Kuchenbecker
+ Linus Backert
+ Daniel J. Kowalewski
+ Lena K. Freudenmann
+ Markus W. Löffler
+ Lena Mühlenbruch
+ Maren Lübke
+ Philipp Wagner
+ Tobias Engler
+ Sabine Matovina
+ Konstantina Kapolou
+ Juliane S. Walz
+ Julia Velz
+ Holger Moch
+ Luca Regli
+ Manuela Silginer
+ Michael Weller
+ Florian Erhard
+ Andreas Schlosser
+ Oliver Kohlbacher
+ Stefan Stevanović
+ Hans-Georg Rammensee
+ Marian C. Neidert

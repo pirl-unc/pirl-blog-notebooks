@@ -1,0 +1,23 @@
+job	query_epitope	query_allele	label	peptide	pep_len	unit_dist	weighted_dist	n_hits	n_donors	n_tissues	tissues	protected_hits	tolerated_hits	uncertain_hits	protected_tissues_n	tolerated_tissues_n	uncertain_tissues_n	protected_tissues	tolerated_tissues	uncertain_tissues
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	EVLDFITHLY	10	3	2.7	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	YVDSEGHLY	9	3	2.75	13	4	11	Aorta,Bladder,Colon,Esophagus,Heart,Lung,Testis,Thymus,Thyroid,Tongue,Trachea	3	3	7	3	2	6	Aorta,Colon,Heart	Testis,Thymus	Bladder,Esophagus,Lung,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	RVDPIGPLSY	10	3	2.85	12	5	11	Adrenal gland,Aorta,Bone marrow,Cerebellum,Colon,Esophagus,Gallbladder,Lung,Thymus,Thyroid,Trachea	4	2	6	4	1	6	Aorta,Bone marrow,Cerebellum,Colon	Thymus	Adrenal gland,Esophagus,Gallbladder,Lung,Thyroid,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	NVDPVQHTY	9	4	2.4	35	7	22	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Colon,Esophagus,Gallbladder,Heart,Kidney,Liver,Lung,Lymph node,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	15	4	16	9	3	10	Aorta,Bone marrow,Brain,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	EIDKNDHLY	9	4	2.45	12	6	10	Adrenal gland,Colon,Gallbladder,Liver,Lung,Testis,Thymus,Thyroid,Tongue,Trachea	2	3	7	2	2	6	Colon,Liver	Testis,Thymus	Adrenal gland,Gallbladder,Lung,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	VSDPVGVLY	9	4	2.6499999	7	4	6	Bone marrow,Colon,Lung,Thymus,Thyroid,Trachea	2	2	3	2	1	3	Bone marrow,Colon	Thymus	Lung,Thyroid,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	YTDPVGVLY	9	4	2.6499999	1	1	1	Liver	1	0	0	1	0	0	Liver		
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	VVDNLQHLY	9	4	2.6999998	5	4	4	Lung,Thymus,Thyroid,Tongue	0	2	3	0	1	3		Thymus	Lung,Thyroid,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	VLDFITHLY	9	4	2.7	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	EVAPAGASY	9	4	2.8	3	2	3	Esophagus,Spleen,Thymus	0	2	1	0	2	1		Spleen,Thymus	Esophagus
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	EEVDVPIKLY	10	4	3.15	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	ESDPIVAQY	9	4	3.2	14	4	8	Aorta,Bone marrow,Esophagus,Heart,Muscle,Skin,Thyroid,Tongue	5	0	9	3	0	5	Aorta,Bone marrow,Heart		Esophagus,Muscle,Skin,Thyroid,Tongue
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	GVDNPGHPY	9	4	3.4	3	3	2	Bladder,Brain	2	0	1	1	0	1	Brain		Bladder
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	GVDVTGPHLY	10	4	3.4	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	EVPEIIPLY	9	4	3.4	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	AVDPTSGQLY	10	4	3.45	43	7	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Pancreas,Prostate,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	20	8	15	9	3	11	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Spleen,Testis,Thymus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Prostate,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	EVLQPIGLTY	10	4	3.45	4	1	4	Lymph node,Spleen,Tongue,Trachea	0	1	3	0	1	3		Spleen	Lymph node,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	VVDRIFSLY	9	4	3.45	2	2	1	Thymus	0	2	0	0	1	0		Thymus	
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	FTDVIGHY	8	4	3.5	2	2	2	Lung,Thymus	0	1	1	0	1	1		Thymus	Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	EEDPNTHILY	10	4	3.5	1	1	1	Lung	0	0	1	0	0	1			Lung
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	HVDEIKELY	9	4	3.7	22	7	16	Adrenal gland,Aorta,Bladder,Cerebellum,Colon,Gallbladder,Heart,Liver,Lung,Skin,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea	6	5	11	5	3	8	Aorta,Cerebellum,Colon,Heart,Liver	Spleen,Testis,Thymus	Adrenal gland,Bladder,Gallbladder,Lung,Skin,Thyroid,Tongue,Trachea
+MAGEA3_A01_EVDPIGHLY_on	EVDPIGHLY	A*01:01	unit	EVDPDTILK	9	4	3.7	2	2	1	Thymus	0	2	0	0	1	0		Thymus	

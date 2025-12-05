@@ -1,0 +1,84 @@
+peptide	pep_len	min_edit	n_tissues	tissues	n_donors
+SLLQHLIGL	9	0	3	Ovary,Thymus,Uterus	2
+ELLQHHGL	8	3	2	Adrenal gland,Lung	1
+SLLKNLIYL	9	3	3	Kidney,Liver,Spleen	3
+SLLQTNIAL	9	3	2	Lung,Ovary	3
+NLLQALITL	9	3	1	Ovary	1
+SLLQHVLLL	9	3	1	Ovary	1
+ARLQGLIL	8	4	1	Lung	1
+LLSHLHYL	8	4	1	Lung	1
+LQALHIGL	8	4	1	Lung	1
+SPTVHLGL	8	4	1	Bone marrow	1
+YQLQHLTL	8	4	1	Bone marrow	1
+SLLDKIIGA	9	4	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Ovary,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	6
+SLAQYLINV	9	4	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	6
+SLLQTLYKV	9	4	22	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	6
+SLLSHVEQL	9	4	18	Adrenal gland,Aorta,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Spleen,Testis,Thymus,Thyroid,Uterus	6
+VLLSHLSYL	9	4	18	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Thymus,Thyroid,Tongue,Trachea,Uterus	6
+FLLQHQTFL	9	4	16	Adrenal gland,Aorta,Bone marrow,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Thymus,Tongue,Uterus	6
+ILLSHLHYL	9	4	15	Adrenal gland,Bone marrow,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Ovary,Pancreas,Small intestine,Spleen,Thyroid,Tongue,Uterus	5
+SLLDNMIGV	9	4	14	Aorta,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Ovary,Pancreas,Skin,Small intestine,Spleen,Thymus,Uterus	6
+SLAQYLINA	9	4	13	Adrenal gland,Bladder,Bone marrow,Cerebellum,Kidney,Liver,Lung,Ovary,Pancreas,Spleen,Thymus,Thyroid,Trachea	6
+SLIGHLQTL	9	4	13	Adrenal gland,Bone marrow,Cerebellum,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Thymus	6
+SLLQALNEV	9	4	12	Adrenal gland,Cerebellum,Kidney,Liver,Lung,Ovary,Pancreas,Spleen,Testis,Thymus,Tongue,Uterus	6
+ALLDNNIGL	9	4	9	Adrenal gland,Colon,Kidney,Liver,Lung,Ovary,Pancreas,Spleen,Thymus	6
+ALLQRLEAL	9	4	7	Adrenal gland,Bone marrow,Liver,Lung,Ovary,Spleen,Thymus	4
+SLLPYLPML	9	4	6	Kidney,Lung,Ovary,Spleen,Thymus,Uterus	5
+SLMSHAIEL	9	4	5	Bone marrow,Lung,Ovary,Thymus,Uterus	6
+SLLEKSLGL	9	4	5	Adrenal gland,Bone marrow,Kidney,Ovary,Thymus	5
+SLLDSVVGL	9	4	4	Bone marrow,Kidney,Ovary,Thymus	5
+SLLGHLMIV	9	4	4	Cerebellum,Lung,Ovary,Thymus	4
+SLLRHLEKV	9	4	4	Adrenal gland,Kidney,Lung,Ovary	4
+DLLQRLDAL	9	4	4	Bone marrow,Liver,Lung,Spleen	1
+SLLQQLENV	9	4	3	Lung,Spleen,Thymus	4
+SLLASLHTL	9	4	3	Bone marrow,Lung,Thymus	3
+SLSQELVGV	9	4	3	Kidney,Ovary,Spleen	2
+SLLPQLIEV	9	4	2	Bone marrow,Liver	4
+ALLPHLYTL	9	4	2	Lung,Ovary	2
+ILIEHLYGL	9	4	2	Lung,Ovary	2
+KLLDLLEGL	9	4	2	Ovary,Thymus	2
+RLLQLLLQL	9	4	2	Bone marrow,Ovary	2
+RLLQTLPQL	9	4	2	Ovary,Thymus	2
+SELQVLLGY	9	4	2	Ovary,Thymus	2
+SILDGLIHL	9	4	2	Ovary,Thymus	2
+SILQTLILV	9	4	2	Ovary,Thymus	2
+SLFQSRISL	9	4	2	Ovary,Thymus	2
+SLLDPLWTL	9	4	2	Ovary,Thymus	2
+SLLQDLVSV	9	4	2	Ovary,Thymus	2
+SLLQTQHAL	9	4	2	Lung,Ovary	2
+SLLYHLTAV	9	4	2	Lung,Ovary	2
+SVLGALIGV	9	4	2	Ovary,Thymus	2
+VLLRVLILL	9	4	2	Kidney,Ovary	2
+SLIQHLEEI	9	4	2	Adrenal gland,Spleen	1
+SLLEEKILL	9	4	2	Kidney,Liver	1
+SLLQRSMSL	9	4	2	Lung,Spleen	1
+VLQQRLIAL	9	4	2	Lung,Spleen	1
+SLLQQLAEA	9	4	1	Spleen	4
+ELLKRLIAL	9	4	1	Spleen	1
+ELLQKVITL	9	4	1	Lung	1
+FLLQHVQEL	9	4	1	Lung	1
+GLLQFTILL	9	4	1	Ovary	1
+KLLKNLIGI	9	4	1	Ovary	1
+KLLQNNYGL	9	4	1	Ovary	1
+KLSQYLIQL	9	4	1	Ovary	1
+KLYQHEINL	9	4	1	Ovary	1
+RLLESLIRL	9	4	1	Ovary	1
+SILSLLIKL	9	4	1	Ovary	1
+SLFEHFIEL	9	4	1	Ovary	1
+SLFPHAICL	9	4	1	Lung	1
+SLIEVVIGL	9	4	1	Ovary	1
+SLIKHKIML	9	4	1	Lung	1
+SLLAAPIML	9	4	1	Ovary	1
+SLLDTLVLL	9	4	1	Ovary	1
+SLLLEVIEL	9	4	1	Ovary	1
+SLLLKLIAV	9	4	1	Lung	1
+SLLPQLTGA	9	4	1	Ovary	1
+SLLQGSPHL	9	4	1	Thymus	1
+SLLQSILQL	9	4	1	Ovary	1
+SLLSDIIAL	9	4	1	Ovary	1
+SLLSELLGV	9	4	1	Ovary	1
+SLLSGLVRL	9	4	1	Ovary	1
+SLLTQPIFL	9	4	1	Kidney	1
+SLSDALISL	9	4	1	Ovary	1
+SLVPHNYGL	9	4	1	Ovary	1
+VLQQHLETL	9	4	1	Ovary	1

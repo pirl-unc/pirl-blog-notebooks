@@ -1,0 +1,84 @@
+peptide	pep_len	unit_dist	weighted_dist	n_hits	n_donors	n_tissues	tissues	protected_hits	tolerated_hits	uncertain_hits	protected_tissues_n	tolerated_tissues_n	uncertain_tissues_n	protected_tissues	tolerated_tissues	uncertain_tissues
+SLLQHLIGL	9	0	0.0	3	2	3	Ovary,Thymus,Uterus	0	3	0	0	3	0		Ovary,Thymus,Uterus	
+SLLQHVLLL	9	3	0.95000005	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+NLLQALITL	9	3	2.0	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLLQTNIAL	9	3	2.35	3	3	2	Lung,Ovary	0	1	2	0	1	1		Ovary	Lung
+SLLKNLIYL	9	3	2.45	4	3	3	Kidney,Liver,Spleen	2	2	0	2	1	0	Kidney,Liver	Spleen	
+ELLQHHGL	8	3	2.75	2	1	2	Adrenal gland,Lung	0	0	2	0	0	2			Adrenal gland,Lung
+SLLDKIIGA	9	4	1.2	56	6	25	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Muscle,Ovary,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	23	10	23	10	5	10	Aorta,Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Lung,Lymph node,Muscle,Skin,Thyroid,Tongue,Trachea
+SLLSELLGV	9	4	1.3	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLMSHAIEL	9	4	1.45	9	6	5	Bone marrow,Lung,Ovary,Thymus,Uterus	2	4	3	1	3	1	Bone marrow	Ovary,Thymus,Uterus	Lung
+SLLDSVVGL	9	4	1.6999999	5	5	4	Bone marrow,Kidney,Ovary,Thymus	3	2	0	2	2	0	Bone marrow,Kidney	Ovary,Thymus	
+SLLEKSLGL	9	4	1.7	7	5	5	Adrenal gland,Bone marrow,Kidney,Ovary,Thymus	4	2	1	2	2	1	Bone marrow,Kidney	Ovary,Thymus	Adrenal gland
+SILQTLILV	9	4	1.75	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+SLLLKLIAV	9	4	1.75	1	1	1	Lung	0	0	1	0	0	1			Lung
+SLLQSILQL	9	4	1.75	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLSQELVGV	9	4	1.8	3	2	3	Kidney,Ovary,Spleen	1	2	0	1	2	0	Kidney	Ovary,Spleen	
+SLIEVVIGL	9	4	1.8499999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLLDNMIGV	9	4	1.85	24	6	14	Aorta,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Ovary,Pancreas,Skin,Small intestine,Spleen,Thymus,Uterus	12	5	7	7	4	3	Aorta,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Thymus,Uterus	Esophagus,Lung,Skin
+ELLQKVITL	9	4	1.85	1	1	1	Lung	0	0	1	0	0	1			Lung
+ILIEHLYGL	9	4	1.9	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+SVLGALIGV	9	4	1.9	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+SLIQHLEEI	9	4	1.9	2	1	2	Adrenal gland,Spleen	0	1	1	0	1	1		Spleen	Adrenal gland
+SLLQRSMSL	9	4	1.9000001	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+SLLQDLVSV	9	4	1.9499999	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+SLLGHLMIV	9	4	1.95	5	4	4	Cerebellum,Lung,Ovary,Thymus	1	2	2	1	2	1	Cerebellum	Ovary,Thymus	Lung
+SLLSGLVRL	9	4	1.95	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLVPHNYGL	9	4	1.95	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLAQYLINV	9	4	2.05	49	6	23	Adrenal gland,Aorta,Bladder,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Gallbladder,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	20	10	19	9	5	9	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Bladder,Esophagus,Gallbladder,Lung,Lymph node,Thyroid,Tongue,Trachea
+SLLQTLYKV	9	4	2.05	45	6	22	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Skin,Small intestine,Spleen,Testis,Thymus,Thyroid,Tongue,Trachea,Uterus	17	11	17	9	5	8	Bone marrow,Brain,Cerebellum,Colon,Heart,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Esophagus,Lung,Lymph node,Skin,Thyroid,Tongue,Trachea
+SLLQQLAEA	9	4	2.05	4	4	1	Spleen	0	4	0	0	1	0		Spleen	
+SLLSHVEQL	9	4	2.0500002	29	6	18	Adrenal gland,Aorta,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Spleen,Testis,Thymus,Thyroid,Uterus	11	9	9	8	5	5	Aorta,Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Pancreas	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid
+SILSLLIKL	9	4	2.0500002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLLSDIIAL	9	4	2.1	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLAQYLINA	9	4	2.2	21	6	13	Adrenal gland,Bladder,Bone marrow,Cerebellum,Kidney,Liver,Lung,Ovary,Pancreas,Spleen,Thymus,Thyroid,Trachea	9	3	9	5	3	5	Bone marrow,Cerebellum,Kidney,Liver,Pancreas	Ovary,Spleen,Thymus	Adrenal gland,Bladder,Lung,Thyroid,Trachea
+SLFPHAICL	9	4	2.25	1	1	1	Lung	0	0	1	0	0	1			Lung
+SELQVLLGY	9	4	2.3	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+SLLYHLTAV	9	4	2.3	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+FLLQHVQEL	9	4	2.3000002	1	1	1	Lung	0	0	1	0	0	1			Lung
+SLFEHFIEL	9	4	2.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+VLQQRLIAL	9	4	2.4	2	1	2	Lung,Spleen	0	1	1	0	1	1		Spleen	Lung
+VLLSHLSYL	9	4	2.4499998	31	6	18	Adrenal gland,Bone marrow,Brain,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Thymus,Thyroid,Tongue,Trachea,Uterus	11	8	12	7	4	7	Bone marrow,Brain,Cerebellum,Colon,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Esophagus,Lung,Lymph node,Thyroid,Tongue,Trachea
+SLIGHLQTL	9	4	2.45	23	6	13	Adrenal gland,Bone marrow,Cerebellum,Esophagus,Kidney,Liver,Lung,Lymph node,Ovary,Pancreas,Small intestine,Spleen,Thymus	10	7	6	6	3	4	Bone marrow,Cerebellum,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Thymus	Adrenal gland,Esophagus,Lung,Lymph node
+KLLKNLIGI	9	4	2.45	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLLDTLVLL	9	4	2.5	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLLQALNEV	9	4	2.55	20	6	12	Adrenal gland,Cerebellum,Kidney,Liver,Lung,Ovary,Pancreas,Spleen,Testis,Thymus,Tongue,Uterus	5	9	6	4	5	3	Cerebellum,Kidney,Liver,Pancreas	Ovary,Spleen,Testis,Thymus,Uterus	Adrenal gland,Lung,Tongue
+SLLPQLIEV	9	4	2.55	5	4	2	Bone marrow,Liver	5	0	0	2	0	0	Bone marrow,Liver		
+SILDGLIHL	9	4	2.5500002	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+SLLPQLTGA	9	4	2.5500002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+ELLKRLIAL	9	4	2.6	1	1	1	Spleen	0	1	0	0	1	0		Spleen	
+SLLLEVIEL	9	4	2.6	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLLRHLEKV	9	4	2.6499999	6	4	4	Adrenal gland,Kidney,Lung,Ovary	2	1	3	1	1	2	Kidney	Ovary	Adrenal gland,Lung
+SLLQQLENV	9	4	2.6499999	4	4	3	Lung,Spleen,Thymus	0	3	1	0	2	1		Spleen,Thymus	Lung
+KLLQNNYGL	9	4	2.6499999	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+ALLQRLEAL	9	4	2.65	8	4	7	Adrenal gland,Bone marrow,Liver,Lung,Ovary,Spleen,Thymus	3	3	2	2	3	2	Bone marrow,Liver	Ovary,Spleen,Thymus	Adrenal gland,Lung
+RLLQLLLQL	9	4	2.65	2	2	2	Bone marrow,Ovary	1	1	0	1	1	0	Bone marrow	Ovary	
+SLIKHKIML	9	4	2.65	1	1	1	Lung	0	0	1	0	0	1			Lung
+ILLSHLHYL	9	4	2.6999998	25	5	15	Adrenal gland,Bone marrow,Cerebellum,Colon,Esophagus,Kidney,Liver,Lung,Ovary,Pancreas,Small intestine,Spleen,Thyroid,Tongue,Uterus	11	6	8	7	3	5	Bone marrow,Cerebellum,Colon,Kidney,Liver,Pancreas,Small intestine	Ovary,Spleen,Uterus	Adrenal gland,Esophagus,Lung,Thyroid,Tongue
+SLLTQPIFL	9	4	2.7	1	1	1	Kidney	1	0	0	1	0	0	Kidney		
+DLLQRLDAL	9	4	2.75	4	1	4	Bone marrow,Liver,Lung,Spleen	2	1	1	2	1	1	Bone marrow,Liver	Spleen	Lung
+ALLPHLYTL	9	4	2.75	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+SLLDPLWTL	9	4	2.85	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+FLLQHQTFL	9	4	2.9499998	29	6	16	Adrenal gland,Aorta,Bone marrow,Colon,Esophagus,Heart,Kidney,Liver,Lung,Lymph node,Ovary,Small intestine,Spleen,Thymus,Tongue,Uterus	12	8	9	7	4	5	Aorta,Bone marrow,Colon,Heart,Kidney,Liver,Small intestine	Ovary,Spleen,Thymus,Uterus	Adrenal gland,Esophagus,Lung,Lymph node,Tongue
+SLFQSRISL	9	4	2.9499998	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+KLYQHEINL	9	4	2.9499998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+ALLDNNIGL	9	4	3.0	13	6	9	Adrenal gland,Colon,Kidney,Liver,Lung,Ovary,Pancreas,Spleen,Thymus	5	3	5	4	3	2	Colon,Kidney,Liver,Pancreas	Ovary,Spleen,Thymus	Adrenal gland,Lung
+LLSHLHYL	8	4	3.0	1	1	1	Lung	0	0	1	0	0	1			Lung
+SLLEEKILL	9	4	3.05	2	1	2	Kidney,Liver	2	0	0	2	0	0	Kidney,Liver		
+YQLQHLTL	8	4	3.1	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+VLQQHLETL	9	4	3.1999998	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SPTVHLGL	8	4	3.25	1	1	1	Bone marrow	1	0	0	1	0	0	Bone marrow		
+RLLESLIRL	9	4	3.25	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLLQGSPHL	9	4	3.25	1	1	1	Thymus	0	1	0	0	1	0		Thymus	
+LQALHIGL	8	4	3.3	1	1	1	Lung	0	0	1	0	0	1			Lung
+SLLASLHTL	9	4	3.3000002	4	3	3	Bone marrow,Lung,Thymus	1	1	2	1	1	1	Bone marrow	Thymus	Lung
+VLLRVLILL	9	4	3.3000002	3	2	2	Kidney,Ovary	1	2	0	1	1	0	Kidney	Ovary	
+RLLQTLPQL	9	4	3.3000002	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+SLLQTQHAL	9	4	3.3000002	2	2	2	Lung,Ovary	0	1	1	0	1	1		Ovary	Lung
+KLSQYLIQL	9	4	3.3000002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLSDALISL	9	4	3.3000002	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+GLLQFTILL	9	4	3.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLLAAPIML	9	4	3.35	1	1	1	Ovary	0	1	0	0	1	0		Ovary	
+SLLPYLPML	9	4	3.5	7	5	6	Kidney,Lung,Ovary,Spleen,Thymus,Uterus	1	5	1	1	4	1	Kidney	Ovary,Spleen,Thymus,Uterus	Lung
+KLLDLLEGL	9	4	3.5	2	2	2	Ovary,Thymus	0	2	0	0	2	0		Ovary,Thymus	
+ARLQGLIL	8	4	3.5	1	1	1	Lung	0	0	1	0	0	1			Lung
